@@ -736,25 +736,3 @@ https://nimble.dashstreams.net/onestudio/travel4u/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/She_Tv_Network/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-MTVTGNetwork.png?raw=true" group-title="Adult Lifestyle & Interests",MyTVToGo | bspoke TV
 https://bspoketv.nexustreamer.com/mytvtogo/master.m3u8
-
-#EXTINF:-1 tvg-id="I206.10092.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="Canadian TV DD",CBC TV (Quebec) (Geo)
-https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
-#EXTINF:-1 tvg-id="I208.10097.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="Canadian TV DD",CBC TV (Ontario) (Geo)
-https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBC_Olympics_400x400.png?raw=true" group-title="Canadian TV",CBC Olympics (Geo-CA) | HD
-https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_1.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBC_Olympics_400x400.png?raw=true" group-title="Canadian TV",CBC Olympics (Geo-CA) | SD
-https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_3.m3u8
-
-#EXTINF:-1 tvg-id="I126.15209.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="Quebec TV DD",ICI RDI (French News)
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-
-#EXTINF:-1 tvg-id="I112.10089.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Quebec TV DD",ICI Tele (Montreal) (Geo)
-https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
-
-#EXTINF:-1 tvg-id="I111.16732.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Quebec TV DD",ICI Tele (Quebec)
-https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_2500.m3u8
-
-#EXTINF:-1 tvg-id="I94.16378.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVA_540x540.png?raw=true" group-title="Quebec TV DD",TVA (Geo)
-https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
-
