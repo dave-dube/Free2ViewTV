@@ -127,6 +127,18 @@
 # Update: 11/25/2020 - MAINTENANCE + NEW: Updated channels and new VOD / radio streams in "TEMP | Merry Christmas" category.
 # Update: 11/26/2020 - NEW CHANNELS ADDED: Added new Holiday channels from Pluto TV UK in "TEMP | Merry Christmas" category.
 # Update: 11/27/2020 - NEW CHANNELS ADDED: Added Mr. Pickles, Squidbillies, and Tim & Eric Awesome Show streams in "[adult swim]".
+# Update: 11/30/2020 - NEW: Changed "PBS Member Stations (Geo-USA)" to "EPG | PBS (Geo-USA)" with new EPG source and more streams.
+# Update: 11/30/2020 - PLAYLIST MAINTENANCE: Cleaned up "PBS | NPR" category; THIRTEEN moved out as it is in "EPG | PBS (Geo-USA)".
+# Update: 11/30/2020 - NEW CHANNEL: World Channel added to "PBS | NPR" category - https://video.aptv.org/show/world-channel/
+# Update: 12/01/2020 - NEW CHANNEL: Added 'Home For The Holidays' channel from  Pluto TV in "TEMP | Merry Christmas" category.
+# Update: 12/01/2020 - NEW CHANNELS: iHeart Radio Christmas TV streams (music w/ album covers on screen) in "TEMP | Merry Christmas".
+# Update: 12/01/2020 - NEW CHANNEL: "TEMP | Merry Christmas": Stingray Naturescape running Fireplaces 24/7 over the Holidays.
+# Update: 12/02/2020 - NEW CHANNELS ADDED: Several new channels from The Roku Channel US have been added. 
+# Update: 12/02/2020 - MAINTENANCE + NEW: Updated streams / added Wipeout Xtra in "Gameshows & Competitions" category.
+# Update: 12/03/2020 - MAINTENANCE: Relocated "Nostalgia Flicks" after "Movies Plus" to fit better into 'movies' section of playlist. 
+# Update: 12/03/2020 - MAINTENANCE + NEW: Updated streams / added Kartoon Fun Time in "Nostalgia Flicks" category.
+# Update: 12/03/2020 - NEW SOURCES: New official sources for Spydar TV and Kartoon Fun Time, courtesy of https://morcaman.com
+# Update: 12/04/2020 - NEW CHANNELS ADDED: by request from user, added additional channels in "International | Italy" category.
 #
 # ************************************************************************************************************************************* 
 
@@ -215,6 +227,29 @@ https://dmtv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Runtime_120x120.png?raw=true" group-title="Movies Plus",RunTime Free Movies
 https://ammoruntime-plex.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/247RetroTV.png" group-title="Nostalgia Flicks",247 Retro TV
+http://hlsdpi-cdn-chqtx02.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NostTV_SpydarTV.png" group-title="Nostalgia Flicks",Spydar TV
+https://simultv.s.llnwi.net/n4s4/Spydar/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/KartoonFunTime_209x209.png?raw=true" group-title="Nostalgia Flicks",Kartoon Fun Time
+https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HollywoodClassics_v2_290x290.png?raw=true" group-title="Nostalgia Flicks",Hollywood Classics
+https://vitor-hollywoodclassics-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/AmericanHorrors.png" group-title="Nostalgia Flicks",American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NostTV_AmClassicNetwork.png" group-title="Nostalgia Flicks",American Classic Network
+https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NostTV_ClassicTV4U.png" group-title="Nostalgia Flicks",Classic TV 4U
+https://nimble.dashstreams.net/onestudio/classictv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NostTV_Westerns4U.png" group-title="Nostalgia Flicks",Westerns 4U
+https://nimble.dashstreams.net/onestudio/western4u/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SciFi4U_576x576.png?raw=true" group-title="Nostalgia Flicks",Sci-Fi 4U
+https://nimble.dashstreams.net/onestudio/SciFiTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HorifiedTV_898x898.png?raw=true" group-title="Nostalgia Flicks",Horrified TV
+https://nimble.dashstreams.net/onestudio/horrified/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NostTV_Movies_400x400.png?raw=true" group-title="Nostalgia Flicks",It's At The Movies
+https://59d39900ebfb8.streamlock.net/letsgotothemovies/letsgotothemovies/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Free-Movies_300x300.png?raw=true" group-title="FilmRise Digital Networks",FilmRise | Free Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8?p=roku
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Classic-TV_300x300.png?raw=true" group-title="FilmRise Digital Networks",FilmRise | Classic TV
@@ -301,27 +336,6 @@ https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream.m3u8
 http://adultswim-vodlive.cdn.turner.com/live/tim-and-eric/stream.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="[adult swim]",Relaxing Fish 
 https://media.cdn.adultswim.com/streams/playlists/fishcam.backup.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/247RetroTV.png" group-title="Nostalgia Flicks",247 Retro TV
-http://hlsdpi-cdn-chqtx02.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HollywoodClassics_v2_290x290.png?raw=true" group-title="Nostalgia Flicks",Hollywood Classics
-https://fef5003bb7e7447ab21a2c3fd81e3b74.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_HollywoodClassics/playlist.m3u8?ads.wurl_channel=532&ads.wurl_name=HollywoodClassics&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5f0ff265d71dcb00449ec02d&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36+OPR%2F70.0.3728.95&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/AmericanHorrors.png" group-title="Nostalgia Flicks",American Horrors
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NostTV_AmClassicNetwork.png" group-title="Nostalgia Flicks",American Classic Network
-https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NostTV_ClassicTV4U.png" group-title="Nostalgia Flicks",Classic TV 4U
-https://nimble.dashstreams.net/onestudio/classictv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NostTV_SpydarTV.png" group-title="Nostalgia Flicks",Spydar TV
-https://nimble.dashstreams.net/onestudio/spydar/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NostTV_Westerns4U.png" group-title="Nostalgia Flicks",Westerns 4U
-https://nimble.dashstreams.net/onestudio/western4u/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SciFi4U_576x576.png?raw=true" group-title="Nostalgia Flicks",Sci-Fi 4U
-https://nimble.dashstreams.net/onestudio/SciFiTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HorifiedTV_898x898.png?raw=true" group-title="Nostalgia Flicks",Horrified TV
-https://nimble.dashstreams.net/onestudio/horrified/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NostTV_Movies_400x400.png?raw=true" group-title="Nostalgia Flicks",It's At The Movies
-https://59d39900ebfb8.streamlock.net/letsgotothemovies/letsgotothemovies/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TBN_TBN_485x485.png?raw=true" group-title="Faith & Spirituality",TBN US
 https://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8?Faith
@@ -595,18 +609,20 @@ https://hdtv.prod2.ioio.tv/broker/play/b3bd10d9-0a2d-4307-b725-ffe797d40594.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/BUZZR.png" group-title="Gameshows & Competitions",Buzzr | Webstream
 https://buzzrota-web.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/BUZZR.png" group-title="Gameshows & Competitions",Buzzr | Freemantle
-https://buzzr-roku-us.amagi.tv/hls/amagi_hls_data_buzzrAAAA-buzzr/CDN/playlist.m3u8?rdid=6d139079-f288-57b6-9e26-5e3801ae96af&coppa=false&is_lat=1&content=5b602e2bf2b9502ba0a6e715f540da56&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/BUZZR.png" group-title="Gameshows & Competitions",Buzzr | Source 2
+https://buzzr-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GameShowCentral_203x203.png?raw=true" group-title="Gameshows & Competitions",Game Show Central | HD
-https://3fd18dd6813c49e09df1b7ce494b7ed5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_GameShowCentral/playlist.m3u8?ads.wurl_channel=462&ads.wurl_name=GameShowCentral&ads.ip=77.111.246.13&ads.rdid=6d139079-f288-57b6-9e26-5e3801ae96af&ads.coppa=false&ads.is_lat=1&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F83.0.4103.97+Safari%2F537.36+OPR%2F69.0.3686.36&ads.content=3241c85298d253a380f4284f23b71fa9&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.platform=web&ads.content_type=livefeed&ads.content_rating=TV14
+https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DealOrNoDeal_400x400.png?raw=true" group-title="Gameshows & Competitions",Deal or No Deal | Sinclair
 https://endemol-dealornodeal-1.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DealOrNoDeal_400x400.png?raw=true" group-title="Gameshows & Competitions",Deal or No Deal | Endemol
-https://pcor5.manifest.auditude.com/auditude/variant/endemol_dealornodeal_1/1ed6401b-8358-48db-8902-51cc4c6c6ec7/aHR0cHM6Ly9lbmRlbW9sLWRlYWxvcm5vZGVhbC0xLnJva3Uud3VybC5jb20vbWFuaWZlc3QvcGxheWxpc3QubTN1OA.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=468;distributor=roku;ip=77.111.246.7;rdid=85a1184d-06da-5f54-9850-8046b71fea91;coppa=false;is_lat=1;ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F81.0.4044.138+Safari%2F537.36+OPR%2F68.0.3618.125;content=039d1c6eb84b58069cff48d40547d88e;genre=ROKU_ADS_CONTENT_GENRE;platform=web;content_type=livefeed;content_rating=TVG&ptcueformat=turner
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DealOrNoDeal_400x400.png?raw=true" group-title="Gameshows & Competitions",Deal or No Deal | Source 2
+https://endemol-dealornodeal-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WipeoutXtra_190x190.png?raw=true" group-title="Gameshows & Competitions",Wipeout Xtra | HD
+https://endemol-wipeoutxtra-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FamilyFeud_755x755.png?raw=true" group-title="Gameshows & Competitions",The Best of 'Family Feud'
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufamilyfeud/CDN/playlist.m3u8?p=roku&rdid=6d139079-f288-57b6-9e26-5e3801ae96af&coppa=false&is_roku_lat=1&platform=web&content=5fbceb7c5ced5eb097f8c35f6ab34af2&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=CHANNEL_STORE_CODE&bmodel=ROKU_BIZ_MODEL&tags=ROKU_CONTENT_TAGS&studio_id=ROKU_ADS_PROVIDER_ID&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufamilyfeud/CDN/playlist.m3u8?p=roku
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GlobalGotTalent_800x800.png?raw=true" group-title="Gameshows & Competitions",Global Got Talent
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8?p=roku&rdid=6d139079-f288-57b6-9e26-5e3801ae96af&coppa=false&is_roku_lat=1&platform=web&content=d96f3c8d2aac5bf29691e75cd09851a2&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=us&bmodel=ROKU_BIZ_MODEL&tags=ROKU_CONTENT_TAGS&studio_id=got_talent_global&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&is_lat=1&channel_id=151908
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8?p=roku
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TWiT.png" group-title="Geeks + Gaming",TWiT | This Week in Tech
 http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
@@ -942,16 +958,8 @@ https://feed.rightnowtelevision.com/live/smil:rntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BTN_355x355.png?raw=true" group-title="USA FREE OTA TV",Blues Television Network
 https://uni01rtmp.tulix.tv/aitterce/aitterce/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS | NPR",PBS | WPSU TV | Source 1
-https://ssc1.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS | NPR",PBS | WPSU TV | Source 2
-https://ssc2.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS | NPR",PBS | WPSU TV | Source 3
-https://ssc3.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS | NPR",PBS | WPSU TV | Source 4
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS | NPR",PBS | WPSU TV | HD
 https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS | NPR",PBS | WNET TV | Thirteen (Geo-USA)
-https://rtmp-wnetdt.lls.cdn.pbs.org/rtmp-wnetdt/80f93f7f-9742-47b8-aa58-0c0ceb866d9f/primary.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS | NPR",PBS | Maryland Public TV
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS | NPR",PBS | KET TV HD
@@ -962,8 +970,10 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 https://live-cdn.pbskids.org/out/u/est.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS-Kids_625x625.png?raw=true" group-title="PBS | NPR",PBS Kids (Geo-USA) Hawaii HD
 https://live-cdn.pbskids.org/out/u/hast.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBSWorld_972x972.png?raw=true" group-title="PBS | NPR",PBS | World Channel
+https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NPR-Radio_256x256.png?raw=true" group-title="PBS | NPR",** NPR Radio Networks **
-https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/videos/5B-OldRadio_modified.mp4?1
+https://od.lk/s/MF8yMjI5MDcxMDNf/NPR_Wallpaper_1280x720.mp4
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NPR-Radio_256x256.png?raw=true" group-title="PBS | NPR" radio="true",WPSU FM 91.5 News & Classical 
 https://wpsu-ice.streamguys1.com/wpsu1
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NPR-Radio_256x256.png?raw=true" group-title="PBS | NPR" radio="true",WPSU Radio 2 Public Radio Mix 
@@ -977,201 +987,203 @@ https://ideastream.streamguys1.com/wclv.mp3
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NPR-Radio_256x256.png?raw=true" group-title="PBS | NPR" radio="true",NPR | NPR Hourly Newscast
 http://pd.npr.org/anon.npr-mp3/npr/news/newscast.mp3
 
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",** PBS Member Stations**
-https://od.lk/s/MF8yMTg4MTcwOTJf/PBS_Generic-Promo_We-Are-The-Curious_2016.mp4
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",AL | WBIQ PBS Birmingham
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",** EPG Source Info **
+https://od.lk/s/MF8yMjI5MDQ1OTNf/PBS_MHLinks_v1.mp4
+#EXTINF:-1 tvg-id="WBIQ" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",AL | WBIQ PBS Birmingham
 https://wbiqdt.lls.cdn.pbs.org/wbiqdt/fa2db1d4-85a0-4a75-aa3d-1f5028578d52/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",AK | KAKM PBS Anchorage
+#EXTINF:-1 tvg-id="KAKM" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",AK | KAKM PBS Anchorage
 https://kakmdt.lls.cdn.pbs.org/kakmdt/241f6bfb-7b98-4cbd-af3a-3bf219bdb80f/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",AK | KUAC PBS Fairbanks
-https://pbs.lls.cdn.pbs.org/pst/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",AZ | KUAT PBS Tucson
+#EXTINF:-1 tvg-id="KUAC" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",AK | KUAC PBS Fairbanks
+https://pbs.lls.cdn.pbs.org/pst/index.m3u8?KUAC
+#EXTINF:-1 tvg-id="KUAT" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",AZ | KUAT PBS Tucson
 https://kuatdt.lls.cdn.pbs.org/kuatdt/3ac0f71f-c3c4-4e14-92ef-ccd30b4daca6/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",AR | KETS PBS Conway
+#EXTINF:-1 tvg-id="KETS" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",AR | KETS PBS Conway
 https://ketsdt.lls.cdn.pbs.org/ketsdt/b5545820-5d66-4396-9f94-b5bd58aa34d9/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",CA | KIXE PBS Redding
+#EXTINF:-1 tvg-id="KIXE" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",CA | KIXE PBS Redding
 https://kixedt.lls.cdn.pbs.org/kixedt/327603f6-bcbd-4894-b499-9d02bc13c953/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",CA | KPBS PBS San Diego
+#EXTINF:-1 tvg-id="KPBS" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",CA | KPBS PBS San Diego
 https://kpbsdt.lls.cdn.pbs.org/kpbsdt/78ac901f-6484-42ba-a986-71ef34d2cabf/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",CA | KVIE PBS Sacramento
+#EXTINF:-1 tvg-id="KVIE" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",CA | KVIE PBS Sacramento
 https://kviedt.lls.cdn.pbs.org/kviedt/4d8fea94-86b8-4663-9c69-4c4cb62257e4/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",CA | KOCE PBS Los Angeles
+#EXTINF:-1 tvg-id="KOCE" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",CA | KOCE PBS Los Angeles
 https://kocedt.lls.cdn.pbs.org/kocedt/057f6e22-7d9c-4fd6-b968-bc17102698de/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",CA | KRCB PBS Rohnert Park
+#EXTINF:-1 tvg-id="KRCB" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",CA | KRCB PBS Rohnert Park
 https://krcbdt.lls.cdn.pbs.org/krcbdt/08e0ed35-f9dc-4758-9d6d-82c81adcacda/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",CO | KRMA PBS Denver
+#EXTINF:-1 tvg-id="KLCS" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",CA | KLCS PBS Los Angeles
+https://klcsdt.lls.cdn.pbs.org/klcsdt/c39fde04-f0c0-4f41-b797-a2c14938238b/primary.m3u8
+#EXTINF:-1 tvg-id="KRMA" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",CO | KRMA PBS Denver
 https://krmadt.lls.cdn.pbs.org/krmadt/1cebd1cc-9ca8-49e4-8dfc-40aa63a08c6c/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",CO | KBDI PBS Denver-Broomfield
+#EXTINF:-1 tvg-id="KBDI" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",CO | KBDI PBS Denver-Broomfield
 https://kbdidt.lls.cdn.pbs.org/kbdidt/b4721bf0-b2c5-4568-ba88-69954956292f/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",CT | WEDH PBS Hartford
+#EXTINF:-1 tvg-id="WEDH" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",CT | WEDH PBS Hartford
 https://wedhdt.lls.cdn.pbs.org/wedhdt/d7096786-0d6d-4b42-b1b6-df7934b92fcb/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",DC | WETA PBS Arlington
-https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",DC | WHUT PBS Washington
+#EXTINF:-1 tvg-id="WETA" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",DC | WETA PBS Arlington
+https://pbs.lls.cdn.pbs.org/est/index.m3u8?WETA
+#EXTINF:-1 tvg-id="WHUT" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",DC | WHUT PBS Washington
 https://whutdt.lls.cdn.pbs.org/whutdt/722b847a-5e2a-4d14-9429-2d430b10b1ee/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",FL | WEDU PBS Tampa
+#EXTINF:-1 tvg-id="WEDU" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",FL | WEDU PBS Tampa
 https://wedudt.lls.cdn.pbs.org/wedudt/c4ab80c1-ca8c-4a6e-a8b5-c5995919792b/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",FL | WJCT PBS Jacksonville
+#EXTINF:-1 tvg-id="WJCT" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",FL | WJCT PBS Jacksonville
 https://wjctdt.lls.cdn.pbs.org/wjctdt/5eee712c-8713-4283-8af1-c0ba9d25d6fd/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",FL | WSRE PBS Pensacola
+#EXTINF:-1 tvg-id="WSRE" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",FL | WSRE PBS Pensacola
 https://wsredt.lls.cdn.pbs.org/wsredt/fc47f495-57b9-4aea-bb6b-d2ce52b74ea1/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",FL | WUCF PBS Orlando
+#EXTINF:-1 tvg-id="WUCF" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",FL | WUCF PBS Orlando
 https://wucfdt.lls.cdn.pbs.org/wucfdt/70dc9cfa-54dd-47f1-8039-e518544fd496/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",FL | WUFT PBS Gainesville
-https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",IL | WILL PBS Urbana-Champaign
+#EXTINF:-1 tvg-id="WUFT" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",FL | WUFT PBS Gainesville
+https://pbs.lls.cdn.pbs.org/est/index.m3u8?WUFT
+#EXTINF:-1 tvg-id="WGCU" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",FL | WGCU PBS Fort Myers
+https://wgcudt.lls.cdn.pbs.org/wgcudt/19aacc3d-896b-4426-b319-ea0082ef6369/primary.m3u8
+#EXTINF:-1 tvg-id="WILL" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",IL | WILL PBS Urbana-Champaign
 https://willdt.lls.cdn.pbs.org/willdt/11bd36cd-46d5-4c3a-bdc8-ae497a23c712/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",IL | WSIU PBS Carbondale
-https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",IL | WTTW PBS Chicago
+#EXTINF:-1 tvg-id="WSIU" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",IL | WSIU PBS Carbondale
+https://pbs.lls.cdn.pbs.org/est/index.m3u8?WSIU
+#EXTINF:-1 tvg-id="WTTW" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",IL | WTTW PBS Chicago
 https://wttwdt.lls.cdn.pbs.org/wttwdt/8030a253-4b34-463e-82e2-ec0726e24e58/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",IL | WTVP PBS Peoria
+#EXTINF:-1 tvg-id="WTVP" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",IL | WTVP PBS Peoria
 https://wtvpdt.lls.cdn.pbs.org/wtvpdt/41427091-bd65-483d-bdb5-9a4159a5d93e/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",IL | WEIU PBS Charleston
+#EXTINF:-1 tvg-id="WEIU" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",IL | WEIU PBS Charleston
 https://weiudt.lls.cdn.pbs.org/weiudt/85af7dd6-89ae-4fde-9826-79b04c30aaa4/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",IL | WQPT PBS Moline
+#EXTINF:-1 tvg-id="WQPT" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",IL | WQPT PBS Moline
 https://wqptdt.lls.cdn.pbs.org/wqptdt/d431813a-086d-4a12-917a-d160f6b5c4c7/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",IN | WNIN PBS Evansville
+#EXTINF:-1 tvg-id="WNIN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",IN | WNIN PBS Evansville
 https://wnindt.lls.cdn.pbs.org/wnindt/b7b39443-4f87-4569-85f9-ad0594029964/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",IN | WFIU-WTIU Bloomington
+#EXTINF:-1 tvg-id="WTIU" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",IN | WFIU-WTIU Bloomington
 https://wtiudt.lls.cdn.pbs.org/wtiudt/4e2e0d20-9a95-4d3d-81a7-25e391d9883e/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",IN | WVUT PBS Vincennes
+#EXTINF:-1 tvg-id="WVUT" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",IN | WVUT PBS Vincennes
 https://wvutdt.lls.cdn.pbs.org/wvutdt/d6e2cccf-df68-47ab-8d8f-2d28ee301ff1/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",IA | KDIN PBS Des Moines
+#EXTINF:-1 tvg-id="KDIN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",IA | KDIN PBS Des Moines
 https://kdindt.lls.cdn.pbs.org/kdindt/4b65e70a-e262-4290-ae67-45bd0814cafd/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",KS | KPTS PBS Wichita
+#EXTINF:-1 tvg-id="KPTS" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",KS | KPTS PBS Wichita
 https://ktwudt.lls.cdn.pbs.org/ktwudt/164fbea8-3e32-44f3-a701-20ad6de50b72/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",KS | KTWU PBS Topeka
+#EXTINF:-1 tvg-id="KTWU" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",KS | KTWU PBS Topeka
 https://ktwudt.lls.cdn.pbs.org/ktwudt/164fbea8-3e32-44f3-a701-20ad6de50b72/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",KS | KOOD PBS Bunker Hill
+#EXTINF:-1 tvg-id="KOOD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",KS | KOOD PBS Bunker Hill
 https://kooddt.lls.cdn.pbs.org/kooddt/42bf8024-6bd7-4a3f-b945-00a9ae88e8f1/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",KY | WKLE PBS KET Lexington
+#EXTINF:-1 tvg-id="WKLE" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",KY | WKLE PBS KET Lexington
 https://wkledt.lls.cdn.pbs.org/wkledt/61059d95-3011-4270-b9d1-17b88ca25b13/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",LA | WYES PBS Baton Rouge
+#EXTINF:-1 tvg-id="WLPB" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",LA | WLPB PBS Baton Rouge
 https://wlpbdt.lls.cdn.pbs.org/wlpbdt/3b9285dd-13b3-4fec-a9b0-02b57dd8c7ba/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",LA | WYES PBS New Orleans
+#EXTINF:-1 tvg-id="WYES" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",LA | WYES PBS New Orleans
 https://wyesdt.lls.cdn.pbs.org/wyesdt/6c0e9c73-3ad2-45c6-9741-1aa36878006a/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",MA | WGBH PBS Boston
+#EXTINF:-1 tvg-id="WGBH" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",MA | WGBH PBS Boston
 https://wgbhdt.lls.cdn.pbs.org/wgbhdt/7387eb2c-e0ce-4069-82d9-08865df87edf/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",ME | WCBB PBS Lewiston
+#EXTINF:-1 tvg-id="WCBB" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",ME | WCBB PBS Lewiston
 https://wcbbdt.lls.cdn.pbs.org/wcbbdt/48bc2487-14e0-4875-a893-58a0b06ec29e/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",MI | WGVU PBS Detroit
+#EXTINF:-1 tvg-id="WGVU" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",MI | WGVU PBS Detroit
 https://wtvsdt.lls.cdn.pbs.org/wtvsdt/7f382f2c-72eb-4e19-ba1b-1d6d143ae841/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",MI | WCMU PBS Mount Pleasant
+#EXTINF:-1 tvg-id="WCMU" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",MI | WCMU PBS Mount Pleasant
 https://wcmudt.lls.cdn.pbs.org/wcmudt/e435c068-30ee-4296-a9f0-58a561ea9487/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",MI | WKAR PBS East Lansing
+#EXTINF:-1 tvg-id="WKAR" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",MI | WKAR PBS East Lansing
 https://wkardt.lls.cdn.pbs.org/wkardt/357a5517-94ea-409b-8985-f9dc57c82b5f/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",MI | WNMU PBS Marquette
+#EXTINF:-1 tvg-id="WNMU" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",MI | WNMU PBS Marquette
 https://wnmudt.lls.cdn.pbs.org/wnmudt/a3abb950-c4d6-43b8-9299-94556c0ad751/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",MI | WGVU PBS Grand Rapids
+#EXTINF:-1 tvg-id="WGVU" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",MI | WGVU PBS Grand Rapids
 https://wgvudt.lls.cdn.pbs.org/wgvudt/2a6939f7-894c-456c-9c1c-56185bd0a3c4/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",MN | KAWE PBS Lakeland 
+#EXTINF:-1 tvg-id="KAWE" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",MN | KAWE PBS Lakeland 
 https://kawedt.lls.cdn.pbs.org/kawedt/bb77b7f7-78ec-4134-aa62-3902aeca6169/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",MN | KTCA PBS Minneapolis
+#EXTINF:-1 tvg-id="KTCA" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",MN | KTCA PBS Minneapolis
 https://ktcadt.lls.cdn.pbs.org/ktcadt/3742dff1-85cd-42d1-ab39-7ffa8ef10211/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",MN | KWCM PBS Appleton
+#EXTINF:-1 tvg-id="KWCM" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",MN | KWCM PBS Appleton
 https://kwcmdt.lls.cdn.pbs.org/kwcmdt/3c88d7e0-5940-41e0-b7b7-30f728b3ea46/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",MO | KCPT PBS Kansas City
+#EXTINF:-1 tvg-id="KCPT" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",MO | KCPT PBS Kansas City
 https://kcptdt.lls.cdn.pbs.org/kcptdt/b053c129-9506-40e4-810a-7b610b62e58d/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",MO | KMOS PBS Warrensburg
+#EXTINF:-1 tvg-id="KMOS" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",MO | KMOS PBS Warrensburg
 https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",MO | KETC PBS St Louis
+#EXTINF:-1 tvg-id="KETC" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",MO | KETC PBS St Louis
 https://ketcdt.lls.cdn.pbs.org/ketcdt/0436e066-85c7-408b-a4fd-5b492ccb5fd8/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",MO | KOZK PBS Springfield
-https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",MT | KUSM PBS Bozeman
+#EXTINF:-1 tvg-id="KOZK" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",MO | KOZK PBS Springfield
+https://pbs.lls.cdn.pbs.org/est/index.m3u8?KOZK
+#EXTINF:-1 tvg-id="KUSM" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",MT | KUSM PBS Bozeman
 https://kusmdt.lls.cdn.pbs.org/kusmdt/e588e03b-d9c4-4988-aba1-94a3b98e88c2/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",NE | KUON PBS Lincoln
+#EXTINF:-1 tvg-id="KUON" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",NE | KUON PBS Lincoln
 https://kuondt.lls.cdn.pbs.org/kuondt/b107784d-680c-48d5-8d48-ccb870cbb9dc/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",NV | KNPB PBS Reno
+#EXTINF:-1 tvg-id="KNPB" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",NV | KNPB PBS Reno
 https://knpbdt.lls.cdn.pbs.org/knpbdt/6a6a875e-4af4-4e1e-8502-422071b9cdac/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",NV | KLVX PBS Las Vegas
+#EXTINF:-1 tvg-id="KLVX" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",NV | KLVX PBS Las Vegas
 https://klvxdt.lls.cdn.pbs.org/klvxdt/ca45083b-e314-4063-bd2e-0d614f01ea43/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",NJ | WNJT PBS New Jersey
+#EXTINF:-1 tvg-id="WNJT" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",NJ | WNJT PBS New Jersey
 https://rtmp-wnjtdt.lls.cdn.pbs.org/rtmp-wnjtdt/63b643e1-1a13-4dd9-9bab-ff6f7527715f/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",NM | KRWG PBS Las Cruces
+#EXTINF:-1 tvg-id="KRWG" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",NM | KRWG PBS Las Cruces
 https://krwgdt.lls.cdn.pbs.org/krwgdt/fe731d89-e3b5-4a29-b4cc-6118c163a83d/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",NM | KNME PBS Albuquerque
+#EXTINF:-1 tvg-id="KNME" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",NM | KNME PBS Albuquerque
 https://knmedt.lls.cdn.pbs.org/knmedt/97ba98c8-6deb-47b8-9809-2d1f3cc299bf/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",NY | WCFE PBS Plattsburgh
-https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",NY | WNET PBS New York
+#EXTINF:-1 tvg-id="WCFE" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",NY | WCFE PBS Plattsburgh
+https://pbs.lls.cdn.pbs.org/est/index.m3u8?WCFE
+#EXTINF:-1 tvg-id="WNET" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",NY | WNET PBS New York
 https://rtmp-wnetdt.lls.cdn.pbs.org/rtmp-wnetdt/80f93f7f-9742-47b8-aa58-0c0ceb866d9f/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",NY | WMHT PBS Troy
+#EXTINF:-1 tvg-id="WMHT" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",NY | WMHT PBS Troy
 https://wmhtdt.lls.cdn.pbs.org/wmhtdt/0777611a-56f1-4668-8094-932ae7498998/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",NY | WNED PBS Buffalo
+#EXTINF:-1 tvg-id="WNED" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",NY | WNED PBS Buffalo
 https://wneddt.lls.cdn.pbs.org/wneddt/7e1c137a-9e83-4416-8b5a-b81042382e91/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",NY | WXXI PBS Rochester
+#EXTINF:-1 tvg-id="WXXI" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",NY | WXXI PBS Rochester
 https://wxxidt.lls.cdn.pbs.org/wxxidt/d518ca7e-a094-4362-832b-ae1d426d3729/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",NY | WLIW PBS Plainview
+#EXTINF:-1 tvg-id="WLIW" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",NY | WLIW PBS Plainview
 https://rtmp-wliwdt.lls.cdn.pbs.org/rtmp-wliwdt/a58c2765-7e77-4114-9668-75920022c6bc/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",NY | WPBS PBS Watertown
+#EXTINF:-1 tvg-id="WPBS" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",NY | WPBS PBS Watertown
 https://wpbsdt.lls.cdn.pbs.org/wpbsdt/c17cb584-9efe-46fc-ac91-3fb453714069/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",NC | WTVI PBS Charlotte
+#EXTINF:-1 tvg-id="WTVI" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",NC | WTVI PBS Charlotte
 https://wtvidt.lls.cdn.pbs.org/wtvidt/b44fd824-0168-46e3-bcb8-6322cf4c1e11/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",NC | WUNC PBS Chapel Hill
+#EXTINF:-1 tvg-id="WUNC" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",NC | WUNC PBS Chapel Hill
 https://wuncdt.lls.cdn.pbs.org/wuncdt/fa2384b8-9593-4d58-a129-4deb3a1f764a/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",ND | KFME PBS Fargo
+#EXTINF:-1 tvg-id="KFME" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",ND | KFME PBS Fargo
 https://kfmedt.lls.cdn.pbs.org/kfmedt/59cb0666-d4b9-49a8-9738-e84f5e9392f7/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",OH | WBGU PBS Bowling Green
+#EXTINF:-1 tvg-id="WBGU" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",OH | WBGU PBS Bowling Green
 https://wbgudt.lls.cdn.pbs.org/wbgudt/95a51146-e569-4607-b48c-6eec67749c2e/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",OH | WGTE PBS Toledo
-https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",OH | WOSU PBS Columbus
+#EXTINF:-1 tvg-id="WGTE" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",OH | WGTE PBS Toledo
+https://pbs.lls.cdn.pbs.org/est/index.m3u8?WGTE
+#EXTINF:-1 tvg-id="WOSU" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",OH | WOSU PBS Columbus
 https://wosudt.lls.cdn.pbs.org/wosudt/ba216f45-d78e-41cf-a23e-2026f3c99a5a/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",OH | WOUB PBS Athens
+#EXTINF:-1 tvg-id="WOUB" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",OH | WOUB PBS Athens
 https://woubdt.lls.cdn.pbs.org/woubdt/4dc91f2b-0076-46d9-ba82-0c9130cde12c/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",OR | KOPB PBS Portland
+#EXTINF:-1 tvg-id="KOPB" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",OR | KOPB PBS Portland
 https://kopbdt.lls.cdn.pbs.org/kopbdt/908d1940-5074-4a1e-b111-169206513fef/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",OR | KSYS PBS Medford
+#EXTINF:-1 tvg-id="KSYS" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",OR | KSYS PBS Medford
 https://ksysdt.lls.cdn.pbs.org/ksysdt/0ab83f3a-3210-4904-ac59-c3fc08fa24a9/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",PA | WLVT PBS Allentown
+#EXTINF:-1 tvg-id="WLVT" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",PA | WLVT PBS Allentown
 https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",PA | WHYY PBS Philadelphia
-https://whyydt.lls.cdn.pbs.org/whyydt/6e441aa1-51ab-4ecd-a1dc-bc99da43c3ed/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",PA | WPPT 39 Extra Philadelphia
+#EXTINF:-1 tvg-id="WPPT" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",PA | WPPT 39 Extra Philadelphia
 https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",PA | WITF PBS Harrisburg
+#EXTINF:-1 tvg-id="WITF" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",PA | WITF PBS Harrisburg
 https://witfdt.lls.cdn.pbs.org/witfdt/6b45b1e5-671e-439a-8673-ad21a5e56f32/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",PA | WQED PBS Pittsburgh
+#EXTINF:-1 tvg-id="WQED" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",PA | WQED PBS Pittsburgh
 https://wqeddt.lls.cdn.pbs.org/wqeddt/9f860866-5985-487e-8191-0a2c49d5d6bb/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",PA | WQLN PBS Erie
-https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",RI | WSBE PBS Providence
+#EXTINF:-1 tvg-id="WQLN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",PA | WQLN PBS Erie
+https://pbs.lls.cdn.pbs.org/est/index.m3u8?WQLN
+#EXTINF:-1 tvg-id="WSBE" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",RI | WSBE PBS Providence
 https://hls-wsbedt.lls.cdn.pbs.org/bpk-tv/pbs/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",SC | WRLK PBS Columbia
+#EXTINF:-1 tvg-id="WRLK" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",SC | WRLK PBS Columbia
 https://wrlkdt.lls.cdn.pbs.org/wrlkdt/50ac3de0-09e0-43db-8bb6-d83826fd637c/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",SD | KUSD PBS Vermillion
+#EXTINF:-1 tvg-id="KUSD" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",SD | KUSD PBS Vermillion
 https://kusddt.lls.cdn.pbs.org/kusddt/1a8001d3-46cc-420b-8161-fd19578f8675/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",TN | WETP PBS Knoxville
+#EXTINF:-1 tvg-id="WETP" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",TN | WETP PBS Knoxville
 https://wetpdt.lls.cdn.pbs.org/wetpdt/c65964f8-23e4-4080-9bd0-7d8e66af698d/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",TN | WNPT PBS Nashville
+#EXTINF:-1 tvg-id="WNPT" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",TN | WNPT PBS Nashville
 https://wnptdt.lls.cdn.pbs.org/wnptdt/42559186-b19b-45b5-9861-078ec38bb981/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",TN | WKNO PBS Cordova
+#EXTINF:-1 tvg-id="WKNO" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",TN | WKNO PBS Cordova
 https://wknodt.lls.cdn.pbs.org/wknodt/6b3ba9b1-843d-4c44-a8e3-fada6005f081/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",TX | KAMU PBS College Station
+#EXTINF:-1 tvg-id="KAMU" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",TX | KAMU PBS College Station
 https://kamudt.lls.cdn.pbs.org/kamudt/ef3867c9-4da7-4704-9855-10308b3afe4c/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",TX | KEDT PBS Corpus Christi
+#EXTINF:-1 tvg-id="KEDT" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",TX | KEDT PBS Corpus Christi
 https://kedtdt.lls.cdn.pbs.org/kedtdt/0388c35d-d833-4259-9cfb-6af2d269a470/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",TX | KERA PBS Dallas
+#EXTINF:-1 tvg-id="KERA" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",TX | KERA PBS Dallas
 https://kera-flash.streamguys1.com/live/eventStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",TX | KLRN PBS San Antonio
+#EXTINF:-1 tvg-id="KLRN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",TX | KLRN PBS San Antonio
 https://klrndt.lls.cdn.pbs.org/klrndt/ee754c65-49eb-4f8b-a9be-6061442b0f49/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",TX | KLRU PBS Austin
+#EXTINF:-1 tvg-id="KLRU" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",TX | KLRU PBS Austin
 https://klrudt.lls.cdn.pbs.org/klrudt/4afb5e16-16d0-4803-bc68-70b7816d6c7c/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",TX | KERA PBS Dallas
+#EXTINF:-1 tvg-id="KERA" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",TX | KERA PBS Dallas
 https://kera-flash.streamguys1.com/live/eventStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",UT | KUED PBS Salt Lake City
+#EXTINF:-1 tvg-id="KUED" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",UT | KUED PBS Salt Lake City
 https://kueddt.lls.cdn.pbs.org/kueddt/b0784447-7908-43f6-b188-9d6a30102ea3/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",VA | WHRO PBS Norfolk
+#EXTINF:-1 tvg-id="WHRO" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",VA | WHRO PBS Norfolk
 https://whrodt.lls.cdn.pbs.org/whrodt/47568125-b3c7-4f5f-8c35-d27027113102/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",WA | KCTS PBS Seattle
+#EXTINF:-1 tvg-id="KCTS" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",WA | KCTS PBS Seattle
 https://rtmp-kctsdt.lls.cdn.pbs.org/rtmp-kctsdt/271a9ab7-e9ed-4fec-9fe9-e46c97a3f8f0/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",WV | WVPB PBS Charleston
-https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",WI | WMVS PBS Milwaukee
+#EXTINF:-1 tvg-id="WVPB" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",WV | WVPB PBS Charleston
+https://pbs.lls.cdn.pbs.org/est/index.m3u8?WVPB
+#EXTINF:-1 tvg-id="WMVS" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",WI | WMVS PBS Milwaukee
 https://wmvsdt.lls.cdn.pbs.org/wmvsdt/27146fbb-5f51-4924-9e00-bb46e89e18a8/primary.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS Member Stations (Geo-USA)",WY | KCWC PBS Riverton
+#EXTINF:-1 tvg-id="KCWC" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",WY | KCWC PBS Riverton
 https://kcwcdt.lls.cdn.pbs.org/kcwcdt/84b31db3-3cd6-442f-b87b-1ec11d54259d/primary.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Exclamation_225x225.png?raw=true" group-title="EPG | USA FREE OTA TV25",** EPG UPDATE ** Watch me!
@@ -1263,10 +1275,18 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d9ccd538661290009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bd8273953ed2c6334ea10f8/master.m3u8?advertisingId=&appName=web&appVersion=5.11.0-1d883e1216be36c166cbf982f832a992718a0632&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=cedecdc5-f38a-4cba-a5a0-c20728f74ec3&deviceLat=51.4964&deviceLon=-0.1224&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.66&includeExtendedEvents=false&marketingRegion=GB&sid=aa8b1ecc-30b7-11eb-b13a-0242ac110002&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="5dc039c65b56d0000945af0e" tvg-chno="35" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlutoTV_Xmas_540x540.png?raw=true" group-title="TEMP | Merry Christmas",LIVE Pluto UK | Mistletoe
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc039c65b56d0000945af0e/master.m3u8?advertisingId=&appName=web&appVersion=5.11.0-1d883e1216be36c166cbf982f832a992718a0632&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=cedecdc5-f38a-4cba-a5a0-c20728f74ec3&deviceLat=51.4964&deviceLon=-0.1224&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.66&includeExtendedEvents=false&marketingRegion=GB&sid=7788d144-230a-4766-a0f7-1bd5fcd0b221&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="5bf48085851dd5632e2f7b4d" tvg-chno="254" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlutoTV_Xmas_540x540.png?raw=true" group-title="TEMP | Merry Christmas",LIVE Pluto TV Fireplace
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bf48085851dd5632e2f7b4d/master.m3u8?advertisingId=&appName=web&appVersion=5.11.0-1d883e1216be36c166cbf982f832a992718a0632&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=6164d3a9-4ae8-4c40-ba5b-41d9c52128a4&deviceLat=40.7157&deviceLon=-74.0000&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=72.0.3815.378&includeExtendedEvents=false&marketingRegion=US&sid=dce6e1d5-31f8-41e7-b649-43b664787b87&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="5f7f8698ec435a000785810b" tvg-chno="253" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlutoTV_Xmas_540x540.png?raw=true" group-title="TEMP | Merry Christmas",LIVE Home for the Holidays
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7f8698ec435a000785810b/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=6164d3a9-4ae8-4c40-ba5b-41d9c52128a4&deviceLat=40.7157&deviceLon=-74.0000&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=72.0.3815.378&includeExtendedEvents=false&marketingRegion=US&sid=04e1ed44-aed9-453a-b170-b2d651443447&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="58348b5cc4d11ba530b30f51" tvg-chno="255" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlutoTV_Xmas_540x540.png?raw=true" group-title="TEMP | Merry Christmas",LIVE Pluto TV Holiday Lights
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58348b5cc4d11ba530b30f51/master.m3u8?advertisingId=&appName=web&appVersion=5.11.0-1d883e1216be36c166cbf982f832a992718a0632&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=6164d3a9-4ae8-4c40-ba5b-41d9c52128a4&deviceLat=40.7157&deviceLon=-74.0000&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=72.0.3815.378&includeExtendedEvents=false&marketingRegion=US&sid=256e99ae-4c94-4a55-9f65-8ee1acdb9461&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="5bf48085851dd5632e2f7b4d" tvg-chno="254" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlutoTV_Xmas_540x540.png?raw=true" group-title="TEMP | Merry Christmas",LIVE Pluto TV Fireplace
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bf48085851dd5632e2f7b4d/master.m3u8?advertisingId=&appName=web&appVersion=5.11.0-1d883e1216be36c166cbf982f832a992718a0632&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=6164d3a9-4ae8-4c40-ba5b-41d9c52128a4&deviceLat=40.7157&deviceLon=-74.0000&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=72.0.3815.378&includeExtendedEvents=false&marketingRegion=US&sid=dce6e1d5-31f8-41e7-b649-43b664787b87&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayFireplace_800x800.png?raw=true" group-title="TEMP | Merry Christmas",LIVE Naturescape Fireplaces
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/naturescape/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/iHeartChristmasTV_203x203.png?raw=true" group-title="TEMP | Merry Christmas",iHeart Radio Christmas TV
+https://d35vozlor946gj.cloudfront.net/out/v1/bc83fb104a774588b1e199fd0fcf8b33/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/iHRXmasClassics_203x203.png?raw=true" group-title="TEMP | Merry Christmas",iHR Christmas Classics TV
+https://d39a4k19q5wb1a.cloudfront.net/out/v1/28cada5616c2443398c7de03c921e739/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Christmas_715x715.png?raw=true" group-title="TEMP | Merry Christmas",VOD TV Fireplace Holiday Ed.
 https://cloudfront.tubi.video/efb1aca3-3525-468c-8e4b-8daa32e61c9b/g1zp7d0j/stream.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Christmas_715x715.png?raw=true" group-title="TEMP | Merry Christmas",VOD Anytime Fireplace
@@ -1889,6 +1909,12 @@ https://od.lk/s/MF8yMjE2NTkzNDVf/Roku_Boot-Animation_2017.mp4?GameShows
 https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Deal Or No Deal
 https://endemol-dealornodeal-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Family Feud
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufamilyfeud/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Global Got Talent
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Wipeout Xtra
+https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",** Pluto TV **
 https://od.lk/s/MF8yMjE2NTkzNDVf/Roku_Boot-Animation_2017.mp4?PlutoTV
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Pluto TV CMT
@@ -1984,15 +2010,19 @@ https://od.lk/s/MF8yMjE2NTkzNDVf/Roku_Boot-Animation_2017.mp4?HorrorSciFi
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Dust
 https://dustx-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | The Asylum
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8?p=roku&rdid=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=b8365f49b64452ab88699c1d1fefd973&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID&bmodel=bm1&studio_id=asylum&channelStore=us&tags=ROKU_CONTENT_TAGS
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | FilmRise Sci-Fi
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8?p=roku&rdid=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=c1c67bc0e51a5691a8a16ceca8667ff9&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID&bmodel=bm1&studio_id=filmrise&channelStore=us&tags=ROKU_CONTENT_TAGS
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Bloody Disgusting (2)
 https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8?Roku2
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | MST3K
+https://mst3k-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | Midnight Pulp
+https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",** Science & Nature **
 https://od.lk/s/MF8yMjE2NTkzNDVf/Roku_Boot-Animation_2017.mp4?ScienceNature
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | WeatherSpy
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuweatherspy/CDN/playlist.m3u8?p=roku&rdid=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&coppa=false&is_roku_lat=1&platform=web&content=065b0bdfe84b5c1ca528a8ef6e425adb&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=us&bmodel=bm1&tags=ROKU_CONTENT_TAGS&studio_id=jukin&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&is_lat=1&channel_id=151908
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuweatherspy/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_01_TVS-Network_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Television Network
 https://nrpus.bozztv.com/36bay2/gusa-tvstn/index.m3u8
@@ -2267,6 +2297,30 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LT)/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/MediaSet-Play_250x250.png?raw=true" group-title="International | Italy",Mediaset Play | TGCOM24
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Live-TV_Blue.png?raw=true" group-title="International | Italy",Live TV | SKY TG24
+https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Live-TV_Blue.png?raw=true" group-title="International | Italy",Live TV | Rai News HD
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Live-TV_Blue.png?raw=true" group-title="International | Italy",Live TV | 7 GOLD
+https://stream2.xdevel.com/video0s86-21/stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Live-TV_Blue.png?raw=true" group-title="International | Italy",Live TV | CINE34 Mediaset
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Live-TV_Blue.png?raw=true" group-title="International | Italy",Live TV | IBIZA TV
+http://wma10.fluidstream.net/RadioIbizaTV/livestream/chunklist_w1622912751.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Live-TV_Blue.png?raw=true" group-title="International | Italy",Live TV | SUPER
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/index_800_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Live-TV_Blue.png?raw=true" group-title="International | Italy",Live TV | Wine Channel
+http://212.43.97.35:1935/winechannel/winechannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Live-TV_Blue.png?raw=true" group-title="International | Italy",Live TV | Canale 5
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Live-TV_Blue.png?raw=true" group-title="International | Italy",Live TV | Iris
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Live-TV_Blue.png?raw=true" group-title="International | Italy",Live TV | Italia2
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I2)/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Live-TV_Blue.png?raw=true" group-title="International | Italy",Live TV | Rete4
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(R4)/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Live-TV_Blue.png?raw=true" group-title="International | Italy",Live TV | Top crime
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LT)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BlackSquare.png?raw=true" group-title="International | Spanish",** SPANISH CHANNELS **
 https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4?SP1
