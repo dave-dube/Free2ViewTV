@@ -135,4 +135,6 @@ if ($debug) {
     Write-Host "***** SAVE THE FILE *****"
     Write-Host "*************************"
 }
-$resultfile | Out-File $fileoutput
+##$resultfile | Out-File -Encoding UTF8NoBOM $fileoutput
+## use this method to save the file to make sure will be UTF (wihoutbom)
+[System.IO.File]::WriteAllLines($fileoutput, $resultfile)
