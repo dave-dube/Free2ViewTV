@@ -132,6 +132,8 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/BUZZR.png" group-title="Entertainment",Buzzr | HD
+https://buzzrota-web.amagi.tv/playlist.m3u8?Entertainment
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ChargeTV.png" group-title="Entertainment",Charge! (Geo-USA)
 https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CometTV.png" group-title="Entertainment",Comet TV (Geo-USA)
@@ -760,6 +762,8 @@ https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_1.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBC_Olympics_400x400.png?raw=true" group-title="Canadian TV",CBC Olympics (Geo-CA) | SD
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_3.m3u8
+#EXTINF:-1 tvg-id="I126.15209.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="Quebec TV DD",ICI RDI (French News)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-id="I112.10089.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Quebec TV DD",ICI Tele (Montreal) (Geo)
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
 #EXTINF:-1 tvg-id="I94.16378.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVA_540x540.png?raw=true" group-title="Quebec TV DD",TVA (Geo)
@@ -2226,6 +2230,8 @@ https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/master.m3
 https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/D5TV_246x246.png?raw=true" group-title="Francophone TV",France | D5 TV
 http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="I126.15209.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="Quebec TV DD",ICI RDI (French News)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-id="I112.10089.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Quebec TV DD",ICI Tele (Montreal) (Geo)
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
 #EXTINF:-1 tvg-id="I94.16378.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVA_540x540.png?raw=true" group-title="Quebec TV DD",TVA (Geo)
