@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="I126.15209.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="Quebec TV DD",ICI RDI (French News)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+https://buzzrota-web.amagi.tv/playlist.m3u8?Entertainment
