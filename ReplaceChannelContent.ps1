@@ -4,7 +4,7 @@ clear
 $fileoriginal = "E:\GitHub\Free2ViewTV\Free2ViewTV-2020-Remote.m3u"
 $filemodificationlist = "E:\GitHub\Free2ViewTV\Free2ViewTV-modificationlist.txt"
 $filedeletionlist = "E:\GitHub\Free2ViewTV\Free2ViewTV-deletionlist.txt"
-$fileoutput = "E:\GitHub\Free2ViewTV\Free2ViewTV-2020-Dave.m3u"
+$fileoutput = "E:\GitHub\Free2ViewTV\Free2ViewTV-Dave.m3u"
 $regexURL = "^http"
 $regexchannelinfoline = "^#EXTINF"
 $resultfile =""
