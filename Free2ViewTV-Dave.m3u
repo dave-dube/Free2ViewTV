@@ -2622,6 +2622,8 @@ http://rv.therevenge.co:80/691616211141151/691616211141151/83365?checkedby:hlsca
 http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83333?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="I1862.56163.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/56163/s56163_h3_aa.png?w=55" group-title="Quebec TV DD",Historia
 http://greenstreamtv.xyz:25461/17297267/39234816/7989?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="I138.15987.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleQuebecCA.png" group-title="Quebec TV DD",Tele-Quebec DD
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="I858.56105.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/56105/s56105_h3_aa.png?w=55" group-title="Quebec TV DD",Canal Vie
 http://rv.therevenge.co:80/691616211141151/691616211141151/83370?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="I148.16133.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ANDQ_603x603.png?raw=true" group-title="Quebec TV DD",Assemblee Nationale du QC
