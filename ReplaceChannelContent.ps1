@@ -34,6 +34,7 @@ if(!$fileconfig) {
 $SettingsObject = Get-Content -Path $fileconfig | ConvertFrom-Json
 
 
+
 ## Variable Declaration
 #$fileoriginal = "E:\GitHub\Free2ViewTV\Free2ViewTV-2020-Remote.m3u"
 $fileoriginal = $SettingsObject.FileM3UOriginal
