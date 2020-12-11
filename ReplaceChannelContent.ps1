@@ -15,20 +15,32 @@ ce script permet de prendre le fichier M3U original de Geonsey qui a fait FREE2V
     5- sauvegarde le résultat dans le fichier Free2ViewTV-Dave.m3u
     6- Créer un fichier de ExecutionLog.txt pour logger les erreurs + anomalies rencontrés
     7- envoie par email le fichier ExecutionLog.txt pour fin de suivit.
-#>
-$emailaccount=$args[0]
-$emailaccountpw=$args[1]
-$emailrecipient=$args[2]
 
+
+Historique
+Date        Description
+2020-12-11  Ajout concept de Config.ini
+
+#>
 clear
+
+# Read the Config file provided by the parameter
+$fileconfig=$args[0]
+# Set default value if parameter not provided
+if(!$fileconfig) {
+    $fileconfig = "E:\GitHub\pour update M3U et EPG pour tivimate\config.json"
+}
+# Read the Config file
+$SettingsObject = Get-Content -Path $fileconfig | ConvertFrom-Json
+
 
 ## Variable Declaration
 #$fileoriginal = "E:\GitHub\Free2ViewTV\Free2ViewTV-2020-Remote.m3u"
-$fileoriginal = "E:\GitHub\geonsey\Free2ViewTV\Free2ViewTV-2020-Remote.m3u"
-$filemodificationlist = "E:\GitHub\Free2ViewTV\Free2ViewTV-modificationlist.txt"
-$filedeletionlist = "E:\GitHub\Free2ViewTV\Free2ViewTV-deletionlist.txt"
-$fileoutput = "E:\GitHub\Free2ViewTV\Free2ViewTV-Dave.m3u"
-$filelog = "E:\GitHub\Free2ViewTV\executionlog.txt"
+$fileoriginal = $SettingsObject.FileM3UOriginal
+$filemodificationlist = $SettingsObject.FileModificationList
+$filedeletionlist = $SettingsObject.FileDeletionList
+$fileoutput = $SettingsObject.FileOutput
+$filelog = $SettingsObject.FileLog
 $regexURL = "^http"
 $regexchannelinfoline = "^#EXTINF"
 $resultfile =""
@@ -37,24 +49,27 @@ $hmodificationprocessed = @{}
 $hdeletion = @{}
 $hdeletionprocessed = @{}
 [int]$errorqty = 0
-$sendemail = $false
-if($emailaccount -ne "" -and $emailaccountpw -ne ""){
-    $sendemail = $true    
-}
-$debug = $true
+
 
 ###########################
 # FOR EMAIL CONFIGURATION
 #$From = "hadavedube@gmail.com"
-$From = $emailaccount
-$To = $emailrecipient
+$From = $SettingsObject.EmailSender
+$To = $SettingsObject.EmailRecipient
 $Attachment = $filelog
-$Subject = "F2ViewTV Execution Log"
-$Body = "Here is the execution log for the last F2ViewTV generation"
-$SMTPServer = "smtp.gmail.com"
-$SMTPPort = "587"
-$mailboxpassword = "jstn-link99"
+$Subject = $SettingsObject.EmailSubject
+$Body = $SettingsObject.EmailBody
+$SMTPServer = $SettingsObject.EmailSMTPServer
+$SMTPPort = $SettingsObject.EmailSMTPPort
+$mailboxpassword = $SettingsObject.EmailAccountPW
 ###########################
+
+$sendemail = $false
+if($SMTPServer -ne ""){
+    $sendemail = $true    
+}
+
+$debug = $true
 
 # 0- we delete the previous LOG file
 Remove-Item $filelog
@@ -224,13 +239,16 @@ if ($debug) {
 #$resultfile | Out-File -Encoding UTF8NoBOM $fileoutput
 # use this method to save the file to make sure will be UTF (wihoutbom)
 [System.IO.File]::WriteAllLines($fileoutput, $resultfile)
-
+$filelog.dispose
 
 
 # 7- Send the ExecutionLog by email
-#Send-MailMessage -From $From -to $To -Cc $Cc -Subject $Subject `
-#-Body $Body -SmtpServer $SMTPServer -port $SMTPPort -UseSsl `
-#-Credential (Get-Credential) -Attachments $Attachment
+if ($debug) {
+    Write-Host "*************************"
+    Write-Host "***** SEND EMAIL    *****"
+    Write-Host "*************************"
+}
+
 if ($sendemail){
     Try {
         $msg = new-object Net.Mail.MailMessage 
@@ -239,7 +257,7 @@ if ($sendemail){
         $msg.To.add($To)
         $msg.Subject = $Subject
         $msg.Body = $Body
-        $msg.Attachments.Add($filelog)
+        $msg.Attachments.Add($Attachment)
         $SMTP.Port = 587
         $SMTP.EnableSsl = $true
         $SMTP.Credentials = New-Object System.Net.NetworkCredential("$from", "$mailboxpassword"); 
@@ -249,5 +267,7 @@ if ($sendemail){
     }
     Catch{
         myerrortrap -errorlevel "ERROR" -info "Envoi du email"
+        $smtp.Dispose()   # important to release handle on the executionLog file
+        $msg.Dispose()    # important to release handle on the executionLog file
     }
 }
