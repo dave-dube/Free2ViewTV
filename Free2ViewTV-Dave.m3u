@@ -2636,6 +2636,8 @@ http:\\rv.therevenge.co:80\uC51d0zVwRoVMIN\5ODtKSZavorYoRx\81410?checkedby:iptvc
 http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81317?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="I194.72005.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/72006/s72006_h3_aa.png?w=55" group-title="Quebec TV DD",Moi&Cie
 http://rv.therevenge.co:80/691616211141151/691616211141151/81348?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="I126.15209.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="Quebec TV DD",ICI RDI DD
+https://srclive-lh.akamaihd.net/i/web206_1@364877/index_2500_av-p.m3u8?sd=10&set-akamai-hls-revision=4&rebase=on
 #EXTINF:-1 tvg-id="I1445.48099.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/48099/s48099_h3_aa.png?w=55" group-title="Quebec TV DD",Fight Network
 http://greenstreamtv.xyz:25461/17297267/39234816/7871?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="I192.73271.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/73275/s73275_h3_aa.png?w=55" group-title="Quebec TV DD",RDS 2
