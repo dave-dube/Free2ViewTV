@@ -145,3 +145,27 @@ https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/61016
 https://srclive-lh.akamaihd.net/i/web206_1@364877/index_2500_av-p.m3u8?sd=10&set-akamai-hls-revision=4&rebase=on
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dave-dube/Free2ViewTV/blob/master/images/hippo.png?raw=true" group-title="Quebec TV DD",Hippo Cam (San Diego)
 https://zssd-hippo.hls.camzonecdn.com/CamzoneStreams/zssd-hippo/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dave-dube/Free2ViewTV/blob/master/images/ornithorynque.png?raw=true" group-title="Quebec TV DD",Ornithorynque Cam (San Diego)
+https://zssd-platypus.hls.camzonecdn.com/CamzoneStreams/zssd-platypus/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dave-dube/Free2ViewTV/blob/master/images/babouin.png?raw=true" group-title="Quebec TV DD",Babouins Cam (San Diego)
+https://zssd-baboon.hls.camzonecdn.com/CamzoneStreams/zssd-baboon/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dave-dube/Free2ViewTV/blob/master/images/pingouin.png?raw=true" group-title="Quebec TV DD",Pingouins Cam (San Diego)
+https://zssd-penguin.hls.camzonecdn.com/CamzoneStreams/zssd-penguin/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dave-dube/Free2ViewTV/blob/master/images/ourspolaire.png?raw=true" group-title="Quebec TV DD",Ours Polaire Cam (San Diego)
+https://polarplunge.hls.camzonecdn.com/CamzoneStreams/polarplunge/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dave-dube/Free2ViewTV/blob/master/images/singe.png?raw=true" group-title="Quebec TV DD",Singes Cam (San Diego)
+https://ape.hls.camzonecdn.com/CamzoneStreams/ape/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dave-dube/Free2ViewTV/blob/master/images/tigre.png?raw=true" group-title="Quebec TV DD",Tigres Cam (San Diego)
+https://zssd-tiger.hls.camzonecdn.com/CamzoneStreams/zssd-tiger/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dave-dube/Free2ViewTV/blob/master/images/elephant.png?raw=true" group-title="Quebec TV DD",Elephants Cam (San Diego)
+https://elephants.hls.camzonecdn.com/CamzoneStreams/elephants/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dave-dube/Free2ViewTV/blob/master/images/girafe.png?raw=true" group-title="Quebec TV DD",Girafes Cam (San Diego)
+https://zssd-kijami.hls.camzonecdn.com/CamzoneStreams/zssd-kijami/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dave-dube/Free2ViewTV/blob/master/images/hiboux.png?raw=true" group-title="Quebec TV DD",Hiboux Cam 1 (San Diego)
+https://zssd-owlaviary.hls.camzonecdn.com/CamzoneStreams/zssd-owlaviary/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dave-dube/Free2ViewTV/blob/master/images/hiboux.png?raw=true" group-title="Quebec TV DD",Hiboux Cam 2 (San Diego)
+https://zssd-owlburrow.hls.camzonecdn.com/CamzoneStreams/zssd-owlburrow/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dave-dube/Free2ViewTV/blob/master/images/koala.png?raw=true" group-title="Quebec TV DD",Koala Cam (San Diego)
+https://zssd-koala.hls.camzonecdn.com/CamzoneStreams/zssd-koala/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dave-dube/Free2ViewTV/blob/master/images/condor.png?raw=true" group-title="Quebec TV DD",Condors Cam (San Diego)
+https://zssd-condorhd.hls.camzonecdn.com/CamzoneStreams/zssd-condorhd/chunklist.m3u8
