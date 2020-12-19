@@ -2587,6 +2587,8 @@ http://rv.therevenge.co:80/691616211141151/691616211141151/83376?checkedby:hlsca
 http://rv.therevenge.co:80/691616211141151/691616211141151/83246?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="I1876.69466.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/69466/s69466_h3_aa.png?w=55" group-title="Quebec TV DD",Elle Fictions
 http://rv.therevenge.co:80/691616211141151/691616211141151/83365?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dave-dube/Free2ViewTV/blob/master/images/hippo.png?raw=true" group-title="Quebec TV DD",Hippo Cam (San Diego)
+https://zssd-hippo.hls.camzonecdn.com/CamzoneStreams/zssd-hippo/chunklist.m3u8
 #EXTINF:-1 tvg-id="I857.56109.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/56109/s56109_h3_aa.png?w=55" group-title="Quebec TV DD",Series+
 http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83333?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="I1862.56163.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/56163/s56163_h3_aa.png?w=55" group-title="Quebec TV DD",Historia
