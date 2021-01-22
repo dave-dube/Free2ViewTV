@@ -2697,12 +2697,28 @@ https://od.lk/s/MF8yMTU5MTU3MjRf/Fireplace-and-Chill_21m.mp4
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature Cams",Panda1 (Memphis)
+https://use01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.fkztb4r.fd0.sm1.av2.at0.sh2.rt14569.rc0.basic.stream/chunklist_w861791237.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature Cams",Pinguin (Dublin)
+https://ngx.cr2.streamzilla.xlcdn.com/session/b83e01129f4aefac2b44ca5792125d8c/sz/streamdays/wowza4/live/kelcom-dubzoo-penguins/chunklist.m3u8
 #EXTINF:-1 tvg-id="I1844.61443.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/61443/s61443_h3_aa.png?w=55" group-title="DD - Quebec TV",ARTV
 http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83358?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature Cams",RhinocÃ©ros (Dublin)
+https://ngx.cr2.streamzilla.xlcdn.com/session/8cbb7734cc57632ad52d18566921139d/sz/streamdays/wowza4/live/kelcom-dubzoo-savanna/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature Cams",Grizzly1 (Reid Park)
+http://edge02.hdontap.com/ingest03-hd3/grizzly1_rpz.stream/chunklist_w224761000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature Cams",Flamant Rose (Memphis)
+https://use01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.hzyrcsm.fd0.sm1.av2.at0.sh2.rt14569.rc0.basic.stream/chunklist_w1185597401.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dave-dube/Free2ViewTV/blob/master/images/condor.png?raw=true" group-title="Nature Cams",Condors Cam (San Diego)
 https://zssd-condorhd.hls.camzonecdn.com/CamzoneStreams/zssd-condorhd/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature Cams",Elephant2 (Reid Park)
+http://edge04.hdontap.com/ingest03-hd3/elephant-mudpit_rpz.stream/chunklist_w1867669660.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature Cams",Elephant (Memphis)
+https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.xrnqb3s.fd0.sm1.av2.at0.sh2.rt14569.rc0.basic.stream/chunklist_w1821608046.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dave-dube/Free2ViewTV/blob/master/images/singe.png?raw=true" group-title="Nature Cams",Singes Cam (San Diego)
 https://ape.hls.camzonecdn.com/CamzoneStreams/ape/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature Cams",Lemur (Reid Park)
+http://edge04.hdontap.com/ingest03-hd3/lemur_rpz.stream/chunklist_w1184171785.m3u8
 #EXTINF:-1 tvg-id="I180.15677.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/53091/s53091_h3_aa.png?w=55" group-title="DD - Broken",Super Ecran 1
 http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81317?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="I858.56105.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/56105/s56105_h3_aa.png?w=55" group-title="DD - Broken",Canal Vie
@@ -2711,6 +2727,8 @@ http://rv.therevenge.co:80/691616211141151/691616211141151/83370?checkedby:hlsca
 http://rv.therevenge.co:80/691616211141151/691616211141151/83376?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="I857.56109.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/56109/s56109_h3_aa.png?w=55" group-title="DD - Broken",Series+
 http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83333?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature Cams",Lion (Reid Park)
+http://edge04.hdontap.com/ingest03-hd3/lion_rpz.stream/chunklist_w1929675943.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dave-dube/Free2ViewTV/blob/master/images/hiboux.png?raw=true" group-title="Nature Cams",Hiboux Cam 1 (San Diego)
 https://zssd-owlaviary.hls.camzonecdn.com/CamzoneStreams/zssd-owlaviary/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dave-dube/Free2ViewTV/blob/master/images/girafe.png?raw=true" group-title="Nature Cams",Girafes Cam (San Diego)
@@ -2725,6 +2743,8 @@ https://zssd-owlburrow.hls.camzonecdn.com/CamzoneStreams/zssd-owlburrow/chunklis
 http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81329?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="I129.15682.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/56161/s56161_h3_aa.png?w=55" group-title="DD - Broken",Canal D
 http:\\rv.therevenge.co:80\uC51d0zVwRoVMIN\5ODtKSZavorYoRx\81410?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature Cams",Panda2 (Memphis)
+https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.qdkvb33.fd0.sm1.av2.at0.sh2.rt14569.rc0.basic.stream/chunklist_w285791775.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dave-dube/Free2ViewTV/blob/master/images/babouin.png?raw=true" group-title="Nature Cams",Babouins Cam (San Diego)
 https://zssd-baboon.hls.camzonecdn.com/CamzoneStreams/zssd-baboon/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dave-dube/Free2ViewTV/blob/master/images/ornithorynque.png?raw=true" group-title="Nature Cams",Ornithorynque Cam (San Diego)
@@ -2737,26 +2757,42 @@ https://elephants.hls.camzonecdn.com/CamzoneStreams/elephants/chunklist.m3u8
 https://srclive-lh.akamaihd.net/i/web206_1@364877/index_2500_av-p.m3u8?sd=10&set-akamai-hls-revision=4&rebase=on
 #EXTINF:-1 tvg-id="I873.66001.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/66001/s66001_h3_aa.png?w=55" group-title="DD - Broken",Evasion
 http://rv.therevenge.co:80/691616211141151/691616211141151/83246?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature Cams",Panda3 (Memphis)
+https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.akayb38.fd0.sm1.av2.at0.sh2.rt14569.rc0.basic.stream/chunklist_w95937852.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dave-dube/Free2ViewTV/blob/master/images/ourspolaire.png?raw=true" group-title="Nature Cams",Ours Polaire Cam (San Diego)
 https://polarplunge.hls.camzonecdn.com/CamzoneStreams/polarplunge/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature Cams",Elephant1 (Reid Park)
+http://edge04.hdontap.com/ingest05-hd5/elephant-exhibit_rpz.stream/chunklist_w1607217938.m3u8
 #EXTINF:-1 tvg-id="I1445.48099.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/48099/s48099_h3_aa.png?w=55" group-title="DD - Broken",Fight Network
 http://greenstreamtv.xyz:25461/17297267/39234816/7871?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature Cams",Giraffe (Reid Park)
+http://edge02.hdontap.com/ingest03-hd3/giraffe_rpz.stream/chunklist_w1854917099.m3u8
 #EXTINF:-1 tvg-id="I138.15987.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleQuebecCA.png" group-title="DD - Quebec TV",Tele-Quebec DD
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dave-dube/Free2ViewTV/blob/master/images/tigre.png?raw=true" group-title="Nature Cams",Tigres Cam (San Diego)
 https://zssd-tiger.hls.camzonecdn.com/CamzoneStreams/zssd-tiger/chunklist.m3u8
 #EXTINF:-1 tvg-id="I194.72005.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/72006/s72006_h3_aa.png?w=55" group-title="DD - Broken",Moi&Cie
 http://rv.therevenge.co:80/691616211141151/691616211141151/81348?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature Cams",Hippopotame (Memphis)
+https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.uxqfb3x.fd0.sm1.av2.at0.sh2.rt14569.rc0.basic.stream/chunklist_w551554274.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature Cams",Tigre (Edimbourg)
+https://5cee0d703d908.streamlock.net/rtplive/edinburghzootiger1.stream/chunklist_w1105214698.m3u8
 #EXTINF:-1 tvg-id="I1876.69466.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/69466/s69466_h3_aa.png?w=55" group-title="DD - Broken",Elle Fictions
 http://rv.therevenge.co:80/691616211141151/691616211141151/83365?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="I148.16133.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ANDQ_603x603.png?raw=true" group-title="DD - Quebec TV",Assemblee Nationale du QC
 http://diffusionm3.assnat.qc.ca/canal10/250.sdp/chunklist.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dave-dube/Free2ViewTV/blob/master/images/hippo.png?raw=true" group-title="Nature Cams",Hippo Cam (San Diego)
 https://zssd-hippo.hls.camzonecdn.com/CamzoneStreams/zssd-hippo/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature Cams",Panda (Edimbourg)
+https://5cee0d703d908.streamlock.net/rtplive/EDZ-PH2-ShowDen2.stream/chunklist_w619786696.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dave-dube/Free2ViewTV/blob/master/images/koala.png?raw=true" group-title="Nature Cams",Koala Cam (San Diego)
 https://zssd-koala.hls.camzonecdn.com/CamzoneStreams/zssd-koala/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature Cams",Grizzly2 (Reid Park)
+http://edge02.hdontap.com/ingest03-hd3/grizzly2_rpz.stream/chunklist_w48944426.m3u8
 #EXTINF:-1 tvg-id="I1862.56163.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/56163/s56163_h3_aa.png?w=55" group-title="DD - Broken",Historia
 http://greenstreamtv.xyz:25461/17297267/39234816/7989?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature Cams",Pinguin (Edimbourg)
+https://595b9deb3d6ac.streamlock.net/qlive/edinburghzoo104225.stream/chunklist_w1720798982.m3u8
 #EXTINF:-1 tvg-id="I190.67174.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/67429/s67429_h3_aa.png?w=55" group-title="DD - Broken",Zeste
 http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83306?checkedby:hlscat.com
 
