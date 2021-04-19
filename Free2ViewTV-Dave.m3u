@@ -3282,4 +3282,6 @@ http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83706.m3u8?checked
 http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83722.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DD - VPN",TVA Sport 2 HD
 http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83721.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="I540.17383.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Noovo_608x608.png?raw=true" group-title="DD - Quebec TV",Noovo (new method)
+https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
 
