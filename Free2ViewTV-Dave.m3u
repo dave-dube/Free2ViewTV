@@ -888,7 +888,7 @@ https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
 https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleQuebecCA.png" group-title="Canadian TV",Tele-Quebec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
-#EXTINF:-1 tvg-id="I540.17383.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Noovo_608x608.png?raw=true" group-title="DD - Quebec TV",noovo
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Noovo_608x608.png?raw=true" group-title="Canadian TV",noovo
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1 tvg-id="I232.105401.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ICI-Television_292x292.png?raw=true" group-title="DD - Quebec TV",ICI Television
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
@@ -2923,7 +2923,7 @@ https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
 https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleQuebecCA.png" group-title="Francophone TV",Canada | Tele-Quebec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
-#EXTINF:-1 tvg-id="I540.17383.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Noovo_608x608.png?raw=true" group-title="DD - Quebec TV",noovo
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Noovo_608x608.png?raw=true" group-title="Francophone TV",Canada | noovo
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1 tvg-id="I152.15747.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CanalSavoir_363x363.png?raw=true" group-title="DD - Quebec TV",Canal Savoir CFTU ICIQC
 https://hls.savoir.media/live/stream.m3u8
@@ -3274,6 +3274,8 @@ https://od.lk/s/MF8yMTU5MTU3MjRf/Fireplace-and-Chill_21m.mp4
 https://tvalcn.akamaized.net/hls/live/2013847/tvalcn01/master.m3u8
 #EXTINF:-1 tvg-id="I138.15987.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleQuebecCA.png" group-title="DD - Quebec TV",Tele-Quebec
 https://bcovlive-a.akamaihd.net/86e93a0ab79047e1b216e2b0a1ac5363/us-east-1/6150020952001/playlist.m3u8
+#EXTINF:-1 tvg-id="I540.17383.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Noovo_608x608.png?raw=true" group-title="DD - Quebec TV",noovo
+https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
 #EXTINF:-1 tvg-id="I136.44962.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/66003/s66003_h3_aa.png?w=55" group-title="DD - VPN",addik TV
 http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83759.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="I148.16133.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ANDQ_603x603.png?raw=true" group-title="DD - Quebec TV",Assemblee Nationale du QC
@@ -3396,6 +3398,4 @@ http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83706.m3u8?checked
 http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83722.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DD - VPN",TVA Sport 2 HD
 http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83721.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="I540.17383.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Noovo_608x608.png?raw=true" group-title="DD - Quebec TV",Noovo (new method)
-https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
 
