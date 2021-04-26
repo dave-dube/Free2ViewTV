@@ -8,8 +8,6 @@ https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_2500.m3u8
 https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
 #EXTINF:-1 tvg-id="I127.17590.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LCN_640x640.png?raw=true" group-title="DD - Quebec TV",Le Canal Nouvelles [TEMP]
 https://tvalcn.akamaized.net/hls/live/2013847/tvalcn01/master.m3u8
-#EXTINF:-1 tvg-id="I138.15987.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleQuebecCA.png" group-title="DD - Quebec TV",Tele-Quebec
-https://bcovlive-a.akamaihd.net/86e93a0ab79047e1b216e2b0a1ac5363/us-east-1/6150020952001/playlist.m3u8
 #EXTINF:-1 tvg-id="I540.17383.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Noovo_608x608.png?raw=true" group-title="DD - Quebec TV",noovo
 https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
 #EXTINF:-1 tvg-id="I232.105401.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ICI-Television_292x292.png?raw=true" group-title="DD - Quebec TV",ICI Television
@@ -114,7 +112,7 @@ https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df528024
 https://d128o1k7zh3htz.cloudfront.net/out/v1/74a58360a3734f97b74ba439bc678044/index.m3u8
 #EXTINF:-1 tvg-id="I227.13365.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GlobalNews_650x650.png?raw=true" group-title="DD - Global News Canada",Global News Winnipeg
 https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8
-#EXTINF:-1 tvg-id="I138.15987.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleQuebecCA.png" group-title="DD - Quebec TV",Tele-Quebec DD
+#EXTINF:-1 tvg-id="I138.15987.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleQuebecCA.png" group-title="DD - Quebec TV",Tele-Quebec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="I126.15209.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="DD - Quebec TV",ICI RDI DD
 https://srclive-lh.akamaihd.net/i/web206_1@364877/index_2500_av-p.m3u8?sd=10&set-akamai-hls-revision=4&rebase=on
