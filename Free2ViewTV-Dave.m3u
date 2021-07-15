@@ -450,9 +450,9 @@ https://amc-twdfanexperience-1-us.vizio.wurl.tv/playlist.m3u8?l1br3date0702andAM
 https://amc-twdtv14-1-us.samsung.wurl.tv/playlist.m3u8?l1br3date0702andAMCBinge
 #EXTINF:-1 tvg-id="USAJ3400010RS" tvg-chno="1052" tvg-logo="https://od.lk/s/MF8yNDAxMTE4NjRf/StoriesByAMC_300x300.png" group-title="Binge TV | AMC Networks",Stories by AMC | Samsung
 https://amc-amcpresents-2-us.samsung.wurl.tv/playlist.m3u8?l1br3date0702andAMCBinge
-#EXTINF:-1 tvg-id="ae014f" tvg-name="Stories_by_AMC" tvg-chno="200" group-title="Binge TV | AMC Networks" tvg-logo="https://od.lk/s/MF8yNDAxMTE4NjRf/StoriesByAMC_300x300.png",Stories by AMC (+20m) | IMDb TV
+#EXTINF:-1 tvg-id="ae014f" tvg-name="" tvg-chno="200" group-title="Binge TV | AMC Networks" tvg-logo="https://od.lk/s/MF8yNDAxMTE4NjRf/StoriesByAMC_300x300.png",Stories by AMC (+20m) | IMDb TV
 https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8?l1br3date0702andAMCBingeAndPlexEPG
-#EXTINF:-1 tvg-id="ae014f" tvg-name="Stories_by_AMC" tvg-chno="200" group-title="Binge TV | AMC Networks" tvg-logo="https://od.lk/s/MF8yNDAxMTE4NjRf/StoriesByAMC_300x300.png",Stories by AMC (+20m) | Vizio
+#EXTINF:-1 tvg-id="ae014f" tvg-name="" tvg-chno="200" group-title="Binge TV | AMC Networks" tvg-logo="https://od.lk/s/MF8yNDAxMTE4NjRf/StoriesByAMC_300x300.png",Stories by AMC (+20m) | Vizio
 https://amc-amcpresents-1.vizio.wurl.com/manifest/playlist.m3u8?l1br3date0702andAMCBingeAndPlexEPG
 #EXTINF:-1 tvg-id="28d868" tvg-name="AMC_Thrillers" tvg-chno="202" group-title="Binge TV | AMC Networks" tvg-logo="https://od.lk/s/MF8yMzc5Mjk1NTRf/AMCThrillers_660x660.png",AMC Thrillers | IMDb TV
 https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8?l1br3date0702andAMCBingeAndPlexEPG
