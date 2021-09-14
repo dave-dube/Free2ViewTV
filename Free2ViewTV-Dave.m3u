@@ -35,7 +35,11 @@
 # PREVIEW EDITION - UPDATE: Completed migration of "USA FREE TV | OTA" channels from previous version of playlist (9/05).
 # PREVIEW EDITION - UPDATE: Expanded "Plex Live TV" and set up in its own category with full EPG listings (9/05).
 # REVISED EDITION - UPDATE: OFFICIAL DROP OF THE REVISED EDITION!! (9/07)
-# UPDATE: 9/08/21 - UPDATE: Added additional Pluto TV streams with EPG, Positiv TV with EPG, add to their respective categories.
+# UPDATE: 9/08/21 - MORE CHANNELS: Added additional Pluto TV streams with EPG, Positiv TV with EPG, add to their respective groups.
+# UPDATE: 9/09/21 - NEW CHANNELS: Added new Kids' Pluto TV channels with EPG in "Vizio WatchFree + Pluto TV" category.
+# UPDATE: 9/12/21 - UPDATE: New streams / updated streams to "Plex Live TV" and "Samsung TV Plus".
+# UPDATE: 9/12/21 - NEW CHANNEL ADDED: French-Canadian channel TVA (Alternate) added to "Canada" category.
+# UPDATE: 9/12/21 - NEW CATEGORY: "Free Live Radio" category: local live radio, news radio, novelty & Old Time Radio, and more.
 #
 # ************************************************************************************************************************************* 
 
@@ -154,10 +158,10 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00491-fandango-rottentomatoes-samsu
 https://dai2.xumo.com/xumocdn/p=samsung/amagi_hls_data_xumo1212A-samsungtvplus-can-tmz/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="USBA300019WF" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/43/USBA300019WF_20201208T081541.png" group-title="Samsung TV Plus",US | Pluto TV Land Sitcoms
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="USAJ26000015Y" tvg-chno="1060" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/07/USAJ26000015Y_20201007T012253.png" group-title="Samsung TV Plus",US | Pluto TV Drama Life
+#EXTINF:-1 tvg-id="USAJ26000015Y" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/07/USAJ26000015Y_20201007T012253.png" group-title="Samsung TV Plus",US | Pluto TV Drama Life
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f24662bebe0f0000767de32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="USBA300005MK" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/65/USBA300005MK_20210209T021417.png" group-title="Samsung TV Plus",US | Pluto TV Westerns
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceType%3Dsamsung-tvplus%26deviceMake%3Dsamsung%26deviceModel%3Dsamsung%26deviceVersion%3Dunknown%26appVersion%3Dunknown%26deviceLat%3D0%26deviceLon%3D0%26deviceDNT%3D%7BTARGETOPT%7D%26deviceId%3D%7BPSID%7D%26advertisingId%3D%7BPSID%7D%26us_privacy%3D1YNY%26samsung_app_domain%3D%7BAPP_DOMAIN%7D%26samsung_app_name%3D%7BAPP_NAME%7D%26profileLimit%3D%26profileFloor%3D%26embedPartner%3Dsamsung-tvplus
+#EXTINF:-1 tvg-id="USAJ3504547A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/07/USAJ3504547A_20210525T051557.png" group-title="Samsung TV Plus",Pluto TV The New Detectives
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5aea40b35126c2157123aa64/master.m3u8?deviceType%3Dsamsung-tvplus%26deviceMake%3Dsamsung%26deviceModel%3Dsamsung%26deviceVersion%3Dunknown%26appVersion%3Dunknown%26deviceLat%3D0%26deviceLon%3D0%26deviceDNT%3D%7BTARGETOPT%7D%26deviceId%3D%7BPSID%7D%26advertisingId%3D%7BPSID%7D%26us_privacy%3D1YNY%26samsung_app_domain%3D%7BAPP_DOMAIN%7D%26samsung_app_name%3D%7BAPP_NAME%7D%26profileLimit%3D%26profileFloor%3D%26embedPartner%3Dsamsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Samsung TV Plus",** Movies **
 https://od.lk/s/MF8yMzk5NTY0Mjlf/SamsungTVPlus.mp4?SSMovies
 #EXTINF:-1 tvg-id="USAJ30000148W" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/15/USAJ30000148W_20210525T051435.png" group-title="Samsung TV Plus",US | Cinevault 80s
@@ -220,10 +224,14 @@ https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
 https://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Samsung TV Plus",** Reality **
 https://od.lk/s/MF8yMzk5NTY0Mjlf/SamsungTVPlus.mp4?SSReality
+#EXTINF:-1 tvg-id="USAK3508706A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/10/USAK3508706A_20210609T003445.png" group-title="Samsung TV Plus",US | Skills + Thrills
+https://aenetworks-skills-thrills-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="USBA3000042O6" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/50/USBA3000042O6_20210525T051452.png" group-title="Samsung TV Plus",US | Kitchen Nightmares
 https://d12hafsmzbqmzo.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Samsung TV Plus",** Food + Home + Travel **
 https://od.lk/s/MF8yMzk5NTY0Mjlf/SamsungTVPlus.mp4?SSHome
+#EXTINF:-1 tvg-id="USAJ3000006X5" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/65/USAJ3000006X5_20210609T003440.png" group-title="Samsung TV Plus",US | Lively Place
+https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="USBA3800002KI" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/22/USBA3800002KI_20210525T051727.png" group-title="Samsung TV Plus",US | America's Test Kitchen
 https://dai2.xumo.com/xumocdn/p=samsung/amagi_hls_data_xumo1212A-samsungtvplusamericastestkitchen/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="USBB1000002TK" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/96/USBB1000002TK_20210525T051501.png" group-title="Samsung TV Plus",US | Loupe 4K
@@ -273,27 +281,33 @@ https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Plex3
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?EPGPlex1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Plex Live TV",[5] https://i.mjh.nz/Plex/all.xml 
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?EPGPlex2
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ede94f7da2ef002c55ce9b" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/TribecaChannel_Logo_Dark.png" group-title="Plex Live TV",Tribeca Channel | Plex
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a3" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/the-film-detective.png" group-title="Plex Live TV",US | The Film Detective
+https://filmdetective-plex.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ede94f7da2ef002c55ce9b" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/TribecaChannel_Logo_Dark.png" group-title="Plex Live TV",US | Tribeca Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=822&livestream=1&live=1&app_bundle=com.plexapp.desktop&did=undefined&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=1&us_privacy=1---&custom_6=QyvCDsVSp7Qeg2h2KKUw&custom_7=60ede94f7da2ef002c55ce9b
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132e162fe160040f26bdb" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/spi_filmstream_1.png" group-title="Plex Live TV",FilmStream | Plex
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132e162fe160040f26bdb" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/spi_filmstream_1.png" group-title="Plex Live TV",US | FilmStream
 https://spi-filmstream-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5efe1de7e0b3f5003f5d9f8e" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/gravitas_movies.png" group-title="Plex Live TV",Gravitas Movies | Plex
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5efe1de7e0b3f5003f5d9f8e" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/gravitas_movies.png" group-title="Plex Live TV",US | Gravitas Movies
 https://gravitas-movies-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/24hrfreemovies_logo_dark.png" group-title="Plex Live TV",24 Hour Free Movies | Plex
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/24hrfreemovies_logo_dark.png" group-title="Plex Live TV",US | 24 Hour Free Movies
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8?ads.plex_token=mHLguq7KAeUAboPmP8KS&ads.channel_id=5fd115bab7ef8d002dcf181d&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wu-tang-collection.png" group-title="Plex Live TV",Wu Tang Collection | Plex
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wu-tang-collection.png" group-title="Plex Live TV",US | Wu Tang Collection
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=mHLguq7KAeUAboPmP8KS&content_series=5eea605474085f0040ddc770&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=mHLguq7KAeUAboPmP8KS&custom_7=5eea605474085f0040ddc770
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f8746eabd529300418246d9" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/gusto-tv-logo.png" group-title="Plex Live TV",Gusto TV | Plex
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0641d3e8ffda004033b16e" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/thedesignnetwork_tdn_5.png" group-title="Plex Live TV",US | The Design Network
+https://thedesignnetwork-tdn-6-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f8746eabd529300418246d9" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/gusto-tv-logo.png" group-title="Plex Live TV",US | Gusto TV
 https://gustous-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="Plex Live TV",Cooking Panda | Plex
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="Plex Live TV",US | Cooking Panda
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46&live=1&app_bundle=com.plexapp.desktop&did=undefined&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=QyvCDsVSp7Qeg2h2KKUw&content_series=5f07e9fdf313eb0041bbecda&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---&custom_6=QyvCDsVSp7Qeg2h2KKUw&custom_7=5f07e9fdf313eb0041bbecda
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0ff265d71dcb00449ec02a" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/channel-fight.png" group-title="Plex Live TV",Channel Fight | Plex
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc78e" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/the_pet_collective_samsung_.png" group-title="Plex Live TV",US | The Pet Collective
+https://the-pet-collective-samsung-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0ff265d71dcb00449ec02a" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/channel-fight.png" group-title="Plex Live TV",US | Channel Fight
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=mHLguq7KAeUAboPmP8KS&content_series=5f0ff265d71dcb00449ec02a&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=mHLguq7KAeUAboPmP8KS&custom_7=5f0ff265d71dcb00449ec02a
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60affff8623f2f002c5bb4a1" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/combatgo_logo_dark.png" group-title="Plex Live TV",Combat Go | Plex
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60affff8623f2f002c5bb4a1" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/combatgo_logo_dark.png" group-title="Plex Live TV",US | Combat Go
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=726&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=mHLguq7KAeUAboPmP8KS&content_series=60affff8623f2f002c5bb4a1&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=mHLguq7KAeUAboPmP8KS&custom_7=60affff8623f2f002c5bb4a1
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/fightnetwork_logo_dark.png" group-title="Plex Live TV",Fight Network | Plex
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/fightnetwork_logo_dark.png" group-title="Plex Live TV",US | Fight Network
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=778&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=mHLguq7KAeUAboPmP8KS&content_series=606605549dbfca002d2ae877&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=mHLguq7KAeUAboPmP8KS&custom_7=606605549dbfca002d2ae877
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fd115bdb7ef8d002dcf1820" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/hardknocks_logo_dark.png" group-title="Plex Live TV",Hard Knocks | Plex
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fd115bdb7ef8d002dcf1820" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/hardknocks_logo_dark.png" group-title="Plex Live TV",US | Hard Knocks
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8?ads.plex_token=mHLguq7KAeUAboPmP8KS&ads.channel_id=5fd115bdb7ef8d002dcf1820&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Vizio WatchFree + Pluto TV",** Category updated 8/18/21 **
@@ -366,6 +380,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f754f98185580007eb07
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f75771dfc72a00071fd0e0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="60f5d389985a0c0007357304" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Vizio WatchFree + Pluto TV",US | BritBox Mysteries
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f5d389985a0c0007357304/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="60f9ebb06f0b3d000746fbdb" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Vizio WatchFree + Pluto TV",US | Team Spirit
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f9ebb06f0b3d000746fbdb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="60faf9368c7ad900082bc9a8" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Vizio WatchFree + Pluto TV",US | Find Out Why
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faf9368c7ad900082bc9a8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="60faf9ddfcc1f200070a5932" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Vizio WatchFree + Pluto TV",US | Garfield and Friends
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Free Ad Supported TV",** Category updated 9/05/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?FAST1
@@ -1230,6 +1250,8 @@ https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Canada4
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-id="I94.16378.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVA_540x540.png?raw=true" group-title="DD - Quebec TV",TVA (Geo)
 https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
+#EXTINF:-1 tvg-id="I734.58759.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDU0MDY2MDZf/TVA_540x540.png" group-title="Canada",TVA (Alternate)
+https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8
 #EXTINF:-1 tvg-id="I735.63040.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDU0MDY3MDFf/TeleQuebecCA_535x535.png" group-title="Canada",TÃ©lÃ©-QuÃ©bec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1834,6 +1856,63 @@ https://stream.revma.ihrhls.com/zc7249/hls.m3u8
 https://stream.revma.ihrhls.com/zc7101/hls.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQyNTkzNThf/iHeartRadio_240x240.png" group-title="Free iHeart Radio" radio="true",iHR | iMaginate Radio
 https://stream.revma.ihrhls.com/zc8523/hls.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Free Live Radio",** Category updated 9/12/21 **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?FreeRadioCat
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Free Live Radio",** Free News Radio **
+https://od.lk/s/MF8yNDY3OTI1NTFf/OldRadio.mp4?RadioNews
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY3OTI2ODVf/TuneIn_380x380.png" group-title="Free Live Radio" radio="true",TuneIn News | MSNBC (Audio)
+https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v2/newsfree/msnbcfree/master.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY3OTI2ODVf/TuneIn_380x380.png" group-title="Free Live Radio" radio="true",TuneIn News | CNBC (Audio)
+https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v2/newsfree/cnbcfree/master.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY3OTI2ODVf/TuneIn_380x380.png" group-title="Free Live Radio" radio="true",TuneIn News | Bloomberg Radio
+http://tunein.streamguys1.com/bloomberg991
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQyNTkzNThf/iHeartRadio_240x240.png" group-title="Free Live Radio" radio="true",iHeartRadio | NBC News Radio
+https://stream.revma.ihrhls.com/zc6043/hls.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY3OTI5MDNf/ShoutCast_225x225.png" group-title="Free Live Radio" radio="true",ShoutCast | Fox News Radio
+https://streaming-ent.shoutcast.com/foxnews
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Free Live Radio",** Free Live Radio Mix **
+https://od.lk/s/MF8yNDY3OTI1NTFf/OldRadio.mp4?RadioGeneral
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY3OTI2ODVf/TuneIn_380x380.png" group-title="Free Live Radio" radio="true",TuneIn Classic Hits
+http://rfcmedia.streamguys1.com/classichits.mp3
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY3OTI2ODVf/TuneIn_380x380.png" group-title="Free Live Radio" radio="true",TuneIn | MeTV FM WXZO
+http://crystalout.surfernetwork.com:8001/WXZO_MP3
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY3OTI1ODBf/Radio.png" group-title="Free Live Radio" radio="true",WRVO-1 Public Media NPR News
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRVOFM.mp3?uuid=ikd85nml
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY3OTI1ODBf/Radio.png" group-title="Free Live Radio" radio="true",WRVO-2 PRX Remix
+https://17993.live.streamtheworld.com/WRVOHD2.mp3?uuid=ikd85nml
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY3OTI1ODBf/Radio.png" group-title="Free Live Radio" radio="true",WRVO-3 BBC World Service
+https://16813.live.streamtheworld.com/WRVOHD3.mp3?uuid=ikd85nml
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY3OTI1ODBf/Radio.png" group-title="Free Live Radio" radio="true",NPR WAMU 88.5
+http://wamu-1.streamguys.com/wamu-1
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY3OTI1ODBf/Radio.png" group-title="Free Live Radio" radio="true",WGN Radio 720
+https://v7player.wostreaming.net/3614
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Free Live Radio",** Live Radio | Canada **
+https://od.lk/s/MF8yNDY3OTI1NTFf/OldRadio.mp4?RadioLocalCA
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY3OTMxMThf/TSNRadio_625x625.png" group-title="Free Live Radio" radio="true",TSN Radio 690 Montreal
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKGMAM.mp3
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY3OTI1ODBf/Radio.png" group-title="Free Live Radio" radio="true",CHOM-FM Montreal
+https://playerservices.streamtheworld.com/api/livestream-redirect/CHOMFM.mp3
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Free Live Radio",** Novelty & Old Time Radio **
+https://od.lk/s/MF8yNDY3OTI1NTFf/OldRadio.mp4?RadioOTR
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY4MDc3NDNf/OldTimeRadio.png" group-title="Free Live Radio" radio="true",OTR Antioch OTR
+https://s6.yesstreaming.net:18000/listen
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY4MDc3NDNf/OldTimeRadio.png" group-title="Free Live Radio" radio="true",OTR AM600 Conyers OTR
+https://s2.yesstreaming.net:17161/stream
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY4MDc3NDNf/OldTimeRadio.png" group-title="Free Live Radio" radio="true",Conyers OTR Holiday Channel
+https://s6.yesstreaming.net:17082/stream
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY4MDc3NDNf/OldTimeRadio.png" group-title="Free Live Radio" radio="true",OTR WRCW Radio - GUNSMOKE
+http://107.181.227.250:8166/stream
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY4MDc3NDNf/OldTimeRadio.png" group-title="Free Live Radio" radio="true",OTR Yesterday USA Red
+http://streaming.radio.co/sf5708c004/listen
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY4MDc3NDNf/OldTimeRadio.png" group-title="Free Live Radio" radio="true",OTR Yesterday USA Blue
+http://streaming.radio.co/sa37b728bf/listen
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY4MDc3NDNf/OldTimeRadio.png" group-title="Free Live Radio" radio="true",WOTR | Old Time Radio USA
+https://listen.openstream.co/4884/;listen
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY4MDc3NDNf/OldTimeRadio.png" group-title="Free Live Radio" radio="true",WOTR | Crime Time Radio USA
+https://listen.openstream.co/4799/;listen
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY4MDc3NDNf/OldTimeRadio.png" group-title="Free Live Radio" radio="true",WOTR | Suspense Radio USA
+https://listen.openstream.co/4885/;listen
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjQzMjIyNzhf/Generic-VOD.png" group-title="Free2View TV | VOD",** VOD | Free2View TV **
 https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4?VOD1
