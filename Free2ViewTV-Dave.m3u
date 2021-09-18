@@ -40,6 +40,9 @@
 # UPDATE: 9/12/21 - UPDATE: New streams / updated streams to "Plex Live TV" and "Samsung TV Plus".
 # UPDATE: 9/12/21 - NEW CHANNEL ADDED: French-Canadian channel TVA (Alternate) added to "Canada" category.
 # UPDATE: 9/12/21 - NEW CATEGORY: "Free Live Radio" category: local live radio, news radio, novelty & Old Time Radio, and more.
+# UPDATE: 9/13/21 - NEW VOD ADDED: Additional VOD media has been added to the NSFW edition of the playlist.
+# UPDATE: 9/15/21 - NEW CATEGORY: "Ambient TV" - Sound Optional! Great for office screens at home or for your business!
+# UPDATE: 9/15/21 - UPDATE: AmericaTeve | Roku, DocuBox | Vuuzle, added to "Free Ad Supported TV"; streams updated in same group.
 #
 # ************************************************************************************************************************************* 
 
@@ -387,7 +390,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faf9368c7ad900082bc9
 #EXTINF:-1 tvg-id="60faf9ddfcc1f200070a5932" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Vizio WatchFree + Pluto TV",US | Garfield and Friends
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Free Ad Supported TV",** Category updated 9/05/21 **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Free Ad Supported TV",** Category updated 9/15/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?FAST1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Free Ad Supported TV",** Also known as F.A.S.T.- free Ad-supported TV from Distro TV- Local Now- and more! **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?FAST2
@@ -397,6 +400,8 @@ https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?TRC1
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokutribecafilm/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="Free Ad Supported TV",El Rey Network (Geo-USA) | Roku
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-elrey-rokuus/playlist.m3u8?rdid=b34ff431-af07-55cd-810f-c4718ba2fde5&coppa=false&content=b71c44cc439354d4b9939a55f3a20097&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=el_rey&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.131+Safari%2F537.36+OPR%2F78.0.4093.147&is_lat=1&channel_id=151908
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="Free Ad Supported TV",AmericaTeve | Roku
+https://americateve-rokuus.amagi.tv/hls/amagi_hls_data_americate-america-teve-roku-us/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="Free Ad Supported TV",Kocowa Classic | Roku
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokukocowa/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="Free Ad Supported TV",Vivaldi TV | Roku
@@ -427,8 +432,10 @@ https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Vuuzle
 https://content.uplynk.com/channel/ext/f749f9956d4e467897dc48680d53df15/43393.m3u8?tc=1&exp=1630273703732&rn=3967507621&ct=c&oid=f749f9956d4e467897dc48680d53df15&eid=43393&euid=43393&ad=livetv&ad.custom%5Bcontentid%5D=Vuulr&ad.custom%5Biris_context%5D%5B%5D=ic_4146983&ad.custom%5Biris_id%5D=iris_b3e514775f932360&sig=78a6b4e4ea90bf67ce7fb730942d2d895b5139091d2d49c35b8c7ba7b9e0a0e2
 #EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yNDU2NjA3ODlf/Vuuzle_400x400.png" tvg-name="" group-title="Free Ad Supported TV",Flashback | Vuuzle
 https://content.uplynk.com/channel/ext/f749f9956d4e467897dc48680d53df15/29862.m3u8?tc=1&exp=1630265850112&rn=820811223&ct=c&oid=f749f9956d4e467897dc48680d53df15&eid=29862&euid=29862&ad=livetv&ad.preroll=1&ad.custom%5Bcontentid%5D=FCCE&ad.custom%5Biris_context%5D%5B%5D=ic_4665116%2Cic_7788821%2Cic_4146983%2Cic_8691809%2Cic_6892597%2Cic_4937131&ad.custom%5Biris_id%5D=iris_b82259ef18086f58&sig=b4cd17c6b63922d3c6700480916ffc8a6aac9da422d4db58ac207887e4e62a2b
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yNDU2NjA3ODlf/Vuuzle_400x400.png" tvg-name="" group-title="Free Ad Supported TV",DocuBox | Vuuzle
+https://content.uplynk.com/channel/ext/f749f9956d4e467897dc48680d53df15/43388.m3u8?tc=1&exp=1631755756510&rn=2494404621&ct=c&oid=f749f9956d4e467897dc48680d53df15&eid=43388&euid=43388&ad=livetv&ad.preroll=1&ad.custom%5Bcontentid%5D=FilmBox_DocuBox&ad.custom%5Biris_context%5D%5B%5D=ic_3649156&ad.custom%5Biris_id%5D=iris_3212ca9ec6bf1864&sig=12ffabfef12526ce58e9f871dbc64559a90d5309100af7c591e59cf15c8059a2
 #EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yNDU2NjA3ODlf/Vuuzle_400x400.png" tvg-name="" group-title="Free Ad Supported TV",FilmBox Arthouse | Vuuzle
-https://content.uplynk.com/channel/ext/f749f9956d4e467897dc48680d53df15/43393.m3u8?tc=1&exp=1630265449302&rn=2026682778&ct=c&oid=f749f9956d4e467897dc48680d53df15&eid=43393&euid=43393&ad=livetv&ad.custom%5Bcontentid%5D=Vuulr&ad.custom%5Biris_context%5D%5B%5D=ic_4146983&ad.custom%5Biris_id%5D=iris_b3e514775f932360&sig=5759eb85e46a4731617b5e12d47e4aa27a0451885d1cc61c0d40258f50b7fc36
+https://content.uplynk.com/channel/ext/f749f9956d4e467897dc48680d53df15/43391.m3u8?tc=1&exp=1631755683796&rn=3367870003&ct=c&oid=f749f9956d4e467897dc48680d53df15&eid=43391&euid=43391&ad=livetv&ad.custom%5Bcontentid%5D=Filmbox_Arthouse&ad.custom%5Biris_context%5D%5B%5D=ic_3649156%2Cic_0858141%2Cic_6892597&ad.custom%5Biris_id%5D=iris_eb79e57d4002389a&sig=550ac3c4ab1c67882677e2a66acfd662ab2e645adebdfceef62d8dbdb16f8d42
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="STIRR TV",** Category updated 8/10/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Stirr1
@@ -1733,6 +1740,47 @@ https://rt-usa-gd.secure2.footprint.net/1105_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDU0NDAxODlf/RTUK_400x400.png" group-title="International TV",Russia Today UK
 https://rt-uk-gd.secure2.footprint.net/1106_2500Kb.m3u8
 
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Ambient TV",** Category updated 9/15/21 **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Ambient1
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Ambient TV",** Ambient TV - Sound Optional! Great for office screens at home or for your business! **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Ambient2
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Ambient TV",** Bumblebee.tv **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Ambient3
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY5NDMyMDZf/BumblebeeTV_Generic.png" group-title="Ambient TV",LEGO Toons TV | HD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY5NDMyMDZf/BumblebeeTV_Generic.png" group-title="Ambient TV",Animals Live | HD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY5NDMyMDZf/BumblebeeTV_Generic.png" group-title="Ambient TV",Forests Live | HD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY5NDMyMDZf/BumblebeeTV_Generic.png" group-title="Ambient TV",Rivers & Streams Live | HD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Ambient TV",** Webcams **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?AmbientWebcams
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV",Cheetah Cub Cam | 1
+https://nzp-ms05.si.edu/live_edge_cheetah_01/cheetah_y01_01_1080_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV",Cheetah Cub Cam | 2
+https://nzp-ms06.si.edu/live_edge_cheetah_02/cheetah_y01_02_1080_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV",Naked Mole-rat Cam | 1
+https://nzp-ms04.si.edu/live_edge_nmr/nmr_1080_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV",Naked Mole-rat Cam | 2
+https://nzp-ms06.si.edu/live_edge_nmr_02/nmr_02_1080_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV",Lion Cam
+https://nzp-ms05.si.edu/live_edge_lion/smil:lion01_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV",Giant Panda Cam | 1
+https://nzp-ms06.si.edu/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV",Giant Panda Cam | 2
+https://nzp-ms06.si.edu/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV",Elephant Cam
+https://nzp-ms06.si.edu/live_edge_elephant/elephant01_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDM5MTNf/Generic-Webcam.png" group-title="Ambient TV",Times Square Cam
+https://videos3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist_w2120301051.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDM5MTNf/Generic-Webcam.png" group-title="Ambient TV",Niagara Falls WebCam
+https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/4559/2019/08/11/1300.mp4/chunklist_w1595912559.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDM5MTNf/Generic-Webcam.png" group-title="Ambient TV",London UK Abbey Road WebCam
+https://videos3.earthcam.com/fecnetwork/AbbeyRoadHD1.flv/chunklist_w1096421812.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDM5MTNf/Generic-Webcam.png" group-title="Ambient TV",Rio Copacabana Beach WebCam
+https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/6593/2017/10/01/1300.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Stingray Music",** Category updated 8/12/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Stingray1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Stingray Music",** Use this EPG source: **
@@ -1928,7 +1976,6 @@ https://od.lk/s/MF8yMzUyNDkxMzNf/Europa-Konzert-2016-from-Roros_Knowledge-ca_720
 https://od.lk/s/MF8yMTU5MTYzMTVf/Roku_City-Stroll_Skyline_720p_16m43s.mp4
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjQzMjIyNzhf/Generic-VOD.png" group-title="Free2View TV | VOD",Roku Movie Magic Screensaver
 https://od.lk/s/MF8yMTU5MTU4NzZf/Roku_City-Stroll_Movie-Magic_720p_16m43s.mp4
-
 
 
 
