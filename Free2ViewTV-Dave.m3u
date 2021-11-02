@@ -85,6 +85,15 @@
 # 10/26/21 - NEW CHANNELS / CHANNEL MAINTENANCE: Added food channels, updated some news channels in "Samsung TV Plus".
 # 10/26/21 - CHANNEL MAINTENANCE: Updated NTV Newfoundland channel in "Canada" category.
 # 10/27/21 - NEW CHANNEL: Fox Weather | Webstream added to "Live News" category.
+# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 10/29/2021 ** !! See chronology of changes below...
+# 10/29/21 - NEW CHANNELS ADDED: Several new channels added to the "Samsung TV Plus" category.
+# 10/30/21 - NEW CONTENT ADDED: Additional VOD and live channels added to "Holidays 365" category.
+# 10/30/21 - NEW CATEGORY: Added primary set (main channels) of "LocalNow" with new EPG, courtesy of @DeltaSR + @jhr1948 via Discord.
+# 10/30/21 - NEW EPG SOURCE: new "LocalNow" EPG source NEW! [11] https://cutt.ly/LocalNowepg
+# 10/30/21 - NEW CATEGORY: Added full set of channels from "WatchYour.TV" with new EPG, courtesy of @DeltaSR + @jhr1948 via Discord.
+# 10/30/21 - NEW EPG SOURCE: new "WatchYour.TV" EPG source NEW! [12] https://cutt.ly/WatchyourTVepg
+# 10/30/21 - INFORMATION: For new EPG sources, be sure to select the 'Download at each update' option in the settings!
+# 10/30/21 - MAINTENANCE: Removed 'Local Now Exclusives' from "Free Ad Supported TV" as we now have dedicated "LocalNow" category.
 #
 # ************************************************************************************************************************************* 
 
@@ -100,8 +109,6 @@ https://od.lk/s/MF8yMjk4MTkzODdf/Free2ViewTV-Slide1_v6_210220.mp4?1C
 https://od.lk/s/MF8yMjk4MTkzODdf/Free2ViewTV-Slide1_v6_210220.mp4?1C2
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Info | Free2View TV",** Our Social Places: Facebook Group 'We Are Streamers on a Budget' | Discord https://discord.gg/C48WhSTpw7 | email Free2ViewTVCanada@gmail.com **
 https://od.lk/s/MF8yMjk4MTkzODdf/Free2ViewTV-Slide1_v6_210220.mp4?1D
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Info | Free2View TV",** Special Thanks: @MattHuisman - @Apsattv - @lrm5000 - and others from our discord community who regularly collaborate to this project! **
-https://od.lk/s/MF8yMjk4MTkzODdf/Free2ViewTV-Slide1_v6_210220.mp4?1E
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",** EPG Sources Below: ** Be sure to select the 'Download at each update' option in the settings! **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?2
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[1] https://od.lk/s/MzJfMTQyMzI0MTJf/CAN_EPG1.xml
@@ -124,19 +131,21 @@ https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?10
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?11
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",NEW! [10] https://od.lk/s/MzJfMTQyMzI0MTdf/WNY_13601_DTV.xml
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?12
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",NEW! [11] https://cutt.ly/LocalNowepg
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?13
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",NEW! [12] https://cutt.ly/WatchyourTVepg
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?14
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDA3OTIxOTdf/BuyMeACoffee_400x400.png" group-title="Info | Free2View TV",** Support Us! Buy Me A Coffee? **
 https://od.lk/s/MF8yMjk4MTkzOTJf/F2VTV_BuyMeACoffee_v4.mp4?BMC1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDA3OTIxOTdf/BuyMeACoffee_400x400.png" group-title="Info | Free2View TV",https://www.buymeacoffee.com/7gtLduXqV
 https://od.lk/s/MF8yMjk4MTkzOTJf/F2VTV_BuyMeACoffee_v4.mp4?BMC2
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Samsung TV Plus",** Category updated 9/29/21 **
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Samsung TV Plus",** Category updated 10/29/21 **
 https://od.lk/s/MF8yMzk5NTY0Mjlf/SamsungTVPlus.mp4?SSInfo1
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Samsung TV Plus",** Original list: @MattHuisman | Adapted by: @geonsey Free2View TV **
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Samsung TV Plus",** Credits: @MattHuisman | Adapted by: @geonsey Free2View TV **
 https://od.lk/s/MF8yMzk5NTY0Mjlf/SamsungTVPlus.mp4?SSInfo2
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Samsung TV Plus",** Use this EPG source: **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Samsung TV Plus",** Use this EPG source: [8] https://i.mjh.nz/SamsungTVPlus/all.xml **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?SSInfo4A
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Samsung TV Plus",[8] https://i.mjh.nz/SamsungTVPlus/all.xml 
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?SSInfo4B
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Samsung TV Plus",â˜…â˜… News + Opinion â˜…â˜…
 https://od.lk/s/MF8yMzk5NTY0Mjlf/SamsungTVPlus.mp4?SSNews
 #EXTINF:-1 tvg-id="USBA370000104" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/67/USBA370000104_20200915T081312.png" group-title="Samsung TV Plus",US | CBS News
@@ -213,6 +222,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f24662bebe0f0000767de32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Samsung TV Plus",â˜…â˜… Movies â˜…â˜…
 https://od.lk/s/MF8yMzk5NTY0Mjlf/SamsungTVPlus.mp4?SSMovies
+#EXTINF:-1 tvg-id="USBB3600003IC" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/36/USBB3600003IC_20211027T003950.png" group-title="Samsung TV Plus",US | Holiday Movies
+https://d2wkw6golvkrrh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3600003ic-prod/amgholidaymovie/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="USBA3000041ZP" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/58/USBA3000041ZP_20201208T081544.png" group-title="Samsung TV Plus",US | The Movie Hub
 https://dje6yassknq8t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/MovieHub2-prod/playlist.m3u8?ads.device_did%3D%7BPSID%7D%26ads.device_dnt%3D%7BTARGETOPT%7D%26ads.us_privacy%3D1YNY%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="USBB19000017U" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/31/USBB19000017U_20210525T051431.png" group-title="Samsung TV Plus",US | Hallmark Movies & More
@@ -257,10 +268,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e5
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Samsung TV Plus",â˜…â˜… Comedy â˜…â˜…
 https://od.lk/s/MF8yMzk5NTY0Mjlf/SamsungTVPlus.mp4?SSComedy
-#EXTINF:-1 tvg-id="USAJ34000198F" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/38/USAJ34000198F_20210824T091338.png" group-title="Samsung TV Plus",US | Portlandia
-https://amc-portlandia-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="USBB1500002TZ" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/67/USBB1500002TZ_20210824T091336.png" group-title="Samsung TV Plus",US | Are We There Yet?
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyet-samsungus/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.us_privacy%3D1YNY%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
+#EXTINF:-1 tvg-id="USBB3500003D6" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/79/USBB3500003D6_20211027T003706.png" group-title="Samsung TV Plus",Pluto TV | Family Ties
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f77939a630f530007dde654/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="USAJ34000198F" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/38/USAJ34000198F_20210824T091338.png" group-title="Samsung TV Plus",US | Portlandia
+https://amc-portlandia-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Samsung TV Plus",â˜…â˜… Game Shows â˜…â˜…
 https://od.lk/s/MF8yMzk5NTY0Mjlf/SamsungTVPlus.mp4?SSGameShows
 #EXTINF:-1 tvg-id="USBA300030Q8" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/74/USBA300030Q8_20210609T003452.png" group-title="Samsung TV Plus",US | BUZZR
@@ -340,10 +353,8 @@ https://newidco-newkid-1-us.samsung.wurl.tv/playlist.m3u8
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?BingePlutoInfo1A
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Pluto TV on Samsung TV Plus",** Credits: @MattHuisman | Adapted by: @geonsey Free2View TV **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?BingePlutoInfo1B
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Pluto TV on Samsung TV Plus",** Uses this EPG source: **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Pluto TV on Samsung TV Plus",** Uses this EPG source: [9] https://i.mjh.nz/PlutoTV/all.xml **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?BingePlutoInfo2A
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Pluto TV on Samsung TV Plus",[9] https://i.mjh.nz/PlutoTV/all.xml
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?BingePlutoInfo2B
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Pluto TV on Samsung TV Plus",â˜…â˜… Featured â˜…â˜…
 https://od.lk/s/MF8yNDkxMDE0MTJf/PlutoTV_Intermission_2020.mp4?plutofeatured
 #EXTINF:-1 tvg-id="5d4db961034718b2f52f9e52" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV on Samsung TV Plus",US | Pluto TV 007
@@ -407,91 +418,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faffc3fbbc120007fc43
 #EXTINF:-1 tvg-id="60fb040d4795a6000762fe8f" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV on Samsung TV Plus",US | Kartoon Channel!
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb040d4795a6000762fe8f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Plex Live TV",** Category updated 10/11/21 **
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?plex1
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Plex Live TV",** Original list: @MattHuisman | Adapted by: @geonsey Free2View TV **
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Plex2
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Plex Live TV",** Use this EPG source: **
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?EPGPlex1
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Plex Live TV",[5] https://i.mjh.nz/Plex/all.xml 
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?EPGPlex2
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Plex Live TV",â˜…â˜… Hit TV â˜…â˜…
-https://od.lk/s/MF8yNDkxMDIyMThf/PlexLiveTV_Ad_1080p.mp4?plexhittv
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ef3b588e782f002c8b1d06" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/best-ever-tv-logo_dark.png" group-title="Plex Live TV",US | Best TV Ever
-https://bec-besttvever-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Plex Live TV",â˜…â˜… Movies â˜…â˜…
-https://od.lk/s/MF8yNDkxMDIyMThf/PlexLiveTV_Ad_1080p.mp4?plexmovies
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/24hrfreemovies_logo_dark.png" group-title="Plex Live TV",US | 24 Hour Free Movies
-https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8?ads.plex_token=mHLguq7KAeUAboPmP8KS&ads.channel_id=5fd115bab7ef8d002dcf181d&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60a9d104d162b9002d05a60a" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Cinehouse_logo_dark.png" group-title="Plex Live TV",US | Cinehouse
-https://digitalmediarights-cinehouse-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a3" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/the-film-detective.png" group-title="Plex Live TV",US | The Film Detective
-https://filmdetective-plex.amagi.tv/index.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132e162fe160040f26bdb" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/spi_filmstream_1.png" group-title="Plex Live TV",US | FilmStream
-https://spi-filmstream-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5efe1de7e0b3f5003f5d9f8e" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/gravitas_movies.png" group-title="Plex Live TV",US | Gravitas Movies
-https://gravitas-movies-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-614a11bfa6f839154ee3306d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/SparkTV_logo_dark.png" group-title="Plex Live TV",US | Spark TV Light & Love
-https://candlelightmedia-sparklightlove-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ede94f7da2ef002c55ce9b" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/TribecaChannel_Logo_Dark.png" group-title="Plex Live TV",US | Tribeca Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=822&livestream=1&live=1&app_bundle=com.plexapp.desktop&did=undefined&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=1&us_privacy=1---&custom_6=QyvCDsVSp7Qeg2h2KKUw&custom_7=60ede94f7da2ef002c55ce9b
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wu-tang-collection.png" group-title="Plex Live TV",US | Wu Tang Collection
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=mHLguq7KAeUAboPmP8KS&content_series=5eea605474085f0040ddc770&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=mHLguq7KAeUAboPmP8KS&custom_7=5eea605474085f0040ddc770
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Plex Live TV",â˜…â˜… Reality TV â˜…â˜…
-https://od.lk/s/MF8yNDkxMDIyMThf/PlexLiveTV_Ad_1080p.mp4?plexreality
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc79d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/lawandcrime_samsung.png" group-title="Plex Live TV",US | Law & Crime
-https://lawandcrime-samsung-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Plex Live TV",â˜…â˜… Lifestyle â˜…â˜…
-https://od.lk/s/MF8yNDkxMDIyMThf/PlexLiveTV_Ad_1080p.mp4?plexlifestyle
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0641d3e8ffda004033b16e" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/thedesignnetwork_tdn_5.png" group-title="Plex Live TV",US | The Design Network
-https://thedesignnetwork-tdn-6-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f74cf82ffbe690040689f47" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/lively-place-logo.png" group-title="Plex Live TV",US | Lively Place
-https://aenetworks-ae-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="Plex Live TV",US | Cooking Panda
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46&live=1&app_bundle=com.plexapp.desktop&did=undefined&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=QyvCDsVSp7Qeg2h2KKUw&content_series=5f07e9fdf313eb0041bbecda&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---&custom_6=QyvCDsVSp7Qeg2h2KKUw&custom_7=5f07e9fdf313eb0041bbecda
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f8746eabd529300418246d9" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/gusto-tv-logo.png" group-title="Plex Live TV",US | Gusto TV
-https://gustous-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Plex Live TV",â˜…â˜… Comedy â˜…â˜…
-https://od.lk/s/MF8yNDkxMDIyMThf/PlexLiveTV_Ad_1080p.mp4?plexcomedy
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc78e" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/the_pet_collective_samsung_.png" group-title="Plex Live TV",US | The Pet Collective
-https://the-pet-collective-samsung-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Plex Live TV",â˜…â˜… Explore â˜…â˜…
-https://od.lk/s/MF8yNDkxMDIyMThf/PlexLiveTV_Ad_1080p.mp4?plexexplore
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-614e286b2bac097ffd6fd6ab" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/documentaryplus_logo_dark.png" group-title="Plex Live TV",US | Documentary+
-https://documentaryplus-documentaryplus-2-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6047e0d0a3c395002decfc9a" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/spacechannel_logo_dark_v2.png" group-title="Plex Live TV",US | Space Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=565&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=D-GGxxtD1zEcydtFECAx&content_series=6047e0d0a3c395002decfc9a&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=D-GGxxtD1zEcydtFECAx&custom_7=6047e0d0a3c395002decfc9a
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Plex Live TV",â˜…â˜… Sports â˜…â˜…
-https://od.lk/s/MF8yNDkxMDIyMThf/PlexLiveTV_Ad_1080p.mp4?plexsports
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0ff265d71dcb00449ec02a" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/channel-fight.png" group-title="Plex Live TV",US | Channel Fight
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=mHLguq7KAeUAboPmP8KS&content_series=5f0ff265d71dcb00449ec02a&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=mHLguq7KAeUAboPmP8KS&custom_7=5f0ff265d71dcb00449ec02a
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60affff8623f2f002c5bb4a1" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/combatgo_logo_dark.png" group-title="Plex Live TV",US | Combat Go
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=726&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=mHLguq7KAeUAboPmP8KS&content_series=60affff8623f2f002c5bb4a1&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=mHLguq7KAeUAboPmP8KS&custom_7=60affff8623f2f002c5bb4a1
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/fightnetwork_logo_dark.png" group-title="Plex Live TV",US | Fight Network
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=778&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=mHLguq7KAeUAboPmP8KS&content_series=606605549dbfca002d2ae877&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=mHLguq7KAeUAboPmP8KS&custom_7=606605549dbfca002d2ae877
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fd115bdb7ef8d002dcf1820" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/hardknocks_logo_dark.png" group-title="Plex Live TV",US | Hard Knocks
-https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8?ads.plex_token=mHLguq7KAeUAboPmP8KS&ads.channel_id=5fd115bdb7ef8d002dcf1820&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Plex Live TV",â˜…â˜… News & Opinion â˜…â˜…
-https://od.lk/s/MF8yNDkxMDIyMThf/PlexLiveTV_Ad_1080p.mp4?plexnews
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6151d74593dbf246f0843f01" tvg-logo="https://provider-static.plex.tv/5/epg/channels/logos/gracenote/5a7e54ee888681046719d306357620b4.png" group-title="Plex Live TV",US | AccuWeather NOW
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=K3jFyttsksLzRwtohyrJ&channelId=6151d74593dbf246f0843f01
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Plex Live TV",â˜…â˜… Music â˜…â˜…
-https://od.lk/s/MF8yNDkxMDIyMThf/PlexLiveTV_Ad_1080p.mp4?plexmusic
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60cab54031ae01002cf7bb31" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/loopmusicvideos_logo_dark.png" group-title="Plex Live TV",US | Loop Music Videos
-https://loopmusic-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-loopmusic-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=mHLguq7KAeUAboPmP8KS&channelId=60cab54031ae01002cf7bb31
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb06487f9b1002ce1231b" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-classical_channel_logo_dark.png" group-title="Plex Live TV",US | QwestTV Classical
-https://qwest-classic-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-jazz&beyond_channel_logo_dark.png" group-title="Plex Live TV",US | QwestTV Jazz & Beyond
-https://qwest-jazz-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a77" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-mix_channel_logo_dark.png" group-title="Plex Live TV",US | QwestTV Mix
-https://qwest-mix-plex.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="STIRR TV",** Category updated 8/10/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Stirr1
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="STIRR TV",** Use this EPG source: **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="STIRR TV",** Use this EPG source: [6] https://i.mjh.nz/Stirr/all.xml **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Stirr2A
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="STIRR TV",[6] https://i.mjh.nz/Stirr/all.xml
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Stirr2B
 #EXTINF:-1 tvg-id="dco" tvg-logo="https://od.lk/s/MF8yMjY0NDYwOTdf/Stirr_Blue_510x510.png" group-title="STIRR TV",STIRR | National
 https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
 #EXTINF:-1 tvg-id="externallinearfeed-05-25-2020-174756630-05-25-2020" tvg-logo="https://od.lk/s/MF8yMjY0NDYwOTdf/Stirr_Blue_510x510.png" group-title="STIRR TV",STIRR | The First
@@ -692,239 +622,314 @@ https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
 #EXTINF:-1 tvg-id="soar-11-20-2019-200325249" tvg-logo="https://od.lk/s/MF8yMjY0NDYwOTdf/Stirr_Blue_510x510.png" group-title="STIRR TV",STIRR | SOAR
 https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Distro TV",** Playlist Updated 10/24/21 **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Plex Live TV",** Category updated 10/11/21 **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?plex1
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Plex Live TV",** Credits: @MattHuisman | Adapted by: @geonsey Free2View TV **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Plex2
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Plex Live TV",** Use this EPG source: [5] https://i.mjh.nz/Plex/all.xml **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?EPGPlex1
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Plex Live TV",â˜…â˜… Hit TV â˜…â˜…
+https://od.lk/s/MF8yNDkxMDIyMThf/PlexLiveTV_Ad_1080p.mp4?plexhittv
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ef3b588e782f002c8b1d06" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/best-ever-tv-logo_dark.png" group-title="Plex Live TV",US | Best TV Ever
+https://bec-besttvever-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Plex Live TV",â˜…â˜… Movies â˜…â˜…
+https://od.lk/s/MF8yNDkxMDIyMThf/PlexLiveTV_Ad_1080p.mp4?plexmovies
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/24hrfreemovies_logo_dark.png" group-title="Plex Live TV",US | 24 Hour Free Movies
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8?ads.plex_token=mHLguq7KAeUAboPmP8KS&ads.channel_id=5fd115bab7ef8d002dcf181d&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60a9d104d162b9002d05a60a" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Cinehouse_logo_dark.png" group-title="Plex Live TV",US | Cinehouse
+https://digitalmediarights-cinehouse-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a3" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/the-film-detective.png" group-title="Plex Live TV",US | The Film Detective
+https://filmdetective-plex.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132e162fe160040f26bdb" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/spi_filmstream_1.png" group-title="Plex Live TV",US | FilmStream
+https://spi-filmstream-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5efe1de7e0b3f5003f5d9f8e" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/gravitas_movies.png" group-title="Plex Live TV",US | Gravitas Movies
+https://gravitas-movies-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-614a11bfa6f839154ee3306d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/SparkTV_logo_dark.png" group-title="Plex Live TV",US | Spark TV Light & Love
+https://candlelightmedia-sparklightlove-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ede94f7da2ef002c55ce9b" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/TribecaChannel_Logo_Dark.png" group-title="Plex Live TV",US | Tribeca Channel
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=822&livestream=1&live=1&app_bundle=com.plexapp.desktop&did=undefined&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=1&us_privacy=1---&custom_6=QyvCDsVSp7Qeg2h2KKUw&custom_7=60ede94f7da2ef002c55ce9b
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wu-tang-collection.png" group-title="Plex Live TV",US | Wu Tang Collection
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=mHLguq7KAeUAboPmP8KS&content_series=5eea605474085f0040ddc770&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=mHLguq7KAeUAboPmP8KS&custom_7=5eea605474085f0040ddc770
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Plex Live TV",â˜…â˜… Reality TV â˜…â˜…
+https://od.lk/s/MF8yNDkxMDIyMThf/PlexLiveTV_Ad_1080p.mp4?plexreality
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc79d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/lawandcrime_samsung.png" group-title="Plex Live TV",US | Law & Crime
+https://lawandcrime-samsung-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Plex Live TV",â˜…â˜… Lifestyle â˜…â˜…
+https://od.lk/s/MF8yNDkxMDIyMThf/PlexLiveTV_Ad_1080p.mp4?plexlifestyle
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0641d3e8ffda004033b16e" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/thedesignnetwork_tdn_5.png" group-title="Plex Live TV",US | The Design Network
+https://thedesignnetwork-tdn-6-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f74cf82ffbe690040689f47" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/lively-place-logo.png" group-title="Plex Live TV",US | Lively Place
+https://aenetworks-ae-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="Plex Live TV",US | Cooking Panda
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46&live=1&app_bundle=com.plexapp.desktop&did=undefined&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=QyvCDsVSp7Qeg2h2KKUw&content_series=5f07e9fdf313eb0041bbecda&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---&custom_6=QyvCDsVSp7Qeg2h2KKUw&custom_7=5f07e9fdf313eb0041bbecda
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f8746eabd529300418246d9" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/gusto-tv-logo.png" group-title="Plex Live TV",US | Gusto TV
+https://gustous-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Plex Live TV",â˜…â˜… Comedy â˜…â˜…
+https://od.lk/s/MF8yNDkxMDIyMThf/PlexLiveTV_Ad_1080p.mp4?plexcomedy
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc78e" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/the_pet_collective_samsung_.png" group-title="Plex Live TV",US | The Pet Collective
+https://the-pet-collective-samsung-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Plex Live TV",â˜…â˜… Explore â˜…â˜…
+https://od.lk/s/MF8yNDkxMDIyMThf/PlexLiveTV_Ad_1080p.mp4?plexexplore
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-614e286b2bac097ffd6fd6ab" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/documentaryplus_logo_dark.png" group-title="Plex Live TV",US | Documentary+
+https://documentaryplus-documentaryplus-2-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6047e0d0a3c395002decfc9a" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/spacechannel_logo_dark_v2.png" group-title="Plex Live TV",US | Space Channel
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=565&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=D-GGxxtD1zEcydtFECAx&content_series=6047e0d0a3c395002decfc9a&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=D-GGxxtD1zEcydtFECAx&custom_7=6047e0d0a3c395002decfc9a
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Plex Live TV",â˜…â˜… Sports â˜…â˜…
+https://od.lk/s/MF8yNDkxMDIyMThf/PlexLiveTV_Ad_1080p.mp4?plexsports
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0ff265d71dcb00449ec02a" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/channel-fight.png" group-title="Plex Live TV",US | Channel Fight
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=mHLguq7KAeUAboPmP8KS&content_series=5f0ff265d71dcb00449ec02a&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=mHLguq7KAeUAboPmP8KS&custom_7=5f0ff265d71dcb00449ec02a
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60affff8623f2f002c5bb4a1" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/combatgo_logo_dark.png" group-title="Plex Live TV",US | Combat Go
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=726&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=mHLguq7KAeUAboPmP8KS&content_series=60affff8623f2f002c5bb4a1&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=mHLguq7KAeUAboPmP8KS&custom_7=60affff8623f2f002c5bb4a1
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/fightnetwork_logo_dark.png" group-title="Plex Live TV",US | Fight Network
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=778&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=mHLguq7KAeUAboPmP8KS&content_series=606605549dbfca002d2ae877&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=mHLguq7KAeUAboPmP8KS&custom_7=606605549dbfca002d2ae877
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fd115bdb7ef8d002dcf1820" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/hardknocks_logo_dark.png" group-title="Plex Live TV",US | Hard Knocks
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8?ads.plex_token=mHLguq7KAeUAboPmP8KS&ads.channel_id=5fd115bdb7ef8d002dcf1820&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Plex Live TV",â˜…â˜… News & Opinion â˜…â˜…
+https://od.lk/s/MF8yNDkxMDIyMThf/PlexLiveTV_Ad_1080p.mp4?plexnews
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6151d74593dbf246f0843f01" tvg-logo="https://provider-static.plex.tv/5/epg/channels/logos/gracenote/5a7e54ee888681046719d306357620b4.png" group-title="Plex Live TV",US | AccuWeather NOW
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=K3jFyttsksLzRwtohyrJ&channelId=6151d74593dbf246f0843f01
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Plex Live TV",â˜…â˜… Music â˜…â˜…
+https://od.lk/s/MF8yNDkxMDIyMThf/PlexLiveTV_Ad_1080p.mp4?plexmusic
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60cab54031ae01002cf7bb31" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/loopmusicvideos_logo_dark.png" group-title="Plex Live TV",US | Loop Music Videos
+https://loopmusic-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-loopmusic-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=mHLguq7KAeUAboPmP8KS&channelId=60cab54031ae01002cf7bb31
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb06487f9b1002ce1231b" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-classical_channel_logo_dark.png" group-title="Plex Live TV",US | QwestTV Classical
+https://qwest-classic-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-jazz&beyond_channel_logo_dark.png" group-title="Plex Live TV",US | QwestTV Jazz & Beyond
+https://qwest-jazz-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a77" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-mix_channel_logo_dark.png" group-title="Plex Live TV",US | QwestTV Mix
+https://qwest-mix-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Distro TV",** Playlist Updated 10/27/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?DistroTVInfo1A
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Distro TV",** Credits: @DeltaSR + @jhr1948 via Discord | Adapted by: @geonsey Free2View TV **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?DistroTVInfo1B
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Distro TV",** Uses this EPG source: **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Distro TV",** Uses this EPG source: NEW! [7] https://cutt.ly/DistroTVepg **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?DistroTVInfo1C
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Distro TV",NEW! [7] https://cutt.ly/DistroTVepg
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?DistroTVInfo1D
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Distro TV",â˜…â˜… Entertainment â˜…â˜…
 https://od.lk/s/MF8yMTU3OTc3MjJf/DistroTV_A-World-of-Free-TV_Promo.mp4?Entertainment
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGACE TV" tvg-name="Ace" tvg-logo="https://a.jsrdn.com/hls/22990/ace-tv/logo_20210924_174145_68.png" group-title="Distro TV",DTV | Ace
+#EXTINF:-1 tvg-id="dtv_EPGACE TV" tvg-name="Ace" tvg-logo="https://a.jsrdn.com/hls/22990/ace-tv/logo_20210924_174145_68.png" group-title="Distro TV",DTV | Ace
 https://dai.google.com/linear/hls/event/XlPF-0NTSFOnlMNs1Sr59w/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGBest of British TV" tvg-name="Best Of British TV" tvg-logo="https://a.jsrdn.com/hls/22913/best-of-british/logo_20210119_204821_70.png" group-title="Distro TV",DTV | Best Of British TV
+#EXTINF:-1 tvg-id="dtv_EPGBest of British TV" tvg-name="Best Of British TV" tvg-logo="https://a.jsrdn.com/hls/22913/best-of-british/logo_20210119_204821_70.png" group-title="Distro TV",DTV | Best Of British TV
 https://dai.google.com/linear/hls/event/ikbjod17R3y9y9W4QO8cSw/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGBuzzr" tvg-name="Buzzr" tvg-logo="https://a.jsrdn.com/hls/22852/buzzr/logo_20210608_211810.png" group-title="Distro TV",DTV | Buzzr
+#EXTINF:-1 tvg-id="dtv_EPGBuzzr" tvg-name="Buzzr" tvg-logo="https://a.jsrdn.com/hls/22852/buzzr/logo_20210608_211810.png" group-title="Distro TV",DTV | Buzzr
 https://dai.google.com/linear/hls/event/zHy7ojUBQqOoi5b1Aj-qUQ/master.m3u8
 #EXTINF:-1 tvg-id="DUMMYChristmasClassics" tvg-name="Christmas Classics" tvg-logo="https://a.jsrdn.com/hls/22882/christmas-classics/logo_20201215_013924_68.png" group-title="Distro TV",DTV | Christmas Classics
 https://api-ott-ottpri-sl.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=937&partner=distro
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGCircle" tvg-name="Circle" tvg-logo="https://a.jsrdn.com/hls/22961/circle-tv/logo_20210617_181258_68.png" group-title="Distro TV",DTV | Circle
+#EXTINF:-1 tvg-id="dtv_EPGCircle" tvg-name="Circle" tvg-logo="https://a.jsrdn.com/hls/22961/circle-tv/logo_20210617_181258_68.png" group-title="Distro TV",DTV | Circle
 https://dai.google.com/linear/hls/event/7yXZRrG-TkWklMTpEx4sNw/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGCJC Television Network" tvg-name="CJC" tvg-logo="https://a.jsrdn.com/hls/22886/cjc-television-network/logo_20200819_003239_68.png" group-title="Distro TV",DTV | CJC
+#EXTINF:-1 tvg-id="dtv_EPGCJC Television Network" tvg-name="CJC" tvg-logo="https://a.jsrdn.com/hls/22886/cjc-television-network/logo_20200819_003239_68.png" group-title="Distro TV",DTV | CJC
 https://dai.google.com/linear/hls/event/M1pQ5gNkQqmWZOwAuNDtEA/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGClassic Reruns TV" tvg-name="Classic Reruns TV" tvg-logo="https://a.jsrdn.com/hls/22956/classic-reruns-tv/logo_20210429_195105_68.png" group-title="Distro TV",DTV | Classic Reruns TV
+#EXTINF:-1 tvg-id="dtv_EPGClassic Reruns TV" tvg-name="Classic Reruns TV" tvg-logo="https://a.jsrdn.com/hls/22956/classic-reruns-tv/logo_20210429_195105_68.png" group-title="Distro TV",DTV | Classic Reruns TV
 https://dai.google.com/linear/hls/event/wnQPvAN9QBODw9hP-H0rZA/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGComedy Dynamics" tvg-name="Comedy Dynamics" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22787/comedy-dynamics/logo_20191213_195237.png" group-title="Distro TV",DTV | Comedy Dynamics
+#EXTINF:-1 tvg-id="dtv_EPGComedy Dynamics" tvg-name="Comedy Dynamics" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22787/comedy-dynamics/logo_20191213_195237.png" group-title="Distro TV",DTV | Comedy Dynamics
 https://dai.google.com/linear/hls/event/hAOgbga4SISbmj39pzKQwA/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGCONtv" tvg-name="ConTV" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22787/contv/logo_20191126_224818.png" group-title="Distro TV",DTV | ConTV
+#EXTINF:-1 tvg-id="dtv_EPGCONtv" tvg-name="ConTV" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22787/contv/logo_20191126_224818.png" group-title="Distro TV",DTV | ConTV
 https://dai.google.com/linear/hls/event/ldvEXVEQQO-qemwOCkh6YQ/master.m3u8
 #EXTINF:-1 tvg-id="DUMMYGalxyTV" tvg-name="Galxy TV" tvg-logo="https://a.jsrdn.com/hls/22915/galxy-tv/logo_20201029_013656_68.png" group-title="Distro TV",DTV | Galxy TV
 https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGHumor Mill" tvg-name="Humor Mill" tvg-logo="https://a.jsrdn.com/hls/22867/humor-mill/logo_20200819_235207_68.png" group-title="Distro TV",DTV | Humor Mill
+#EXTINF:-1 tvg-id="dtv_EPGHumor Mill" tvg-name="Humor Mill" tvg-logo="https://a.jsrdn.com/hls/22867/humor-mill/logo_20200819_235207_68.png" group-title="Distro TV",DTV | Humor Mill
 https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGIDG" tvg-name="IDG" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22751/idg/logo_20191217_230247.png" group-title="Distro TV",DTV | IDG
+#EXTINF:-1 tvg-id="dtv_EPGIDG" tvg-name="IDG" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22751/idg/logo_20191217_230247.png" group-title="Distro TV",DTV | IDG
 https://dai.google.com/linear/hls/event/BJzzeejcQSuZnJ1ujMx_Cg/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGLaw & Crime" tvg-name="Law & Crime" tvg-logo="https://a.jsrdn.com/hls/22884/law/logo_20200911_201409_70.png" group-title="Distro TV",DTV | Law & Crime
+#EXTINF:-1 tvg-id="dtv_EPGLaw & Crime" tvg-name="Law & Crime" tvg-logo="https://a.jsrdn.com/hls/22884/law/logo_20200911_201409_70.png" group-title="Distro TV",DTV | Law & Crime
 https://dai.google.com/linear/hls/event/oE64ATdbSpSCeeMsjLiKXA/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGMonarch" tvg-name="Monarch Channel" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22728/monarch/logo_20191212_203358.png" group-title="Distro TV",DTV | Monarch Channel
+#EXTINF:-1 tvg-id="dtv_EPGMonarch" tvg-name="Monarch Channel" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22728/monarch/logo_20191212_203358.png" group-title="Distro TV",DTV | Monarch Channel
 https://dai.google.com/linear/hls/event/bXkdmU1OQk28qk_f-JN5bw/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGPeopleTV" tvg-name="People TV" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22785/peopletv/logo_20191212_175415.png" group-title="Distro TV",DTV | People TV
+#EXTINF:-1 tvg-id="dtv_EPGPeopleTV" tvg-name="People TV" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22785/peopletv/logo_20191212_175415.png" group-title="Distro TV",DTV | People TV
 https://dai.google.com/linear/hls/event/mdUCfji2S4K6i7oTS8mkqA/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGPopstar! TV" tvg-name="Popstar!TV" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22783/popstar-tv/logo_20200424_154734.png" group-title="Distro TV",DTV | Popstar!TV
+#EXTINF:-1 tvg-id="dtv_EPGPopstar! TV" tvg-name="Popstar!TV" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22783/popstar-tv/logo_20200424_154734.png" group-title="Distro TV",DTV | Popstar!TV
 https://dai.google.com/linear/hls/event/vZXp3NWzRMO8gfuH_xl5BQ/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGThe Grid" tvg-name="The Grid" tvg-logo="https://a.jsrdn.com/hls/22886/the-grid/logo_20200819_003042_68.png" group-title="Distro TV",DTV | The Grid
+#EXTINF:-1 tvg-id="dtv_EPGThe Grid" tvg-name="The Grid" tvg-logo="https://a.jsrdn.com/hls/22886/the-grid/logo_20200819_003042_68.png" group-title="Distro TV",DTV | The Grid
 https://dai.google.com/linear/hls/event/PZ4CB1RLRc2P5h6KMJlvlQ/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGUs Weekly TV" tvg-name="US Weekly TV" tvg-logo="https://a.jsrdn.com/hls/22950/us-weekly-tv/logo_20210323_165634_68.png" group-title="Distro TV",DTV | US Weekly TV
+#EXTINF:-1 tvg-id="dtv_EPGUs Weekly TV" tvg-name="US Weekly TV" tvg-logo="https://a.jsrdn.com/hls/22950/us-weekly-tv/logo_20210323_165634_68.png" group-title="Distro TV",DTV | US Weekly TV
 https://dai.google.com/linear/hls/event/W8xANO0tSXyIydJzAkwVxg/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGWisecrack" tvg-name="Wisecrack" tvg-logo="https://a.jsrdn.com/hls/22960/wisecrack/logo_20210524_230051_68.png" group-title="Distro TV",DTV | Wisecrack
+#EXTINF:-1 tvg-id="dtv_EPGWisecrack" tvg-name="Wisecrack" tvg-logo="https://a.jsrdn.com/hls/22960/wisecrack/logo_20210524_230051_68.png" group-title="Distro TV",DTV | Wisecrack
 https://dai.google.com/linear/hls/event/OxLJX31_SUuwaUivNVq30w/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGYoung Hollywood" tvg-name="Young Hollywood" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22823/young-hollywood/logo_20200330_221710.png" group-title="Distro TV",DTV | Young Hollywood
+#EXTINF:-1 tvg-id="dtv_EPGYoung Hollywood" tvg-name="Young Hollywood" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22823/young-hollywood/logo_20200330_221710.png" group-title="Distro TV",DTV | Young Hollywood
 https://dai.google.com/linear/hls/event/PXzvwCecR2eybIVtd-593w/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Distro TV",â˜…â˜… Movies â˜…â˜…
 https://od.lk/s/MF8yMTU3OTc3MjJf/DistroTV_A-World-of-Free-TV_Promo.mp4?Movies
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGBowery Classics" tvg-name="Bowery Classics" tvg-logo="https://a.jsrdn.com/hls/22969/bowery-classics/logo_20211018_170612_68.png" group-title="Distro TV",DTV | Bowery Classics
+#EXTINF:-1 tvg-id="dtv_EPGBowery Classics" tvg-name="Bowery Classics" tvg-logo="https://a.jsrdn.com/hls/22969/bowery-classics/logo_20211018_170612_68.png" group-title="Distro TV",DTV | Bowery Classics
 https://dai.google.com/linear/hls/event/7D2Q73U6RpyYzJYog5Lx6Q/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGCineLife" tvg-name="CineLife" tvg-logo="https://a.jsrdn.com/hls/22933/cinelife/logo_20210224_040008_68.png" group-title="Distro TV",DTV | CineLife
+#EXTINF:-1 tvg-id="dtv_EPGCineLife" tvg-name="CineLife" tvg-logo="https://a.jsrdn.com/hls/22933/cinelife/logo_20210224_040008_68.png" group-title="Distro TV",DTV | CineLife
 https://dai.google.com/linear/hls/event/UTF4M044RUKTjJ4DQv5jUQ/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGDove Channel" tvg-name="Dove Channel" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22787/dove-channel/logo_20191213_195855.png" group-title="Distro TV",DTV | Dove Channel
+#EXTINF:-1 tvg-id="dtv_EPGDove Channel" tvg-name="Dove Channel" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22787/dove-channel/logo_20191213_195855.png" group-title="Distro TV",DTV | Dove Channel
 https://dai.google.com/linear/hls/event/HYPAVeUNSiitRA7grlMeDw/master.m3u8
 #EXTINF:-1 tvg-id="DUMMYFrightFlix" tvg-name="Frightflix" tvg-logo="https://a.jsrdn.com/hls/22915/frightflix/logo_20201029_013121_68.png" group-title="Distro TV",DTV | Frightflix
 https://content.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGHorror Machine" tvg-name="Horror Machine" tvg-logo="https://a.jsrdn.com/hls/22930/horror-machine/logo_20210423_225948_70.png" group-title="Distro TV",DTV | Horror Machine
+#EXTINF:-1 tvg-id="dtv_EPGHorror Machine" tvg-name="Horror Machine" tvg-logo="https://a.jsrdn.com/hls/22930/horror-machine/logo_20210423_225948_70.png" group-title="Distro TV",DTV | Horror Machine
 https://dai.google.com/linear/hls/event/b102wvjXSLGQWwRTT-QaaA/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGKweliTV" tvg-name="KweliTV" tvg-logo="https://a.jsrdn.com/hls/22870/kwelitv/logo_20200812_053208_70.png" group-title="Distro TV",DTV | KweliTV
+#EXTINF:-1 tvg-id="dtv_EPGKweliTV" tvg-name="KweliTV" tvg-logo="https://a.jsrdn.com/hls/22870/kwelitv/logo_20200812_053208_70.png" group-title="Distro TV",DTV | KweliTV
 https://dai.google.com/linear/hls/event/K8txaErSS0SeRG-_Xr_vhQ/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGLone Star" tvg-name="LoneStar" tvg-logo="https://a.jsrdn.com/hls/22759/the-film-detective-2/logo_20200602_195337.png" group-title="Distro TV",DTV | LoneStar
+#EXTINF:-1 tvg-id="dtv_EPGLone Star" tvg-name="LoneStar" tvg-logo="https://a.jsrdn.com/hls/22759/the-film-detective-2/logo_20200602_195337.png" group-title="Distro TV",DTV | LoneStar
 https://dai.google.com/linear/hls/event/i98gkOy4R6GGN_j-P3wZvw/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGMovie Kingdom" tvg-name="Movie Kingdom" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22731/movie-kingdom/logo_20191212_225355.png" group-title="Distro TV",DTV | Movie Kingdom
+#EXTINF:-1 tvg-id="dtv_EPGMovie Kingdom" tvg-name="Movie Kingdom" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22731/movie-kingdom/logo_20191212_225355.png" group-title="Distro TV",DTV | Movie Kingdom
 https://dai.google.com/linear/hls/event/UV7iuUDxT9qD9iNioJD4kw/master.m3u8
 #EXTINF:-1 tvg-id="DUMMYMovieTrailersPlus" tvg-name="Movie Trailers" tvg-logo="https://a.jsrdn.com/hls/22895/trailer-channel/logo_20210428_182209_68.png" group-title="Distro TV",DTV | Movie Trailers+
 https://d56df2242ea24505817ed81fff0e7281.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/trailer_channel_distrotv/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGThe Film Detective" tvg-name="The Film Detective" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22759/the-film-detective/logo_20191212_230936.png" group-title="Distro TV",DTV | The Film Detective
+#EXTINF:-1 tvg-id="dtv_EPGThe Film Detective" tvg-name="The Film Detective" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22759/the-film-detective/logo_20191212_230936.png" group-title="Distro TV",DTV | The Film Detective
 https://dai.google.com/linear/hls/event/4AnZ0ohQTfiOq80TxFGb0Q/master.m3u8
 #EXTINF:-1 tvg-id="DUMMYWatchItScream" tvg-name="Watchit Scream!" tvg-logo="https://a.jsrdn.com/hls/22915/watchit-scream/logo_20201029_015604_68.png" group-title="Distro TV",DTV | Watchit Scream!
 https://content-ausc1.uplynk.com/channel/29aff31fecb848ab9044369db2d61642.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPG24 Hour Free Movies" tvg-name="24 Hour Free Movies" tvg-logo="https://a.jsrdn.com/hls/22907/24-hour-free-movies/logo_20200922_191829_68.png" group-title="Distro TV",DTV | 24 Hour Free Movies
+#EXTINF:-1 tvg-id="dtv_EPG24 Hour Free Movies" tvg-name="24 Hour Free Movies" tvg-logo="https://a.jsrdn.com/hls/22907/24-hour-free-movies/logo_20200922_191829_68.png" group-title="Distro TV",DTV | 24 Hour Free Movies
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDUDigital-Production/145.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Distro TV",â˜…â˜… Reality TV â˜…â˜…
 https://od.lk/s/MF8yMTU3OTc3MjJf/DistroTV_A-World-of-Free-TV_Promo.mp4?Reality
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGCHIVE TV" tvg-name="ChiveTV" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22789/chivetv/logo_20200227_235931.png" group-title="Distro TV",DTV | ChiveTV
+#EXTINF:-1 tvg-id="dtv_EPGCHIVE TV" tvg-name="ChiveTV" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22789/chivetv/logo_20200227_235931.png" group-title="Distro TV",DTV | ChiveTV
 https://dai.google.com/linear/hls/event/4_LqkDfsQ3imKcucLvoObQ/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGFido TV" tvg-name="Fido TV" tvg-logo="https://a.jsrdn.com/hls/22964/fido-tv/logo_20210622_200418_68.png" group-title="Distro TV",DTV | Fido TV
+#EXTINF:-1 tvg-id="dtv_EPGFido TV" tvg-name="Fido TV" tvg-logo="https://a.jsrdn.com/hls/22964/fido-tv/logo_20210622_200418_68.png" group-title="Distro TV",DTV | Fido TV
 https://dai.google.com/linear/hls/event/qd8D8TtbQ-2fFw5-1sZiWQ/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGNosey" tvg-name="Nosey" tvg-logo="https://a.jsrdn.com/hls/22970/nosey-1/logo_20210607_224737_68.png" group-title="Distro TV",DTV | Nosey
+#EXTINF:-1 tvg-id="dtv_EPGNosey" tvg-name="Nosey" tvg-logo="https://a.jsrdn.com/hls/22970/nosey-1/logo_20210607_224737_68.png" group-title="Distro TV",DTV | Nosey
 https://dai.google.com/linear/hls/event/EtSqIE0FTbGZ4q_TcAMR1g/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGOperation Repo" tvg-name="Operation Repo" tvg-logo="https://a.jsrdn.com/hls/22932/operation-repo-1/logo_20210203_192421_68.png" group-title="Distro TV",DTV | Operation Repo
+#EXTINF:-1 tvg-id="dtv_EPGOperation Repo" tvg-name="Operation Repo" tvg-logo="https://a.jsrdn.com/hls/22932/operation-repo-1/logo_20210203_192421_68.png" group-title="Distro TV",DTV | Operation Repo
 https://dai.google.com/linear/hls/event/xGNfbotAS-udiLwMCteGiA/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGZoomer TV" tvg-name="Zoomer TV (US-Geo)" tvg-logo="https://a.jsrdn.com/hls/22923/zoomer/logo_20210330_190607_70.png" group-title="Distro TV",DTV | Zoomer TV (US-Geo)
+#EXTINF:-1 tvg-id="dtv_EPGZoomer TV" tvg-name="Zoomer TV (US-Geo)" tvg-logo="https://a.jsrdn.com/hls/22923/zoomer/logo_20210330_190607_70.png" group-title="Distro TV",DTV | Zoomer TV (US-Geo)
 https://dai.google.com/linear/hls/event/9NDKAFrTQY6_sNImg4cv5g/d8bmaster.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Distro TV",â˜…â˜… Documentaries â˜…â˜…
 https://od.lk/s/MF8yMTU3OTc3MjJf/DistroTV_A-World-of-Free-TV_Promo.mp4?Documentaries
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGDocumentary+" tvg-name="Documentary" tvg-logo="https://a.jsrdn.com/hls/22943/documentary/logo_20210316_230446_68.png" group-title="Distro TV",DTV | Documentary+
+#EXTINF:-1 tvg-id="dtv_EPGDocumentary+" tvg-name="Documentary" tvg-logo="https://a.jsrdn.com/hls/22943/documentary/logo_20210316_230446_68.png" group-title="Distro TV",DTV | Documentary+
 https://dai.google.com/linear/hls/event/Fw4LxyUeSguJOatToVIt4g/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGDocurama" tvg-name="Docurama" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22787/docurama/logo_20191213_195601.png" group-title="Distro TV",DTV | Docurama
+#EXTINF:-1 tvg-id="dtv_EPGDocurama" tvg-name="Docurama" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22787/docurama/logo_20191213_195601.png" group-title="Distro TV",DTV | Docurama
 https://dai.google.com/linear/hls/event/RnTwIVTKSIyo2BYRKBeUFA/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGJourny" tvg-name="Journy" tvg-logo="https://a.jsrdn.com/hls/22944/journy-1/logo_20210602_001433_68.png" group-title="Distro TV",DTV | Journy
+#EXTINF:-1 tvg-id="dtv_EPGJourny" tvg-name="Journy" tvg-logo="https://a.jsrdn.com/hls/22944/journy-1/logo_20210602_001433_68.png" group-title="Distro TV",DTV | Journy
 https://dai.google.com/linear/hls/event/ovpAw4ZIRXC1Jv1wU6QswQ/master.m3u8
 #EXTINF:-1 tvg-id="DUMMYMagellanTV" tvg-name="MagellanTV Now" tvg-logo="https://a.jsrdn.com/hls/22887/magellan/logo_20200821_224844_68.png" group-title="Distro TV",DTV | MagellanTV Now
 https://dai.google.com/linear/hls/event/s3yrxp8wSTCEcpHR4FoT5Q/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGMilitaryTimes" tvg-name="Military Times" tvg-logo="https://a.jsrdn.com/hls/22930/sightline/logo_20211019_173405_68.png" group-title="Distro TV",DTV | Military Times
+#EXTINF:-1 tvg-id="dtv_EPGMilitaryTimes" tvg-name="Military Times" tvg-logo="https://a.jsrdn.com/hls/22930/sightline/logo_20211019_173405_68.png" group-title="Distro TV",DTV | Military Times
 https://dai.google.com/linear/hls/event/sXOhtN_7RaCrA4-U9g1kPg/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGSword & Shield" tvg-name="Sword & Shield" tvg-logo="https://s3-adm-mrss.s3.amazonaws.com/f1bf4a862b63aae6/5e5bd355-2983-4655-aa98-0ab9ed0e16ef.png" group-title="Distro TV",DTV | Sword & Shield
+#EXTINF:-1 tvg-id="dtv_EPGSword & Shield" tvg-name="Sword & Shield" tvg-logo="https://s3-adm-mrss.s3.amazonaws.com/f1bf4a862b63aae6/5e5bd355-2983-4655-aa98-0ab9ed0e16ef.png" group-title="Distro TV",DTV | Sword & Shield
 https://dai.google.com/linear/hls/event/sizZWoGYSuCeBZMKJkl6Gg/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGTitanic TV" tvg-name="TitanicTV" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22719/titanic-tv/logo_20191213_193719.png" group-title="Distro TV",DTV | Titanic TV
+#EXTINF:-1 tvg-id="dtv_EPGTitanic TV" tvg-name="TitanicTV" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22719/titanic-tv/logo_20191213_193719.png" group-title="Distro TV",DTV | Titanic TV
 https://dai.google.com/linear/hls/event/JatWQPegSwOSPMsXoDtV7w/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGTrue History" tvg-name="True History" tvg-logo="https://a.jsrdn.com/hls/23001/true-history/logo_20211006_223709_68.jpg" group-title="Distro TV",DTV | True History
+#EXTINF:-1 tvg-id="dtv_EPGTrue History" tvg-name="True History" tvg-logo="https://a.jsrdn.com/hls/23001/true-history/logo_20211006_223709_68.jpg" group-title="Distro TV",DTV | True History
 https://dai.google.com/linear/hls/event/IhMDzQa-SGCpF12Em4b3jg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Distro TV",â˜…â˜… Fun & Games â˜…â˜…
 https://od.lk/s/MF8yMTU3OTc3MjJf/DistroTV_A-World-of-Free-TV_Promo.mp4?FunGames
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGArcadeCloud" tvg-name="ArcadeCloud" tvg-logo="https://a.jsrdn.com/hls/22960/arcadecloud/logo_20210722_165631_68.png" group-title="Distro TV",DTV | ArcadeCloud
+#EXTINF:-1 tvg-id="dtv_EPGArcadeCloud" tvg-name="ArcadeCloud" tvg-logo="https://a.jsrdn.com/hls/22960/arcadecloud/logo_20210722_165631_68.png" group-title="Distro TV",DTV | ArcadeCloud
 https://dai.google.com/linear/hls/event/wz66Z3nvSWyab3gJZm8uJQ/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGBilliard TV" tvg-name="Billiard TV" tvg-logo="https://a.jsrdn.com/hls/22964/billiard-tv/logo_20210622_195956_68.png" group-title="Distro TV",DTV | Billiard TV
+#EXTINF:-1 tvg-id="dtv_EPGBilliard TV" tvg-name="Billiard TV" tvg-logo="https://a.jsrdn.com/hls/22964/billiard-tv/logo_20210622_195956_68.png" group-title="Distro TV",DTV | Billiard TV
 https://dai.google.com/linear/hls/event/mjJPjhgDTtO5nvz4IdYE-Q/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGfw.tv" tvg-name="fwtv" tvg-logo="https://a.jsrdn.com/hls/22914/homme/logo_20210412_194703_69.png" group-title="Distro TV",DTV | fw.tv
+#EXTINF:-1 tvg-id="dtv_EPGfw.tv" tvg-name="fwtv" tvg-logo="https://a.jsrdn.com/hls/22914/homme/logo_20210412_194703_69.png" group-title="Distro TV",DTV | fw.tv
 https://dai.google.com/linear/hls/event/xmxFy3eHTmCXmmcA92GUFQ/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGKaloopy" tvg-name="Kaloopy" tvg-logo="https://a.jsrdn.com/hls/22868/kaloopy/logo_20200609_231841.png" group-title="Distro TV",DTV | Kaloopy
+#EXTINF:-1 tvg-id="dtv_EPGKaloopy" tvg-name="Kaloopy" tvg-logo="https://a.jsrdn.com/hls/22868/kaloopy/logo_20200609_231841.png" group-title="Distro TV",DTV | Kaloopy
 https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGTronTV" tvg-name="TronTV" tvg-logo="https://a.jsrdn.com/hls/22912/trontv/logo_20201016_172929_68.png" group-title="Distro TV",DTV | TronTV
+#EXTINF:-1 tvg-id="dtv_EPGTronTV" tvg-name="TronTV" tvg-logo="https://a.jsrdn.com/hls/22912/trontv/logo_20201016_172929_68.png" group-title="Distro TV",DTV | TronTV
 https://dai.google.com/linear/hls/event/NPrV9s3FSOKJCHQA-7QC6w/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGWorld Poker Tour" tvg-name="World Poker Tour" tvg-logo="https://a.jsrdn.com/hls/2/world-poker-tour/logo_20200812_214158_70.png" group-title="Distro TV",DTV | World Poker Tour
+#EXTINF:-1 tvg-id="dtv_EPGWorld Poker Tour" tvg-name="World Poker Tour" tvg-logo="https://a.jsrdn.com/hls/2/world-poker-tour/logo_20200812_214158_70.png" group-title="Distro TV",DTV | World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Distro TV",â˜…â˜… Sports â˜…â˜…
 https://od.lk/s/MF8yMTU3OTc3MjJf/DistroTV_A-World-of-Free-TV_Promo.mp4?Sports
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGAdventure Sports" tvg-name="Adventure Sports TV" tvg-logo="https://a.jsrdn.com/hls/22889/adventure-sports-tv/logo_20200910_015603_70.png" group-title="Distro TV",DTV | Adventure Sports TV
+#EXTINF:-1 tvg-id="dtv_EPGAdventure Sports" tvg-name="Adventure Sports TV" tvg-logo="https://a.jsrdn.com/hls/22889/adventure-sports-tv/logo_20200910_015603_70.png" group-title="Distro TV",DTV | Adventure Sports TV
 https://dai.google.com/linear/hls/event/KP9pZkHDTmOM9I3KseqrRw/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGCampusLore Sports" tvg-name="CampusLore Sports" tvg-logo="https://a.jsrdn.com/hls/22930/campuslore-sports/logo_20210916_225147_68.png" group-title="Distro TV",DTV | CampusLore Sports
+#EXTINF:-1 tvg-id="dtv_EPGCampusLore Sports" tvg-name="CampusLore Sports" tvg-logo="https://a.jsrdn.com/hls/22930/campuslore-sports/logo_20210916_225147_68.png" group-title="Distro TV",DTV | CampusLore Sports
 https://dai.google.com/linear/hls/event/jUagUaeoSRWtvyFS-T1UOA/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGChopperTown" tvg-name="ChopperTown" tvg-logo="https://a.jsrdn.com/hls/22848/choppertown/logo_20201104_205157_68.png" group-title="Distro TV",DTV | ChopperTown
+#EXTINF:-1 tvg-id="dtv_EPGChopperTown" tvg-name="ChopperTown" tvg-logo="https://a.jsrdn.com/hls/22848/choppertown/logo_20201104_205157_68.png" group-title="Distro TV",DTV | ChopperTown
 https://dai.google.com/linear/hls/event/czQEOQGCRnK2QXQRefUPCw/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGFighting Spirit TV" tvg-name="Fighting Spirit" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22696/fighting-spirit-tv/logo_20200309_233956.png" group-title="Distro TV",DTV | Fighting Spirit
+#EXTINF:-1 tvg-id="dtv_EPGFighting Spirit TV" tvg-name="Fighting Spirit" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22696/fighting-spirit-tv/logo_20200309_233956.png" group-title="Distro TV",DTV | Fighting Spirit
 https://dai.google.com/linear/hls/event/1an25xSeQuGB_J2IdoZ8Dg/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGFloSports" tvg-name="FloSports" tvg-logo="https://a.jsrdn.com/hls/22883/flo-sports/logo_20201106_225247_27.png" group-title="Distro TV",DTV | FloSports
+#EXTINF:-1 tvg-id="dtv_EPGFloSports" tvg-name="FloSports" tvg-logo="https://a.jsrdn.com/hls/22883/flo-sports/logo_20201106_225247_27.png" group-title="Distro TV",DTV | FloSports
 https://dai.google.com/linear/hls/event/VoZhF0i4SJ2t5_GdpIPCJA/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGFloSports High Impact" tvg-name="FloSports High Impact" tvg-logo="https://a.jsrdn.com/hls/22883/flo-high-impact/logo_20201106_225201_68.png" group-title="Distro TV",DTV | FloSports High Impact
+#EXTINF:-1 tvg-id="dtv_EPGFloSports High Impact" tvg-name="FloSports High Impact" tvg-logo="https://a.jsrdn.com/hls/22883/flo-high-impact/logo_20201106_225201_68.png" group-title="Distro TV",DTV | FloSports High Impact
 https://dai.google.com/linear/hls/event/-RDDK5cMTX2_sGoD9bgCZA/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGGlewed Yoga & Fitness" tvg-name="GlewedTV Yoga & Fitness" tvg-logo="https://a.jsrdn.com/hls/22864/glewedtv-yoga/logo_20200917_223146_70.png" group-title="Distro TV",DTV | GlewedTV Yoga & Fitness
+#EXTINF:-1 tvg-id="dtv_EPGGlewed Yoga & Fitness" tvg-name="GlewedTV Yoga & Fitness" tvg-logo="https://a.jsrdn.com/hls/22864/glewedtv-yoga/logo_20200917_223146_70.png" group-title="Distro TV",DTV | GlewedTV Yoga & Fitness
 https://dai.google.com/linear/hls/event/ZfRDBl7PQxy3VjWN0c03VA/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGHard Knocks" tvg-name="Hard Knocks" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22817/hard-knocks-fighting/logo_20200420_183430.png" group-title="Distro TV",DTV | Hard Knocks
+#EXTINF:-1 tvg-id="dtv_EPGHard Knocks" tvg-name="Hard Knocks" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22817/hard-knocks-fighting/logo_20200420_183430.png" group-title="Distro TV",DTV | Hard Knocks
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.app_bundle=&ads.app_name=DistroTV&ads.app_store=&ads.did=af56109e-ef74-4f31-b201-55dcce3b60d1&ads.us_privacy=1&ads.schain=1
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGHorizon Sports" tvg-name="Horizon Sports" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22705/horizon-sports/logo_20191213_000421.png" group-title="Distro TV",DTV | Horizon Sports
+#EXTINF:-1 tvg-id="dtv_EPGHorizon Sports" tvg-name="Horizon Sports" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22705/horizon-sports/logo_20191213_000421.png" group-title="Distro TV",DTV | Horizon Sports
 https://dai.google.com/linear/hls/event/onG023gQQ22Tjm14B5yg1w/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGMMA Junkie" tvg-name="MMA Junkie" tvg-logo="https://a.jsrdn.com/hls/22814/mma-junkie/logo_20200521_193041.png" group-title="Distro TV",DTV | MMA Junkie
+#EXTINF:-1 tvg-id="dtv_EPGMMA Junkie" tvg-name="MMA Junkie" tvg-logo="https://a.jsrdn.com/hls/22814/mma-junkie/logo_20200521_193041.png" group-title="Distro TV",DTV | MMA Junkie
 https://dai.google.com/linear/hls/event/Ojv7wZDbT4G7utyqbdcXUA/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGMotoAmerica TV" tvg-name="MotoAmerica" tvg-logo="https://a.jsrdn.com/hls/22964/motoamerica-tv/logo_20210929_171411_68.png" group-title="Distro TV",DTV | MotoAmerica
+#EXTINF:-1 tvg-id="dtv_EPGMotoAmerica TV" tvg-name="MotoAmerica" tvg-logo="https://a.jsrdn.com/hls/22964/motoamerica-tv/logo_20210929_171411_68.png" group-title="Distro TV",DTV | MotoAmerica
 https://dai.google.com/linear/hls/event/HCkYA2wESb6G9YpN6SyD0A/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGMotorRacing" tvg-name="Motor Racing" tvg-logo="https://a.jsrdn.com/hls/22705/motorracing/logo_20210608_211810.png" group-title="Distro TV",DTV | Motor Racing
+#EXTINF:-1 tvg-id="dtv_EPGMotorRacing" tvg-name="Motor Racing" tvg-logo="https://a.jsrdn.com/hls/22705/motorracing/logo_20210608_211810.png" group-title="Distro TV",DTV | Motor Racing
 https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGONETV US" tvg-name="OneTV US" tvg-logo="https://a.jsrdn.com/hls/22923/one-get-fit/logo_20210317_173613_70.png" group-title="Distro TV",DTV | OneTV US
+#EXTINF:-1 tvg-id="dtv_EPGONETV US" tvg-name="OneTV US" tvg-logo="https://a.jsrdn.com/hls/22923/one-get-fit/logo_20210317_173613_70.png" group-title="Distro TV",DTV | OneTV US
 https://dai.google.com/linear/hls/event/XXmmQserRSGG8phTjJW3pQ/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGPro Football Focus" tvg-name="Pro Football Focus" tvg-logo="https://a.jsrdn.com/hls/22952/pro-football-focus/logo_20210423_164432_70.png" group-title="Distro TV",DTV | Pro Football Focus
+#EXTINF:-1 tvg-id="dtv_EPGPro Football Focus" tvg-name="Pro Football Focus" tvg-logo="https://a.jsrdn.com/hls/22952/pro-football-focus/logo_20210423_164432_70.png" group-title="Distro TV",DTV | Pro Football Focus
 https://dai.google.com/linear/hls/event/UlQSLwjRTlmNYjmvSXFlNQ/master.m3u8
 #EXTINF:-1 tvg-id="DUMMYRightNowTV" tvg-name="Right Now TV" tvg-logo="https://a.jsrdn.com/hls/22863/right-now-tv/logo_20200612_050948.png" group-title="Distro TV",DTV | Right Now TV
 https://dai.google.com/linear/hls/event/LvckMgT9Ro66KeTwQrLRXw/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGSportsGrid" tvg-name="SportsGrid (US-Geo)" tvg-logo="https://a.jsrdn.com/hls/22918/sportsgrid/logo_20201117_210342_68.png" group-title="Distro TV",DTV | SportsGrid (US-Geo)
+#EXTINF:-1 tvg-id="dtv_EPGSportsGrid" tvg-name="SportsGrid (US-Geo)" tvg-logo="https://a.jsrdn.com/hls/22918/sportsgrid/logo_20201117_210342_68.png" group-title="Distro TV",DTV | SportsGrid (US-Geo)
 https://dai.google.com/linear/hls/event/ISc3OFInSwiQeBXP5MZLTg/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGSportskool TV" tvg-name="Sportskool TV" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22697/sportskool-tv/logo_20191213_002949.png" group-title="Distro TV",DTV | Sportskool TV
+#EXTINF:-1 tvg-id="dtv_EPGSportskool TV" tvg-name="Sportskool TV" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22697/sportskool-tv/logo_20191213_002949.png" group-title="Distro TV",DTV | Sportskool TV
 https://dai.google.com/linear/hls/event/zFTmvCd0RSel2GpV4QkykA/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGStrongman Champions League" tvg-name="Strongman Champions League" tvg-logo="https://a.jsrdn.com/hls/22974/strongman-champions-league-1/logo_20210727_170926_70.png" group-title="Distro TV",DTV | Strongman Champions League
+#EXTINF:-1 tvg-id="dtv_EPGStrongman Champions League" tvg-name="Strongman Champions League" tvg-logo="https://a.jsrdn.com/hls/22974/strongman-champions-league-1/logo_20210727_170926_70.png" group-title="Distro TV",DTV | Strongman Champions League
 https://dai.google.com/linear/hls/event/09xphPXPS4qRlr_PAIrkVA/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGThe Boat Show" tvg-name="The Boat Show" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22706/the-boat-show/logo_20191213_002045.png" group-title="Distro TV",DTV | The Boat Show
+#EXTINF:-1 tvg-id="dtv_EPGThe Boat Show" tvg-name="The Boat Show" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22706/the-boat-show/logo_20191213_002045.png" group-title="Distro TV",DTV | The Boat Show
 https://dai.google.com/linear/hls/event/8DSvgZnTQX6_yvL1OXphoA/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGThrill One Network" tvg-name="Thrill One Network" tvg-logo="https://a.jsrdn.com/hls/22978/thrill-one-network/logo_20211013_235858_68.png" group-title="Distro TV",DTV | Thrill One Network
+#EXTINF:-1 tvg-id="dtv_EPGThrill One Network" tvg-name="Thrill One Network" tvg-logo="https://a.jsrdn.com/hls/22978/thrill-one-network/logo_20211013_235858_68.png" group-title="Distro TV",DTV | Thrill One Network
 https://dai.google.com/linear/hls/event/thukf25WQaKSsbcZD5dpIw/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGUnbeaten" tvg-name="Unbeaten" tvg-logo="https://a.jsrdn.com/hls/22988/unbeaten/logo_20210826_205939_68.png" group-title="Distro TV",DTV | Unbeaten
+#EXTINF:-1 tvg-id="dtv_EPGUnbeaten" tvg-name="Unbeaten" tvg-logo="https://a.jsrdn.com/hls/22988/unbeaten/logo_20210826_205939_68.png" group-title="Distro TV",DTV | Unbeaten
 https://dai.google.com/linear/hls/event/-yZtQFCsR4GY0UDdtsAZDw/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGUnited Fight Alliance" tvg-name="United Fight Alliance" tvg-logo="https://a.jsrdn.com/hls/22778/united-fight-alliance-1/logo_20201015_215118_70.png" group-title="Distro TV",DTV | United Fight Alliance
+#EXTINF:-1 tvg-id="dtv_EPGUnited Fight Alliance" tvg-name="United Fight Alliance" tvg-logo="https://a.jsrdn.com/hls/22778/united-fight-alliance-1/logo_20201015_215118_70.png" group-title="Distro TV",DTV | United Fight Alliance
 https://dai.google.com/linear/hls/event/_Bdiue-cTbidArncLX2eOA/master.m3u8
 #EXTINF:-1 tvg-id="DUMMYVolty" tvg-name="Volty" tvg-logo="https://a.jsrdn.com/hls/22996/volty/logo_20210910_215855_68.png" group-title="Distro TV",DTV | Volty
 https://dai.google.com/linear/hls/event/TgkXUZUMTBW5tkd-vZ5v9w/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGWired2fish TV" tvg-name="Wired2Fish TV" tvg-logo="https://a.jsrdn.com/hls/22930/wired2fish-tv/logo_20210329_195112_68.png" group-title="Distro TV",DTV | Wired2Fish TV
+#EXTINF:-1 tvg-id="dtv_EPGWired2fish TV" tvg-name="Wired2Fish TV" tvg-logo="https://a.jsrdn.com/hls/22930/wired2fish-tv/logo_20210329_195112_68.png" group-title="Distro TV",DTV | Wired2Fish TV
 https://dai.google.com/linear/hls/event/YvQxyCZaT9yhN-LCy5twQA/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGWorld Of Free Sports TV" tvg-name="World of Free Sports TV" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22723/world-of-free-sports-tv/logo_20191213_002513.png" group-title="Distro TV",DTV | World of Free Sports TV
+#EXTINF:-1 tvg-id="dtv_EPGWorld Of Free Sports TV" tvg-name="World of Free Sports TV" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22723/world-of-free-sports-tv/logo_20191213_002513.png" group-title="Distro TV",DTV | World of Free Sports TV
 https://dai.google.com/linear/hls/event/7mLww9frTiyiDDPOwjBBsQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Distro TV",â˜…â˜… Music â˜…â˜…
 https://od.lk/s/MF8yMTU3OTc3MjJf/DistroTV_A-World-of-Free-TV_Promo.mp4?Music
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGQello" tvg-name="Qello Concerts by Stingray" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-qello/logo_20200708_235913.png" group-title="Distro TV",DTV | Qello Concerts by Stingray
+#EXTINF:-1 tvg-id="dtv_EPGQello" tvg-name="Qello Concerts by Stingray" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-qello/logo_20200708_235913.png" group-title="Distro TV",DTV | Qello Concerts by Stingray
 https://dai.google.com/linear/hls/event/z5hXv__5S4uwrtOBjAahlQ/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGClassic Rock" tvg-name="Stingray Classic Rock" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-classic-rock/logo_20200720_202231.png" group-title="Distro TV",DTV | Stingray Classic Rock
+#EXTINF:-1 tvg-id="dtv_EPGClassic Rock" tvg-name="Stingray Classic Rock" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-classic-rock/logo_20200720_202231.png" group-title="Distro TV",DTV | Stingray Classic Rock
 https://dai.google.com/linear/hls/event/sTZYvUZfTIKTLpqFLrjRXg/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGFlashback 70's" tvg-name="Stingray Flashback 70s" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-flashback-70s/logo_20200720_202436.png" group-title="Distro TV",DTV | Stingray Flashback '70s
+#EXTINF:-1 tvg-id="dtv_EPGFlashback 70's" tvg-name="Stingray Flashback 70s" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-flashback-70s/logo_20200720_202436.png" group-title="Distro TV",DTV | Stingray Flashback '70s
 https://dai.google.com/linear/hls/event/H4KZCOcWTbeITh0xcukQ-w/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGGreatest Hits" tvg-name="Stingray Greatest Hits" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-greatest-hits/logo_20200720_202411.png" group-title="Distro TV",DTV | Stingray Greatest Hits
+#EXTINF:-1 tvg-id="dtv_EPGGreatest Hits" tvg-name="Stingray Greatest Hits" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-greatest-hits/logo_20200720_202411.png" group-title="Distro TV",DTV | Stingray Greatest Hits
 https://dai.google.com/linear/hls/event/OAGgSzzxRHm3xcQxD7AZTA/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGHipHop and RnB" tvg-name="Stingray Hip-HopR&B" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-hiphop-and-rnb/logo_20200720_202423.png" group-title="Distro TV",DTV | Stingray Hip-Hop/R&B
+#EXTINF:-1 tvg-id="dtv_EPGHipHop and RnB" tvg-name="Stingray Hip-HopR&B" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-hiphop-and-rnb/logo_20200720_202423.png" group-title="Distro TV",DTV | Stingray Hip-Hop/R&B
 https://dai.google.com/linear/hls/event/3tIpkepuS9uFe_cCgf9P9g/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGHit List" tvg-name="Stingray Hit List" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-hit-list/logo_20200720_201905.png" group-title="Distro TV",DTV | Stingray Hit List
+#EXTINF:-1 tvg-id="dtv_EPGHit List" tvg-name="Stingray Hit List" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-hit-list/logo_20200720_201905.png" group-title="Distro TV",DTV | Stingray Hit List
 https://dai.google.com/linear/hls/event/mSTNensVQHyg-KkpXnqhBw/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGHot Country" tvg-name="Stingray Hot Country" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-hot-country/logo_20200720_201959.png" group-title="Distro TV",DTV | Stingray Hot Country
+#EXTINF:-1 tvg-id="dtv_EPGHot Country" tvg-name="Stingray Hot Country" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-hot-country/logo_20200720_201959.png" group-title="Distro TV",DTV | Stingray Hot Country
 https://dai.google.com/linear/hls/event/rP8VnTJJStufguHLHosJdw/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGPop Adult" tvg-name="Stingray Pop Adult" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-pop-adult/logo_20200721_183641.png" group-title="Distro TV",DTV | Stingray Pop Adult
+#EXTINF:-1 tvg-id="dtv_EPGPop Adult" tvg-name="Stingray Pop Adult" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-pop-adult/logo_20200721_183641.png" group-title="Distro TV",DTV | Stingray Pop Adult
 https://dai.google.com/linear/hls/event/tflhkHDiT0mDVDmxx5rbZA/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGRemember the 80s" tvg-name="Stingray Remember the 80s" tvg-logo="https://a.jsrdn.com/hls/22865/stringray-remember-the-80s/logo_20200720_202251.png" group-title="Distro TV",DTV | Stingray Remember the '80s
+#EXTINF:-1 tvg-id="dtv_EPGRemember the 80s" tvg-name="Stingray Remember the 80s" tvg-logo="https://a.jsrdn.com/hls/22865/stringray-remember-the-80s/logo_20200720_202251.png" group-title="Distro TV",DTV | Stingray Remember the '80s
 https://dai.google.com/linear/hls/event/wNyZnV2XT5i6v2v2K3Otcg/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGRock Alternative" tvg-name="Stingray Rock Alternative" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-rock-alternative/logo_20200720_202032.png" group-title="Distro TV",DTV | Stingray Rock Alternative
+#EXTINF:-1 tvg-id="dtv_EPGRock Alternative" tvg-name="Stingray Rock Alternative" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-rock-alternative/logo_20200720_202032.png" group-title="Distro TV",DTV | Stingray Rock Alternative
 https://dai.google.com/linear/hls/event/WzpLZuhZRw6zfkETfx8h3g/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Distro TV",â˜…â˜… News & Opinion â˜…â˜…
 https://od.lk/s/MF8yMTU3OTc3MjJf/DistroTV_A-World-of-Free-TV_Promo.mp4?News
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGBlack Enterprise" tvg-name="Black Enterprise" tvg-logo="https://a.jsrdn.com/hls/22927/black-enterprise/logo_20210113_193912_68.png" group-title="Distro TV",DTV | Black Enterprise
+#EXTINF:-1 tvg-id="dtv_EPGBlack Enterprise" tvg-name="Black Enterprise" tvg-logo="https://a.jsrdn.com/hls/22927/black-enterprise/logo_20210113_193912_68.png" group-title="Distro TV",DTV | Black Enterprise
 https://dai.google.com/linear/hls/event/Nc32hfVDSWCo-g4Er_XC4w/master.m3u8
 #EXTINF:-1 tvg-id="DUMMYBloombergQuicktake" tvg-name="Bloomberg Quicktake" tvg-logo="https://a.jsrdn.com/hls/22938/bloomberg-quicktake/logo_20210326_181545_70.png" group-title="Distro TV",DTV | Bloomberg Quicktake
 https://dai.google.com/linear/hls/event/Cr_5wIrdTZycTcua6c2Vhw/master.m3u8
 #EXTINF:-1 tvg-id="DUMMYBloomberg" tvg-name="Bloomberg Television" tvg-logo="https://a.jsrdn.com/hls/22938/bloomberg-television/logo_20210326_185155_70.png" group-title="Distro TV",DTV | Bloomberg Television
 https://dai.google.com/linear/hls/event/0vEr1wBGRZGid7zJIjlVBQ/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGEntrepreneur" tvg-name="Entrepreneur" tvg-logo="https://a.jsrdn.com/hls/22851/elevator-pitch-1/logo_20200610_163709.png" group-title="Distro TV",DTV | Entrepreneur
+#EXTINF:-1 tvg-id="dtv_EPGEntrepreneur" tvg-name="Entrepreneur" tvg-logo="https://a.jsrdn.com/hls/22851/elevator-pitch-1/logo_20200610_163709.png" group-title="Distro TV",DTV | Entrepreneur
 https://dai.google.com/linear/hls/event/Zpe90okCQ5Wk7RKuyShE8g/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGEuronews" tvg-name="Euronews" tvg-logo="https://a.jsrdn.com/hls/22886/euronews/logo_20201208_214101_68.png" group-title="Distro TV",DTV | Euronews
+#EXTINF:-1 tvg-id="dtv_EPGEuronews" tvg-name="Euronews" tvg-logo="https://a.jsrdn.com/hls/22886/euronews/logo_20201208_214101_68.png" group-title="Distro TV",DTV | Euronews
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/ewnsabren_eng.m3u8?ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.client_ip=216.26.210.76&ads.width=840&ads.height=473&ads.deviceId=af56109e-ef74-4f31-b201-55dcce3b60d1&ads.deviceDNT=0&ads.gdpr=0&ads.appCategory=entertainment&ads.us_privacy=0&ads.aid=af56109e-ef74-4f31-b201-55dcce3b60d1&ads.contentid=22886&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Flive%2Fdove-channel%2F&ads.rnd=0xd9&ads.content_duration=18000&ads.episode_id=45143&ads.show_id=1244&ads.showtitle=Euronews&ads.episodetitle=Euronews&ads.geo=CA&ads.lat=48.370201&ads.long=-89.281197&ads.app_version=202105131041&ads.deviceMake=Web&ads.env_i=5d3fe24c-8e0a-45ec-b2c1-187d5aea3bfb&ads.env_u=af56109e-ef74-4f31-b201-55dcce3b60d1&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.dma=0&ads.geoType=2&ads.keywords=euronnews&ads.showCategories=undefined&ads.episodeCategories=
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGMirror Now" tvg-name="Mirror Now" tvg-logo="https://a.jsrdn.com/hls/22979/mirror-now/logo_20210726_175013_68.png" group-title="Distro TV",DTV | Mirror Now
+#EXTINF:-1 tvg-id="dtv_EPGMirror Now" tvg-name="Mirror Now" tvg-logo="https://a.jsrdn.com/hls/22979/mirror-now/logo_20210726_175013_68.png" group-title="Distro TV",DTV | Mirror Now
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/dBNl1weRZj/c.m3u8?ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.client_ip=172.93.207.220&ads.width=890&ads.height=501&ads.deviceId=af56109e-ef74-4f31-b201-55dcce3b60d1&ads.deviceDNT=0&ads.gdpr=0&ads.appCategory=entertainment&ads.us_privacy=1&ads.aid=af56109e-ef74-4f31-b201-55dcce3b60d1&ads.contentid=22979&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Flive%2Face-tv%2F&ads.rnd=9wsp&ads.content_duration=18000&ads.episode_id=58240&ads.show_id=1791&ads.showtitle=Mirror%20Now&ads.episodetitle=Mirror%20Now&ads.geo=US&ads.lat=41.887901&ads.long=-88.199501&ads.app_version=202105131041&ads.deviceMake=Web&ads.env_i=91be11fa-f1d6-49a1-895d-08173005c2d4&ads.env_u=af56109e-ef74-4f31-b201-55dcce3b60d1&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.dma=602&ads.geoType=2&ads.keywords=mirror%20now&ads.showCategories=undefined&ads.episodeCategories=
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGNewsmax TV" tvg-name="Newsmax" tvg-logo="https://a.jsrdn.com/hls/22819/newsmax-tv/logo_20210609_203037_38.png" group-title="Distro TV",DTV | Newsmax
+#EXTINF:-1 tvg-id="dtv_EPGNewsmax TV" tvg-name="Newsmax" tvg-logo="https://a.jsrdn.com/hls/22819/newsmax-tv/logo_20210609_203037_38.png" group-title="Distro TV",DTV | Newsmax
 https://dai.google.com/linear/hls/event/Yl7vtVj3Qoy0G74M13ffoA/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGNewsy" tvg-name="Newsy" tvg-logo="https://a.jsrdn.com/hls/22850/newsy/logo_20210930_191910_68.png" group-title="Distro TV",DTV | Newsy
+#EXTINF:-1 tvg-id="dtv_EPGNewsy" tvg-name="Newsy" tvg-logo="https://a.jsrdn.com/hls/22850/newsy/logo_20210930_191910_68.png" group-title="Distro TV",DTV | Newsy
 https://content.uplynk.com/channel/387c33ce09da4de699668c0c7d1244a8.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGReal America's Voice" tvg-name="Real Americas Voice" tvg-logo="https://a.jsrdn.com/hls/22995/real-americas-voice/logo_20210901_213538_68.png" group-title="Distro TV",DTV | Real America's Voice
+#EXTINF:-1 tvg-id="dtv_EPGReal America's Voice" tvg-name="Real Americas Voice" tvg-logo="https://a.jsrdn.com/hls/22995/real-americas-voice/logo_20210901_213538_68.png" group-title="Distro TV",DTV | Real America's Voice
 https://dai.google.com/linear/hls/event/c-oMNcDLTeuszRKPugMj9Q/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGReal Vision" tvg-name="Real Vision" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22769/real-vision-1/logo_20200305_182402.png" group-title="Distro TV",DTV | Real Vision
+#EXTINF:-1 tvg-id="dtv_EPGReal Vision" tvg-name="Real Vision" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22769/real-vision-1/logo_20200305_182402.png" group-title="Distro TV",DTV | Real Vision
 https://dai.google.com/linear/hls/event/w1MibCcKRru79YByukViXg/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGTD Ameritrade Network" tvg-name="TD Ameritrade Network" tvg-logo="https://a.jsrdn.com/hls/22849/ameritrade/logo_20200723_221433_48.png" group-title="Distro TV",DTV | TD Ameritrade Network
+#EXTINF:-1 tvg-id="dtv_EPGTD Ameritrade Network" tvg-name="TD Ameritrade Network" tvg-logo="https://a.jsrdn.com/hls/22849/ameritrade/logo_20200723_221433_48.png" group-title="Distro TV",DTV | TD Ameritrade Network
 https://dai.google.com/linear/hls/event/oQS2LgwIScKmhvKfySHSuA/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGWION World is One News" tvg-name="WION" tvg-logo="https://a.jsrdn.com/hls/22975/wion-world-is-one-news/logo_20210608_192358_68.png" group-title="Distro TV",DTV | WION
+#EXTINF:-1 tvg-id="dtv_EPGWION World is One News" tvg-name="WION" tvg-logo="https://a.jsrdn.com/hls/22975/wion-world-is-one-news/logo_20210608_192358_68.png" group-title="Distro TV",DTV | WION
 https://dai.google.com/linear/hls/event/x_dFvsORSZWERbxrltEk0g/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Distro TV",â˜…â˜… Moods â˜…â˜…
 https://od.lk/s/MF8yMTU3OTc3MjJf/DistroTV_A-World-of-Free-TV_Promo.mp4?Moods
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGFireplace Lounge" tvg-name="Fireplace Lounge" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22801/fireplace-lounge/logo_20200229_000016.png" group-title="Distro TV",DTV | Fireplace Lounge
+#EXTINF:-1 tvg-id="dtv_EPGFireplace Lounge" tvg-name="Fireplace Lounge" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22801/fireplace-lounge/logo_20200229_000016.png" group-title="Distro TV",DTV | Fireplace Lounge
 https://dai.google.com/linear/hls/event/oyLDEcuuQES_mgQ7KPOR4w/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGFish Tank" tvg-name="Fish Tank" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22801/fish-tank/logo_20200229_001442.png" group-title="Distro TV",DTV | Fish Tank
+#EXTINF:-1 tvg-id="dtv_EPGFish Tank" tvg-name="Fish Tank" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22801/fish-tank/logo_20200229_001442.png" group-title="Distro TV",DTV | Fish Tank
 https://dai.google.com/linear/hls/event/SUiAUobmTi6nMfIemEKjTA/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGIsland Escape" tvg-name="Island Escape" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22801/island-escape/logo_20200229_001935.png" group-title="Distro TV",DTV | Island Escape
+#EXTINF:-1 tvg-id="dtv_EPGIsland Escape" tvg-name="Island Escape" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22801/island-escape/logo_20200229_001935.png" group-title="Distro TV",DTV | Island Escape
 https://dai.google.com/linear/hls/event/IpUm6gZ6Tz-pEotpMRsZ4w/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGQuietude 4K" tvg-name="Quietude 4K" tvg-logo="https://a.jsrdn.com/hls/22930/quietude-4k/logo_20210330_005022_68.png" group-title="Distro TV",DTV | Quietude 4K
+#EXTINF:-1 tvg-id="dtv_EPGQuietude 4K" tvg-name="Quietude 4K" tvg-logo="https://a.jsrdn.com/hls/22930/quietude-4k/logo_20210330_005022_68.png" group-title="Distro TV",DTV | Quietude 4K
 https://dai.google.com/linear/hls/event/znOljgluSSeoYrXfiYc2VA/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGRelaxing Rain" tvg-name="Relaxing Rain" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22801/relaxing-rain/logo_20200229_001723.png" group-title="Distro TV",DTV | Relaxing Rain
+#EXTINF:-1 tvg-id="dtv_EPGRelaxing Rain" tvg-name="Relaxing Rain" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22801/relaxing-rain/logo_20200229_001723.png" group-title="Distro TV",DTV | Relaxing Rain
 https://dai.google.com/linear/hls/event/N-tqcU4fRBGJsIWzsgMfmg/master.m3u8
-#EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGTranquil Thunderstorms" tvg-name="Tranquil Thunderstorms" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22801/tranquil-thunderstorms/logo_20200305_210647.png" group-title="Distro TV",DTV | Tranquil Thunderstorms
+#EXTINF:-1 tvg-id="dtv_EPGTranquil Thunderstorms" tvg-name="Tranquil Thunderstorms" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22801/tranquil-thunderstorms/logo_20200305_210647.png" group-title="Distro TV",DTV | Tranquil Thunderstorms
 https://dai.google.com/linear/hls/event/474qwragRU6-z1YGWo1NMA/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Distro TV",â˜…â˜… Local News â˜…â˜…
 https://od.lk/s/MF8yMTU3OTc3MjJf/DistroTV_A-World-of-Free-TV_Promo.mp4?LocalNews
@@ -940,6 +945,198 @@ https://dai.google.com/linear/hls/event/nVudk3kWQL2KN9zrsjekyA/master.m3u8
 https://dai.google.com/linear/hls/event/DRMYHLrBQJm5gchjz8PK8A/master.m3u8
 #EXTINF:-1 tvg-id="DUMMYNewsChannel13Albany" tvg-name="NewsChannel 13 WNYT Albany NY" tvg-logo="https://a.jsrdn.com/hls/22972/newschannel-13-wnyt-albany-ny/logo_20210625_211352_68.png" group-title="Distro TV",DTV | NewsChannel 13 WNYT Albany NY
 https://dai.google.com/linear/hls/event/YeZ0zrrmRraYWskBKnbkoA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="LocalNow",** Category updated 10/30/21 **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?LocalNow1
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="LocalNow",** Credits: @DeltaSR + @jhr1948 via Discord | Adapted by: @geonsey Free2View TV **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?LocalNow2
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="LocalNow",** Uses this EPG source: NEW! [11] https://cutt.ly/LocalNowepg **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?LNepg1
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="LocalNow",** PLEASE NOTE: Due to the limitations of the LocalNow API there is only a 3-hour EPG so be sure to refresh often for latest data. **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?LNepg2
+#EXTINF:-1 tvg-id="DUMMYInfo" tvg-name="LocalNow Information" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",LocalNow Information
+https://github.com/DeltaSr95/LocalNow/raw/master/localnowinfo.mp4
+#EXTINF:-1 tvg-id="LNFamily Flix" tvg-name="Family Flix" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",LocalNow | Family Flix
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LNFat Guys in the Woods" tvg-name="Fat Guys in the Woods" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Fat Guys in the Woods
+https://linear-119.frequency.stream/dist/localnow/119/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LNFear This!" tvg-name="Fear This!" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",LocalNow | Fear This!
+https://linear-143.frequency.stream/dist/localnow/143/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LNFear This! Classics" tvg-name="Fear This! Classics" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",LocalNow | Fear This! Classics
+https://linear-153.frequency.stream/dist/localnow/153/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LNFear This! SciFi" tvg-name="Fear This! Sci-Fi" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",LocalNow | Fear This! Sci-Fi
+https://linear-163.frequency.stream/dist/localnow/163/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LNHighway Thru Hell" tvg-name="Highway Thru Hell Channel" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Highway Thru Hell Channel
+https://linear-120.frequency.stream/dist/localnow/120/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LNAdrenaline Rush" tvg-name="Local Now Adrenaline Rush" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now Adrenaline Rush
+https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LNLN Comedy" tvg-name="Local Now Comedy" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now Comedy
+https://linear-89.frequency.stream/dist/localnow/89/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LNLocal Now Discover" tvg-name="Local Now Discover" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now Discover
+https://linear-145.frequency.stream/dist/localnow/145/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Main_EPGAll The Drama" tvg-name="Local Now Drama" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now Drama
+https://linear-141.frequency.stream/dist/localnow/141/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LNLocal Now Elevation" tvg-name="Local Now Elevation" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now Elevation
+https://linear-210.frequency.stream/dist/localnow/210/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LNFireside" tvg-name="Local Now Fireside" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now Fireside
+https://linear-127.frequency.stream/dist/localnow/127/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LNLocal Now Horizon" tvg-name="Local Now Horizon" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now Horizon
+https://linear-211.frequency.stream/dist/localnow/211/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LNLocal Now Insight" tvg-name="Local Now Insight" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now Insight
+https://linear-154.frequency.stream/dist/localnow/154/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LNLocal Now Inspiration" tvg-name="Local Now Inspiration" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now Inspiration
+https://linear-134.frequency.stream/dist/localnow/134/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LNLocal Now Justice" tvg-name="Local Now Justice" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now Justice
+https://linear-90.frequency.stream/dist/localnow/90/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LNMovies of the 30's and 40's" tvg-name="Local Now Movies of the 30s and 40s" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Movies of the 30's and 40's
+https://linear-204.frequency.stream/dist/localnow/204/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LNMovies of the 50's and 60's" tvg-name="Local Now Movies of the 50s and 60s" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Movies of the 50's and 60's
+https://linear-203.frequency.stream/dist/localnow/203/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LNMovies of the 70's" tvg-name="Local Now Movies of the 70s" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now Movies of the 70's
+https://linear-172.frequency.stream/dist/localnow/172/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LNMovies of the 80's" tvg-name="Local Now Movies of the 80s" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now Movies of the 80's
+https://linear-171.frequency.stream/dist/localnow/171/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LNMovies of the 90's" tvg-name="Local Now Movies of the 90s" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now Movies of the 90's
+https://linear-170.frequency.stream/dist/localnow/170/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LNEPG  Local Now Movies of the 2000s" tvg-name="Local Now Movies of the 2000s" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now Movies of the 2000s
+https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LNEPG  Local Now Movies of the 2010s" tvg-name="Local Now Movies of the 2010s" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now Movies of the 2010s
+https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LNEPG  Local Now Movies of the 2020s" tvg-name="Local Now Movies of the 2020s" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now Movies of the 2020s
+https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LNLocal Now Music" tvg-name="Local Now Music" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now Music
+https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LNPG Flix" tvg-name="Local Now PG Flix" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now PG Flix
+https://linear-218.frequency.stream/dist/localnow/218/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LNPG-13 Flix" tvg-name="Local Now PG-13 Flix" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now PG-13 Flix
+https://linear-230.frequency.stream/dist/localnow/230/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LNLocal Now Seaside" tvg-name="Local Now Seaside" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now Seaside
+https://linear-209.frequency.stream/dist/localnow/209/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LNLN Sports" tvg-name="Local Now Sports" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now Sports
+https://linear-86.frequency.stream/dist/localnow/86/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LNLocal Now Stargaze" tvg-name="Local Now Stargaze" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now Stargaze
+https://linear-214.frequency.stream/dist/localnow/214/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LNLocal Now Wild West" tvg-name="Local Now Wild West" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now Wild West
+https://d2v42hnvh68zz7.cloudfront.net/dist/localnow/213/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Main_EPGLN Zen" tvg-name="Local Now Zen" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now Zen
+https://linear-125.frequency.stream/dist/localnow/125/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LNEPG  Lone Star" tvg-name="Lone Star" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",LocalNow | Lone Star
+https://lonestar-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LNLove & War" tvg-name="Love & War" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",LocalNow | Love & War
+https://linear-217.frequency.stream/dist/localnow/217/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LNRomantique" tvg-name="Romantique" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",LocalNow | Romantique
+https://linear-152.frequency.stream/dist/localnow/152/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LNWeather Gone Viral" tvg-name="Weather Gone Viral" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Weather Gone Viral
+https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LNWild Earth" tvg-name="Wild Earth" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",LocalNow | Wild Earth
+https://wildearth-localnow.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="WatchYour.TV",** Category updated 10/30/21 **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?tvs1
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="WatchYour.TV",** Credits: @DeltaSR + @jhr1948 via Discord | Adapted by: @geonsey Free2View TV **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?tvs2
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="WatchYour.TV",** Uses this EPG source: NEW! [12] https://cutt.ly/WatchyourTVepg **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?tvsepg1
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODFf/WatchYourTV_374x374.png" group-title="WatchYour.TV",** FREE TV Programming Worldwide - Android IPTV + WebTV + iOS + Roku + Online DVR on apps (7 Days) **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?tvs3
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODFf/WatchYourTV_374x374.png" group-title="WatchYour.TV",** https://www.watchyour.tv/index.php **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?tvs4
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="WatchYour.TV",â˜…â˜… Home Shopping â˜…â˜…
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?tvsShop
+#EXTINF:-1 tvg-id="watchyourtv_EPGJewelry Television" tvg-name="Jewelry Television" tvg-logo="https://www.watchyour.tv/img/epgdefault.png" group-title="WatchYour.TV",Jewelry Television
+https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="DUMMYNoGuide" tvg-name="Rare Collectibles TV" tvg-logo="https://www.watchyour.tv/img/epgdefault.png" group-title="WatchYour.TV",Rare Collectibles TV
+https://rpn1.bozztv.com/36bay2/gusa-tvsrarecollectibles/index.m3u8
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Bazaar of All Nations" tvg-name="TVS Bazaar of All Nations" tvg-logo="https://www.watchyour.tv/epg/channellogos/consumer.png" group-title="WatchYour.TV",TVS Bazaar of All Nations
+https://rpn1.bozztv.com/36bay2/gusa-tvsbazaar/index.m3u8
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Consumer Direct" tvg-name="TVS Consumer Direct" tvg-logo="https://www.watchyour.tv/epg/channellogos/consumer.png" group-title="WatchYour.TV",TVS Consumer Direct
+https://rpn1.bozztv.com/36bay2/gusa-ConsumerDirect/index.m3u8
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Silo Discount Network" tvg-name="TVS Silo Discount Network" tvg-logo="https://www.watchyour.tv/img/epgdefault.png" group-title="WatchYour.TV",TVS Silo Discount Network
+https://rpn1.bozztv.com/36bay2/gusa-tvssilodiscount/index.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="WatchYour.TV",â˜…â˜… Mixed Programming â˜…â˜…
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?tvsMix
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Tavern TV" tvg-name="TVS Tavern TV" tvg-logo="https://www.watchyour.tv/epg/channellogos/tvs-tavern-tv.png" group-title="WatchYour.TV",TVS Tavern TV
+https://rpn1.bozztv.com/36bay2/gusa-tavern/index.m3u8
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Hollywood History" tvg-name="TVS Hollywood History" tvg-logo="https://www.watchyour.tv/img/epgdefault.png" group-title="WatchYour.TV",TVS Hollywood History
+https://rpn1.bozztv.com/36bay2/gusa-tvshollywoohistory/index.m3u8
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Select Network" tvg-name="TVS Select Network" tvg-logo="https://www.watchyour.tv/epg/channellogos/tvs-select-network.png" group-title="WatchYour.TV",TVS Select Network
+https://rpn1.bozztv.com/36bay2/gusa-tvsselect/index.m3u8
+#EXTINF:-1 tvg-id="DUMMYNoGuide" tvg-name="TVS Talk Network" tvg-logo="https://www.watchyour.tv/img/epgdefault.png" group-title="WatchYour.TV",TVS Talk Network
+https://rpn1.bozztv.com/36bay2/gusa-TVStalk/index.m3u8
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Television Network" tvg-name="TVS Television Network" tvg-logo="https://www.watchyour.tv/img/epgdefault.png" group-title="WatchYour.TV",TVS Television Network
+https://rpn1.bozztv.com/36bay2/gusa-tvstn/index.m3u8
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Today Home Entertainment Network" tvg-name="TVS Today Home Entertainment" tvg-logo="https://www.watchyour.tv/img/epgdefault.png" group-title="WatchYour.TV",TVS Today Home Entertainment
+https://rpn1.bozztv.com/36bay2/gusa-TVSTodayHomeEntertainment/index.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="WatchYour.TV",â˜…â˜… Sports â˜…â˜…
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?tvsSports
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Classic Sports" tvg-name="TVS Classic Sports" tvg-logo="https://www.watchyour.tv/epg/channellogos/tvs-sports-network.png" group-title="WatchYour.TV",TVS Classic Sports
+https://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Boxing Network" tvg-name="TVS Boxing Network" tvg-logo="https://www.watchyour.tv/epg/channellogos/tvs-boxing-network.png" group-title="WatchYour.TV",TVS Boxing Network
+https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Turbo Network" tvg-name="TVS Turbo Network" tvg-logo="https://www.watchyour.tv/epg/channellogos/tvs-turbo-network.png" group-title="WatchYour.TV",TVS Turbo Network
+https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Sports Network" tvg-name="TVS Sports Network" tvg-logo="https://www.watchyour.tv/epg/channellogos/tvs-sports-network.png" group-title="WatchYour.TV",TVS Sports Network
+https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Women's Sports Network" tvg-name="TVS Womens Sports Network" tvg-logo="https://www.watchyour.tv/img/epgdefault.png" group-title="WatchYour.TV",TVS Women's Sports Network
+https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Sports Bureau" tvg-name="TVS Sports Bureau" tvg-logo="https://www.watchyour.tv/img/epgdefault.png" group-title="WatchYour.TV",TVS Sports Bureau
+https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="WatchYour.TV",â˜…â˜… Movies â˜…â˜…
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?tvsMovies
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Classic Movies" tvg-name="TVS Classic Movies" tvg-logo="https://www.watchyour.tv/epg/channellogos/tvs-classic-movies.png" group-title="WatchYour.TV",TVS Classic Movies
+https://rpn1.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Drive In Movie" tvg-name="TVS Drive In Movie" tvg-logo="https://www.watchyour.tv/epg/channellogos/tvs-drive-in-movie.png" group-title="WatchYour.TV",TVS Drive In Movie
+https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Film Noir Network" tvg-name="TVS Film Noir Network" tvg-logo="https://www.watchyour.tv/img/epgdefault.png" group-title="WatchYour.TV",TVS Film Noir Network
+https://rpn1.bozztv.com/36bay2/gusa-TVSFilmNoir/index.m3u8
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Horror" tvg-name="TVS Horror" tvg-logo="https://www.watchyour.tv/epg/channellogos/tvs-horror.png" group-title="WatchYour.TV",TVS Horror
+https://rpn1.bozztv.com/36bay2/gusa-tvshorror/index.m3u8
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Nostalgia Movie Network" tvg-name="TVS Nostalgia" tvg-logo="https://www.watchyour.tv/epg/channellogos/tvs-nostalgia.png" group-title="WatchYour.TV",TVS Nostalgia
+https://rpn1.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Western Movie" tvg-name="TVS Western Movie" tvg-logo="https://www.watchyour.tv/epg/channellogos/tvs-western-movie.png" group-title="WatchYour.TV",TVS Western Movie
+https://rpn1.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="WatchYour.TV",â˜…â˜… Entertainment â˜…â˜…
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?tvsEnt
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Main Street" tvg-name="TVS Main Street" tvg-logo="https://www.watchyour.tv/epg/channellogos/tvs-main-street.png" group-title="WatchYour.TV",TVS Main Street
+https://rpn1.bozztv.com/36bay2/gusa-tvsmainst/index.m3u8
+#EXTINF:-1 tvg-id="DUMMYNoGuide" tvg-name="TVS Opus Network" tvg-logo="https://www.watchyour.tv/img/epgdefault.png" group-title="WatchYour.TV",TVS Opus Network
+https://rpn1.bozztv.com/36bay2/gusa-tvsmusic/index.m3u8
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Port O Call" tvg-name="TVS Port O Call" tvg-logo="https://www.watchyour.tv/epg/channellogos/tvs-travel-network.png" group-title="WatchYour.TV",TVS Port O Call
+https://rpn1.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Sitcom" tvg-name="TVS Sitcom" tvg-logo="https://www.watchyour.tv/epg/channellogos/tvs-comedy-channel.png" group-title="WatchYour.TV",TVS Sitcom
+https://rpn1.bozztv.com/36bay2/gusa-tvscomedy/index.m3u8
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Tally Ho" tvg-name="TVS Tally Ho" tvg-logo="https://www.watchyour.tv/epg/channellogos/tvs-tally-ho.png" group-title="WatchYour.TV",TVS Tally Ho
+https://rpn1.bozztv.com/36bay2/gusa-tvstallyho/index.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="WatchYour.TV",â˜…â˜… Kids & Family â˜…â˜…
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?tvsKids
+#EXTINF:-1 tvg-id="watchyourtv_EPGPet Parade Network" tvg-name="Pet Parade Network" tvg-logo="https://www.watchyour.tv/epg/channellogos/pet-parade-network.png" group-title="WatchYour.TV",Pet Parade Network
+https://rpn1.bozztv.com/36bay2/gusa-petparadenetwork/index.m3u8
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Hi Tops" tvg-name="TVS Hi Tops" tvg-logo="https://www.watchyour.tv/img/epgdefault.png" group-title="WatchYour.TV",TVS Hi Tops
+https://rpn1.bozztv.com/36bay2/gusa-hitops/index.m3u8
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Light Network" tvg-name="TVS Light Network" tvg-logo="https://www.watchyour.tv/epg/channellogos/tvs-family-channel.png" group-title="WatchYour.TV",TVS Light Network
+https://rpn1.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Pinball Network" tvg-name="TVS Pinball Network" tvg-logo="https://www.watchyour.tv/img/epgdefault.png" group-title="WatchYour.TV",TVS Pinball Network
+https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Quiz Show Network" tvg-name="TVS Quiz Show Network" tvg-logo="https://www.watchyour.tv/img/epgdefault.png" group-title="WatchYour.TV",TVS Quiz Show Network
+https://rpn1.bozztv.com/36bay2/gusa-tvsgameshow/index.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="WatchYour.TV",â˜…â˜… Religion & Spirituality â˜…â˜…
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?tvsReligion
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Inspirational Network" tvg-name="TVS Inspirational Network" tvg-logo="https://www.watchyour.tv/img/epgdefault.png" group-title="WatchYour.TV",TVS Inspirational Network
+https://rpn1.bozztv.com/36bay2/gusa-TVSInspirationalNetwork/index.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="WatchYour.TV",â˜…â˜… TV Classics â˜…â˜…
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?tvsTVClassics
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Buckboard Network" tvg-name="TVS Buckboard Network" tvg-logo="https://www.watchyour.tv/epg/channellogos/tvs-frontier.png" group-title="WatchYour.TV",TVS Buckboard Network
+https://rpn1.bozztv.com/36bay2/gusa-tvsfrontier/index.m3u8
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Nostalgia" tvg-name="TVS Nostalgia" tvg-logo="https://www.watchyour.tv/epg/channellogos/tvs-nostalgia.png" group-title="WatchYour.TV",TVS Nostalgia
+https://rpn1.bozztv.com/36bay2/gusa-nostalgia/index.m3u8
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Flashback Network" tvg-name="TVS Flashback Network" tvg-logo="https://www.watchyour.tv/img/epgdefault.png" group-title="WatchYour.TV",TVS Flashback Network
+https://rpn1.bozztv.com/36bay2/gusa-TVSFlashback/index.m3u8
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Cipher Network" tvg-name="TVS Cipher Network" tvg-logo="https://www.watchyour.tv/epg/channellogos/tvs-mystery-network.png" group-title="WatchYour.TV",TVS Cipher Network
+https://rpn1.bozztv.com/36bay2/gusa-tvsmystery/index.m3u8
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Front Page Detective " tvg-name="TVS Front Page Detective" tvg-logo="https://www.watchyour.tv/img/epgdefault.png" group-title="WatchYour.TV",TVS Front Page Detective
+https://rpn1.bozztv.com/36bay2/gusa-tvsfrontpagedetective/index.m3u8
+#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Vintage Network" tvg-name="TVS Vintage Network" tvg-logo="https://www.watchyour.tv/img/epgdefault.png" group-title="WatchYour.TV",TVS Vintage Network
+https://rpn1.bozztv.com/36bay2/gusa-tvsvintage/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Free Ad Supported TV",** Category updated 9/15/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?FAST1
@@ -967,26 +1164,6 @@ https://outside-tv-samsung.vizio.wurl.com/manifest/playlist.m3u8
 https://pac12-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDU0NzM3NTBf/VizioWF_220x220.png" group-title="Free Ad Supported TV",Qello Concerts | HD
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-vizioqelloconcerts/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Free Ad Supported TV",** Local Now Exclusives **
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?LocalNow
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-name="" group-title="Free Ad Supported TV",Local Now | 2020s Movies
-https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-name="" group-title="Free Ad Supported TV",Local Now | 2010s Movies
-https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-name="" group-title="Free Ad Supported TV",Local Now | 2000s Movies
-https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-name="" group-title="Free Ad Supported TV",Local Now Movies of the '90s
-https://linear-170.frequency.stream/dist/localnow/170/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-name="" group-title="Free Ad Supported TV",Local Now Movies of the '80s
-https://linear-171.frequency.stream/dist/localnow/171/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-name="" group-title="Free Ad Supported TV",Local Now Movies of the '70s
-https://linear-172.frequency.stream/dist/localnow/172/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-name="" group-title="Free Ad Supported TV",Movies of the '50s & '60s
-https://linear-203.frequency.stream/dist/localnow/203/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-name="" group-title="Free Ad Supported TV",Movies of the '30s & '40s
-https://linear-204.frequency.stream/dist/localnow/204/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-name="" group-title="Free Ad Supported TV",Local Now | Wild West
-https://d2v42hnvh68zz7.cloudfront.net/dist/localnow/213/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Free Ad Supported TV",** Vuuzle TV **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Vuuzle
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yNDU2NjA3ODlf/Vuuzle_400x400.png" tvg-name="" group-title="Free Ad Supported TV",Vuuzle Movie Channel
@@ -1118,9 +1295,9 @@ https://broadcast.mytvtogo.net/horrifiedtv/horrifiedtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzU1NDU0OTdf/NostTV_Movies_400x400.png" group-title="Movies Plus",Let's Go To The Movies
 https://broadcast.mytvtogo.net/itsatthemovies/itsatthemovies/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Live News",** Category updated 8/18/21 **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Live News",** Category updated 10/29/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?news1
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Live News",** News & Weather **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Live News",â˜…â˜… News & Weather â˜…â˜…
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?newscat1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzMwMjQ4OThf/NBCNewsNow.png" group-title="Live News",NBC News NOW | Roku
 https://nbcnewsxumo.akamaized.net/hls/live/2026070/nnn_live2/master.m3u8?RokuStream
@@ -1136,7 +1313,7 @@ https://247wlive.foxweather.com/stream/index.m3u8
 https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjY2MjMxMDVf/WeatherNation.png" group-title="Live News",Weather Nation | Samsung
 https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8?origSS-f2vlivenews
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Live News",** CBS News Digital **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Live News",â˜…â˜… CBS News Digital â˜…â˜…
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?cbsnews1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzMyNDIzNjZf/CBSNews.png" group-title="Live News",CBS News | CBSN National
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
@@ -1166,7 +1343,7 @@ https://cbsnewshd-lh.akamaihd.net/i/cbsnewsLivePlayer_1@196305/master.m3u8
 https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzMyNDIzNjZf/CBSNews.png" group-title="Live News",CBS News | ET Live
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Live News",** ABC News Digital **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Live News",â˜…â˜… ABC News Digital â˜…â˜…
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?abcnews1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="Live News",ABC News Live | HD
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -1190,7 +1367,7 @@ https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
 https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="Live News",ABC News | 10
 https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Live News",** NBC News Now **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Live News",â˜…â˜… NBC News Now â˜…â˜…
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?nbcnews1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzMwMjQ4OThf/NBCNewsNow.png" group-title="Live News",NBC News Now | HD
 https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
@@ -1204,7 +1381,7 @@ https://nbcnews-lh.akamaihd.net/i/nbc_live13@187394/master.m3u8
 https://nbcnews-lh.akamaihd.net/i/nbc_live14@187395/master.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzMwMjQ4OThf/NBCNewsNow.png" group-title="Live News",NBC News Now Event 5
 https://nbcnews-lh.akamaihd.net/i/nbc_live21@183428/master.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Live News",** France 24 (Alternates) **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Live News",â˜…â˜… France 24 (Alternates) â˜…â˜…
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?france24
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDU3MjcyNzlf/France24.png" group-title="Live News",France24 | ENG Web HD
 http://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
@@ -2014,8 +2191,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60804d85858bd00007c5d5
 #EXTINF:-1 tvg-id="6081648340382e0007f73d45" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Sci-Fi + Horror & Beyond",UK | Most Haunted
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6081648340382e0007f73d45/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Holidays 365",** Category updated 10/08/21 **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Holidays 365",** Category updated 10/30/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Holidays1
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Holidays 365",** Uses these EPG sources: (refer to the 'Info | Free2View TV' for specific xml URL's) [6] Stirr + [8] Samsung TV Plus  **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Holidays2
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Holidays 365",ðŸŽƒðŸŽƒ Halloween 365 ðŸŽƒðŸŽƒ
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Halloween1
 #EXTINF:-1 tvg-id="CABA800009T5" tvg-logo="https://od.lk/s/MF8yMzQ3MDMwMjhf/HauntTV_600x600.png" group-title="Holidays 365",Haunt TV ðŸ‘» HD
@@ -2034,6 +2213,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/episode/5c0f1702741fbc7c3ea901
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/episode/5f2d86c6bbff270013ba6499/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjQzMjIyNzhf/Generic-VOD.png" group-title="Holidays 365",Paranormal Activity: The Ghost Dimension (2015) [cc]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/episode/5bad6e82ac5d753a4b63dad7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjQzMjIyNzhf/Generic-VOD.png" group-title="Holidays 365",Halloween Lounge: Haunting Pumpkins & Candles
+https://google.tubi.video/b96d7cf0-7c70-4d06-9f24-775bd5f3d43c/v0l9sb0h/stream.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Holidays 365",ðŸŽ¶ Halloween Radio 365 ðŸŽ¶
 https://od.lk/s/MF8yNDkwMzAwNjZf/RadioRuinsWPP.mp4?HalloweenRadio
 #EXTINF:-1 tvg-logo="https://main.halloweenradio.net/site_hrm/images/block_main.png" group-title="Holidays 365" radio="true",Main | HalloweenRadio.net
@@ -2054,6 +2235,8 @@ http://s6.yesstreaming.net:7082/stream
 https://eu1.fastcast4u.com/proxy/stevende1?mp=/1&1634644765940
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Holidays 365",ðŸŽ„ðŸŽ„ Christmas 365 ðŸŽ„ðŸŽ„
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Christmas1
+#EXTINF:-1 tvg-id="USBB3600003IC" tvg-logo="https://od.lk/s/MF8yNTEyNjMzNTdf/HolidayMovies_300x300.png" group-title="Holidays 365",Holiday Movies ðŸŽ… HD
+https://d2wkw6golvkrrh.cloudfront.net/amgholidaymovie/playlist.m3u8?l1br3&date1030&SSgSc&SsgEPG&catHalloween
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDkwMDkzNjVf/Generic_Christmas_715x715.png" group-title="Holidays 365",VOD TV Fireplace Holiday Ed.
 https://cloudfront.tubi.video/efb1aca3-3525-468c-8e4b-8daa32e61c9b/g1zp7d0j/stream.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDkwMDkzNjVf/Generic_Christmas_715x715.png" group-title="Holidays 365",VOD Anytime Fireplace
@@ -2135,91 +2318,6 @@ https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream.m3u8
 http://adultswim-vodlive.cdn.turner.com/live/tim-and-eric/stream.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV | [adult swim]",Relaxing Fish 
 https://media.cdn.adultswim.com/streams/playlists/fishcam.backup.m3u8
-
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="WatchYour.TV | TVS",** Category updated 9/04/21 **
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?tvs1
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="WatchYour.TV | TVS",** FREE TV Programming Worldwide - Android IPTV + WebTV + iOS + Roku + Online DVR on apps (7 Days) **
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?tvs2
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="WatchYour.TV | TVS",** https://www.watchyour.tv/index.php **
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?tvs3
-#EXTINF:-1 tvg-id="a69339" tvg-name="TVS Television Network" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Television Network
-https://rpn1.bozztv.com/36bay2/gusa-tvstn/index.m3u8
-#EXTINF:-1 tvg-id="f104ee" tvg-name="TVS Today Home Entertainment" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Today Home Entertainment
-https://rpn1.bozztv.com/36bay2/gusa-TVSTodayHomeEntertainment/index.m3u8
-#EXTINF:-1 tvg-id="63f2f6" tvg-name="TVS Main Street" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Main Street
-https://rpn1.bozztv.com/36bay2/gusa-tvsmainst/index.m3u8
-#EXTINF:-1 tvg-id="242527" tvg-name="TVS Select Network" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Select Network
-https://rpn1.bozztv.com/36bay2/gusa-tvsselect/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Talk Network
-https://rpn1.bozztv.com/36bay2/gusa-TVStalk/index.m3u8
-#EXTINF:-1 tvg-id="740ce2" tvg-name="TVS Classic Sports" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Classic Sports
-https://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
-#EXTINF:-1 tvg-id="270a16" tvg-name="TVS Boxing Network" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Boxing Network
-https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
-#EXTINF:-1 tvg-id="612bfb" tvg-name="TVS Turbo Network" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Turbo Network
-https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
-#EXTINF:-1 tvg-id="dd0bc1" tvg-name="TVS Tavern TV" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Tavern TV
-https://rpn1.bozztv.com/36bay2/gusa-tavern/index.m3u8
-#EXTINF:-1 tvg-id="aebaaf" tvg-name="TVS Sports Network" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Sports Network
-https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
-#EXTINF:-1 tvg-id="696c07" tvg-name="TVS Womens Sports Network" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Women's Sports Network
-https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Sports Bureau
-https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
-#EXTINF:-1 tvg-id="350293" tvg-name="TVS Classic Movies" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Classic Movies
-https://rpn1.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
-#EXTINF:-1 tvg-id="a703b3" tvg-name="TVS Drive In Movie" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Drive In Movie
-https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
-#EXTINF:-1 tvg-id="a78ed1" tvg-name="TVS Hollywood History" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Hollywood History
-https://rpn1.bozztv.com/36bay2/gusa-tvshollywoohistory/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Film Noir Network
-https://rpn1.bozztv.com/36bay2/gusa-TVSFilmNoir/index.m3u8
-#EXTINF:-1 tvg-id="5fb4d2" tvg-name="TVS Horror" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Horror Network
-https://rpn1.bozztv.com/36bay2/gusa-tvshorror/index.m3u8
-#EXTINF:-1 tvg-id="245f03" tvg-name="TVS Nostalgia Movie Network" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Nostalgia Movie Network
-https://rpn1.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
-#EXTINF:-1 tvg-id="ea2503" tvg-name="TVS Western Movie" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Western Movie
-https://rpn1.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
-#EXTINF:-1 tvg-id="928069" tvg-name="TVS Buckboard Network" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Buckboard Network
-https://rpn1.bozztv.com/36bay2/gusa-tvsfrontier/index.m3u8
-#EXTINF:-1 tvg-id="711650" tvg-name="TVS Front Page Detective" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Front Page Detective
-https://rpn1.bozztv.com/36bay2/gusa-tvsfrontpagedetective/index.m3u8
-#EXTINF:-1 tvg-id="b8a221" tvg-name="TVS Cipher Network" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Cipher Network
-https://rpn1.bozztv.com/36bay2/gusa-tvsmystery/index.m3u8
-#EXTINF:-1 tvg-id="70dbc2" tvg-name="TVS Nostalgia" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Nostalgia
-https://rpn1.bozztv.com/36bay2/gusa-nostalgia/index.m3u8
-#EXTINF:-1 tvg-id="bf548b" tvg-name="TVS Flashback Network" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Flashback Network
-https://rpn1.bozztv.com/36bay2/gusa-TVSFlashback/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Opus Network
-https://rpn1.bozztv.com/36bay2/gusa-tvsmusic/index.m3u8
-#EXTINF:-1 tvg-id="cb3687" tvg-name="TVS Sitcom" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Sitcom
-https://rpn1.bozztv.com/36bay2/gusa-tvscomedy/index.m3u8
-#EXTINF:-1 tvg-id="99c8fb" tvg-name="TVS Tally Ho" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Tally Ho
-https://rpn1.bozztv.com/36bay2/gusa-tvstallyho/index.m3u8
-#EXTINF:-1 tvg-id="185577" tvg-name="TVS Port O Call" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Port O Call
-https://rpn1.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
-#EXTINF:-1 tvg-id="4954b4" tvg-name="TVS Pet Parade Network" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Pet Parade Network
-https://rpn1.bozztv.com/36bay2/gusa-petparadenetwork/index.m3u8
-#EXTINF:-1 tvg-id="c2c501" tvg-name="TVS Pinball Network" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Pinball Network
-https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8
-#EXTINF:-1 tvg-id="4ee7e0" tvg-name="TVS Light Network" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Light Network
-https://rpn1.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
-#EXTINF:-1 tvg-id="bb1486" tvg-name="TVS Quiz Show Network" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Quiz Show Network
-https://rpn1.bozztv.com/36bay2/gusa-tvsgameshow/index.m3u8
-#EXTINF:-1 tvg-id="937abf" tvg-name="TVS Hi Tops" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Hi Tops
-https://rpn1.bozztv.com/36bay2/gusa-hitops/index.m3u8
-#EXTINF:-1 tvg-id="08621b" tvg-name="TVS Inspirational Network" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Inspirational Network
-https://rpn1.bozztv.com/36bay2/gusa-TVSInspirationalNetwork/index.m3u8
-#EXTINF:-1 tvg-id="53ad42" tvg-name="TVS Jewelry Television" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",Jewelry Television
-https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",Rare Collectibles TV
-https://rpn1.bozztv.com/36bay2/gusa-tvsrarecollectibles/index.m3u8
-#EXTINF:-1 tvg-id="3bc4e8" tvg-name="TVS Consumer Direct" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Consumer Direct
-https://rpn1.bozztv.com/36bay2/gusa-ConsumerDirect/index.m3u8
-#EXTINF:-1 tvg-id="d9d103" tvg-name="TVS Bazaar of All Nation" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Bazaar of All Nations
-https://rpn1.bozztv.com/36bay2/gusa-tvsbazaar/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Silo Discount Network
-https://rpn1.bozztv.com/36bay2/gusa-tvssilodiscount/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="International TV",** Category updated 9/30/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?International1
