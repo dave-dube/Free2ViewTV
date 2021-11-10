@@ -6,6 +6,8 @@ https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
 https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_2500.m3u8
 #EXTINF:-1 tvg-id="I94.16378.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVA_540x540.png?raw=true" group-title="DD - Quebec TV",TVA (Geo)
 https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
+#EXTINF:-1 tvg-id="I734.58759.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDU0MDY2MDZf/TVA_540x540.png" group-title="DD - Quebec TV",TVA (Alternate)
+https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8
 #EXTINF:-1 tvg-id="I127.17590.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LCN_640x640.png?raw=true" group-title="DD - Quebec TV",Le Canal Nouvelles [TEMP]
 https://tvalcn.akamaized.net/hls/live/2013847/tvalcn01/master.m3u8
 #EXTINF:-1 tvg-id="I540.17383.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Noovo_608x608.png?raw=true" group-title="DD - Quebec TV",noovo
@@ -18,38 +20,12 @@ https://hls.savoir.media/live/stream.m3u8
 http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83759.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="I149.21667.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CPAC_360x360.png?raw=true" group-title="DD - Quebec TV",CPAC | French
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
-#EXTINF:-1 tvg-id="I512.17608.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CPAC_360x360.png?raw=true" group-title="DD - Canadian TV",CPAC | Floor
+#EXTINF:-1 tvg-id="I512.17608.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CPAC_360x360.png?raw=true" group-title="DD - Quebec TV",CPAC | Floor
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680603/1242843915001_2/master.m3u8
 #EXTINF:-1 tvg-id="I148.16133.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ANDQ_603x603.png?raw=true" group-title="DD - Quebec TV",Assemblee Nationale du QC
 http://diffusionm3.assnat.qc.ca/canal10/250.sdp/chunklist.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="I873.66001.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/66001/s66001_h3_aa.png?w=55" group-title="DD - VPN",Evasion HD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83748.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="I858.56105.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/56105/s56105_h3_aa.png?w=55" group-title="DD - VPN",Canal Vie
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83709.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="I1876.69466.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/69466/s69466_h3_aa.png?w=55" group-title="DD - VPN",Elle Fictions
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83745.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="I1844.61443.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/61443/s61443_h3_aa.png?w=55" group-title="DD - Quebec TV",ARTV
-http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83358?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="I194.72005.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/72006/s72006_h3_aa.png?w=55" group-title="DD - VPN",Moi&Cie HD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83738.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="I192.73271.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/73275/s73275_h3_aa.png?w=55" group-title="DD - VPN",RDS 2 HD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83734.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="I857.56109.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/56109/s56109_h3_aa.png?w=55" group-title="DD - VPN",Series+ HD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83737.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="I180.15677.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/53091/s53091_h3_aa.png?w=55" group-title="DD - VPN",Super Ecran 1 HD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83695.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="I140.15685.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/56159/s56159_h3_aa.png?w=55" group-title="DD - VPN",VRAK HD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83729.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="I190.67174.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/67429/s67429_h3_aa.png?w=55" group-title="DD - VPN",Zeste HD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83715.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="I129.15682.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/56161/s56161_h3_aa.png?w=55" group-title="DD - VPN",Canal D
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83758.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="I145.11185.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV5Monde_855x855.png?raw=true" group-title="DD - Quebec TV",France | TV5 Monde Info
 https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
-#EXTINF:-1 tvg-id="I1862.56163.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/56163/s56163_h3_aa.png?w=55" group-title="DD - VPN",Historia HD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83861.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="I1445.48099.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/48099/s48099_h3_aa.png?w=55" group-title="DD - VPN",Fight Network
-http://tv.masterplaytv.xyz:8000/LTN737/7647385926/3686?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="I245.15939.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="DD - CBC TV Canada (Geo)",CBC Calgary
 https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
 #EXTINF:-1 tvg-id="I197.17398.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="DD - CBC TV Canada (Geo)",CBC Charlottetown
@@ -114,8 +90,6 @@ https://d128o1k7zh3htz.cloudfront.net/out/v1/74a58360a3734f97b74ba439bc678044/in
 https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8
 #EXTINF:-1 tvg-id="I138.15987.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleQuebecCA.png" group-title="DD - Quebec TV",Tele-Quebec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-id="I126.15209.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="DD - Quebec TV",ICI RDI DD
-https://srclive-lh.akamaihd.net/i/web206_1@364877/index_2500_av-p.m3u8?sd=10&set-akamai-hls-revision=4&rebase=on
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dave-dube/Free2ViewTV/blob/master/images/hippo.png?raw=true" group-title="Nature Cams",Hippo Cam (San Diego)
 https://zssd-hippo.hls.camzonecdn.com/CamzoneStreams/zssd-hippo/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dave-dube/Free2ViewTV/blob/master/images/ornithorynque.png?raw=true" group-title="Nature Cams",Ornithorynque Cam (San Diego)
@@ -174,35 +148,3 @@ http://edge02.hdontap.com/ingest03-hd3/grizzly2_rpz.stream/chunklist_w48944426.m
 http://edge04.hdontap.com/ingest03-hd3/lemur_rpz.stream/chunklist_w1184171785.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature Cams",Lion (Reid Park)
 http://edge04.hdontap.com/ingest03-hd3/lion_rpz.stream/chunklist_w1929675943.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DD - VPN",Canal Z
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83669.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DD - VPN",CASA
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83742.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DD - VPN",Canal V
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83725.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DD - VPN",ES1
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83746.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DD - VPN",France 24
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83750.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DD - VPN",Chaine Disney
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83708.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DD - VPN",Prise 2
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83731.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DD - VPN",RDS Info
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83732.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DD - VPN",Super Ecran 2 HD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83696.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DD - VPN",Super Ecran 4 HD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83698.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DD - VPN",Telemagino HD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83716.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DD - VPN",Teletoon HD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83717.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DD - VPN",Yoopa HD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83706.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DD - VPN",TVA Sport HD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83722.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DD - VPN",TVA Sport 2 HD
-http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/83721.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="I540.17383.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Noovo_608x608.png?raw=true" group-title="DD - Quebec TV",Noovo (new method)
-https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
