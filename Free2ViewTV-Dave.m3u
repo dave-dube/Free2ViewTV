@@ -137,6 +137,11 @@
 # 12/19/21 - NEW CHANNELS: Added new channels into "Plex Live TV"; Plex Christmas channels (sub-domains) added in "Holidays 365".
 # COMING SOON: Content from critical thinker.cyou. Update to Distro TV, additional new channels to be added to Plex. 
 # COMING SOON: Move NPR radio. Add more iHeartRadio TV channels. Add more LCM movies. Add more premium 18+ videos. More.
+# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 12/15/2021 ** !! See chronology of changes below...
+# 12/22/21 - CHANNEL REMOVED: Removed LCN from "Canada" group (no longer available to stream for free).
+# 12/22/21 - CHANNEL ADDED: Available until January 20, 2022: French-Canadian channel 'Zeste' added to "Canada" group, with EPG.
+# COMING SOON: Content from critical thinker.cyou. Update to Distro TV, additional new channels to be added to Plex. 
+# COMING SOON: Move NPR radio. Add more iHeartRadio TV channels. Add more LCM movies. Add more premium 18+ videos. More.
 #
 # ************************************************************************************************************************************* 
 
@@ -2292,7 +2297,7 @@ https://streams.kqed.org/kqedradio?listenerid=1632014350025_0.3531046065504524&a
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Canada",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Canada0
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Canada",** Category updated 12/15/21 **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Canada",** Category updated 12/22/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Canada1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Canada",** Use this EPG Source: [1] https://cutt.ly/CAN_EPG1 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Canada2
@@ -2324,10 +2329,14 @@ https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_2500.m3u8?Canada
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-id="I734.58759.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDU0MDY2MDZf/TVA_540x540.png" group-title="DD - Quebec TV",TVA (Alternate)
 https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8
+#EXTINF:-1 tvg-id="I734.58759.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDU0MDY2MDZf/TVA_540x540.png" group-title="Canada",TVA (Geo-CA) (Sc.1B)
+https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8?__nn__=5529128749001&hdnea=st=1640215800~exp=1640219400~acl=/*~hmac=22c8e0acd9da195a856e6294006b41985438cd85f8de6123d7dacd616670bd02
 #EXTINF:-1 tvg-id="I734.58759.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDU0MDY2MDZf/TVA_540x540.png" group-title="Canada",TVA (Geo-CA) (Sc.2)
 https://dai.google.com/linear/hls/event/5DUWih-wSeOUg9zszuE-Jw/master.m3u8
-#EXTINF:-1 tvg-id="I743.67231.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDgzNjA3NzJf/LCN_640x640.png" group-title="Canada",LCN Le Canal Nouvelles
-https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8?Canada
+#EXTINF:-1 tvg-id="I767.67429.zap2it.com" tvg-logo="https://od.lk/s/MF8yNTY3Njk4NDRf/Zeste_301x301.png" group-title="Canada",Zeste (Geo-CA) (Sc.1A) [Until January 20 2022]
+https://ctszeste.akamaized.net/Content/HLS/Live/channel(bdfda20c-b73f-e8fc-8e12-e010830aa276)/index.m3u8
+#EXTINF:-1 tvg-id="I767.67429.zap2it.com" tvg-logo="https://od.lk/s/MF8yNTY3Njk4NDRf/Zeste_301x301.png" group-title="Canada",Zeste (Geo-CA) (Sc.1B) [Until January 20 2022]
+https://ctszeste.akamaized.net/Content/HLS/Live/channel(bdfda20c-b73f-e8fc-8e12-e010830aa276)/index.m3u8?__nn__=5529128749001&hdnea=st=1640219400~exp=1640223000~acl=/*~hmac=f9dd1d70bd5055c071aa4e6977f4ed68858ab8aa828541bc4e11288ea7f4ac36
 #EXTINF:-1 tvg-id="I735.63040.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDU0MDY3MDFf/TeleQuebecCA_535x535.png" group-title="Canada",TÃ©lÃ©-QuÃ©bec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 #EXTINF:-1 tvg-id="I723.72976.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDU0MDY4Mzlf/Noovo_608x608.png" group-title="Canada",noovo (Sc.1)
