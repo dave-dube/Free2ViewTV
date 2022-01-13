@@ -137,11 +137,27 @@
 # 12/19/21 - NEW CHANNELS: Added new channels into "Plex Live TV"; Plex Christmas channels (sub-domains) added in "Holidays 365".
 # COMING SOON: Content from critical thinker.cyou. Update to Distro TV, additional new channels to be added to Plex. 
 # COMING SOON: Move NPR radio. Add more iHeartRadio TV channels. Add more LCM movies. Add more premium 18+ videos. More.
-# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 12/15/2021 ** !! See chronology of changes below...
+# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 12/22/2021 ** !! See chronology of changes below...
 # 12/22/21 - CHANNEL REMOVED: Removed LCN from "Canada" group (no longer available to stream for free).
 # 12/22/21 - CHANNEL ADDED: Available until January 20, 2022: French-Canadian channel 'Zeste' added to "Canada" group, with EPG.
 # COMING SOON: Content from critical thinker.cyou. Update to Distro TV, additional new channels to be added to Plex. 
 # COMING SOON: Move NPR radio. Add more iHeartRadio TV channels. Add more LCM movies. Add more premium 18+ videos. More.
+# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 12/28/2021 ** !! See chronology of changes below...
+# 12/28/21 - CHANNEL MAINTENANCE: Updated 247 Retro TV live stream in "Movies Plus". http://www.247retro.com
+# 12/29/21 - NEW CHANNEL: Added EPlusTV 6 | Jackson TN in "USA Free TV". https://www.eplustv6.com
+# 12/29/21 - CATEGORY MAINTENANCE: Deleted "PBS (Geo-USA) | PBS + NPR" group, moved radio streams to new "NPR Radio Networks" group.
+# 12/31/21 - CATEGORY MAINTENANCE: Updated some streams / EPG sources in "Free2View TV Select" category.
+# 01/04/22 - CHANNELS RELOCATED: Deleted "FilmRise Free TV & Movies" group, relocated channels in new category "Binge TV".
+# 01/04/22 - CHANNELS RELOCATED: "Binge TV | [adult swim]" and "nosey" channels moved to new category "Binge TV".
+# 01/05/22 - CONTENT UPDATED / NEW: VOD | Fireplace & Chill (18+) Videos updated, new versions added, "Adults Only | 18+" category.
+# 01/07/22 - CATEGORY DELETED: Due to a DMCA takedown order circulating the streaming scene, deleted "Local Now" category.
+# 01/08/22 - NEW CHANNELS: "Pluto TV": Added â˜…â˜… Music â˜…â˜… with MTV, Vevo streams; more game show streams in â˜…â˜… TV Favorites â˜…â˜….
+# 01/09/22 - CHANNEL UPDATED: Kool TV | Webstream in "USA Free TV" updated. http://digital.kooltv-mn.com/index.php/live-stream
+# 01/10/22 - CHANNEL REMOVED: 247 Retro TV from "Movies Plus" removed because of a tokenized stream. No longer viable in playlists.
+# COMING SOON: Updates to News, Sports, 18+ categories; consolidating more categories; cleaning up seasonal category.
+# COMING SOON: Content from critical thinker.cyou. Update to Distro TV; additional new channels to be added to Plex. 
+# COMING SOON: iHeartRadio visual playlists, as well as new radio streams with support from https://cultradioagogo.com
+# COMING SOON: New free TV regional categories from selected markets, with category-exclusive EPG listings and expanded channel lists.
 #
 # ************************************************************************************************************************************* 
 
@@ -163,29 +179,29 @@ https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?2
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?2B
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",** ATTENTION: Due to server issues PLAYLIST sources have changed. Go to our blog page https://thefrugalstreamer.blogspot.com/p/free2viewtvpage1.html for the latest updates and further information about the changes. **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?2C
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",UPDATED! [1] https://cutt.ly/CAN_EPG1
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[1] https://cutt.ly/CAN_EPG1
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?3
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[2] https://i.mjh.nz/PBS/all.xml 
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?4
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",UPDATED! [3] https://cutt.ly/EPG_KCK_66101
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[3] https://cutt.ly/EPG_KCK_66101
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?5
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",UPDATED! [4] https://cutt.ly/EPG_NYC_10001_OTA
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[4] https://cutt.ly/EPG_NYC_10001_OTA
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?6
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[5] https://i.mjh.nz/Plex/all.xml 
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?7
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[6] https://i.mjh.nz/Stirr/all.xml 
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",NEW! (11/17/21) [7] https://cutt.ly/DSr95Combinedepg (replaces https://cutt.ly/DistroTVepg and https://cutt.ly/WatchyourTVepg)
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[7] https://cutt.ly/DSr95Combinedepg
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?9
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[8] https://i.mjh.nz/SamsungTVPlus/all.xml 
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?10
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[9] https://i.mjh.nz/PlutoTV/all.xml 
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?11
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",UPDATED! [10] https://cutt.ly/EPG_WNY_13601_DTV
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[10] https://cutt.ly/EPG_WNY_13601_DTV
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?12
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",NEW! [11] https://cutt.ly/LocalNowepg
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",DISCONTINUED (1/07/22) [11] https://cutt.ly/LocalNowepg
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?13
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",NEW! (11/17/21) [12] EPG discontinued- please see item [7] https://cutt.ly/DSr95Combinedepg
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[12] (EPG EMPTY SLOT)
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?14
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDA3OTIxOTdf/BuyMeACoffee_400x400.png" group-title="Info | Free2View TV",** Support Us! Buy Me A Coffee? **
 https://od.lk/s/MF8yMjk4MTkzOTJf/F2VTV_BuyMeACoffee_v4.mp4?BMC1
@@ -407,7 +423,7 @@ https://newidco-newkid-1-us.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Pluto TV",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?BingePlutoInfo0A
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Pluto TV",** Category updated 11/25/21 **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Pluto TV",** Category updated 1/08/22 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?BingePlutoInfo1A
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Pluto TV",** Credits: @MattHuisman | Adapted by: @geonsey Free2View TV **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?BingePlutoInfo1B
@@ -453,12 +469,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f5d389985a0c00073573
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/610c5f80f71f660007a2ad8e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Pluto TV",â˜…â˜… TV Favorites â˜…â˜…
 https://od.lk/s/MF8yNDkxMDE0MTJf/PlutoTV_Intermission_2020.mp4?plutotvfaves
-#EXTINF:-1 tvg-id="5812bfbe4ced4f7b601b12e6" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | BUZZR
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812bfbe4ced4f7b601b12e6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5f7791b8372da90007fd45e6" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | The Price Is Right: The Barker Era
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7791b8372da90007fd45e6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="6036e7c385749f00075dbd3b" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | Pluto TV Game Shows
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6036e7c385749f00075dbd3b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5f7791b8372da90007fd45e6" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | The Price Is Right: The Barker Era
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7791b8372da90007fd45e6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5812bfbe4ced4f7b601b12e6" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | BUZZR
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812bfbe4ced4f7b601b12e6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5e9debf8c881310007d7bde1" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | Deal or No Deal
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e9debf8c881310007d7bde1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5e54187aae660e00093561d6" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | Game Show Central
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e54187aae660e00093561d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5ef3977e5d773400077de284" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | Three's Company
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ef3977e5d773400077de284/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5f77939a630f530007dde654" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | Family Ties
@@ -483,6 +503,24 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82530945600e0007ca07
 https://od.lk/s/MF8yNDkxMDE0MTJf/PlutoTV_Intermission_2020.mp4?plutotvcomedy
 #EXTINF:-1 tvg-id="5e82547b6b3df60007fec2b5" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | Slightly Off By IFC
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82547b6b3df60007fec2b5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Pluto TV",â˜…â˜… Music â˜…â˜…
+https://od.lk/s/MF8yNDkxMDE0MTJf/PlutoTV_Intermission_2020.mp4?plutotvmusic
+#EXTINF:-1 tvg-id="5d14fc31252d35decbc4080b" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | Yo! MTV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5d14fd1a252d35decbc4080c" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | MTV Biggest Pop
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5d14fdb8ca91eedee1633117" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | MTV Spankin' New
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5d3609cd6a6c78d7672f2a81" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | MTV Block Party
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5f32f26bcd8aea00071240e5" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | Vevo '70s
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | Vevo '80s
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5fd7bb1f86d94a000796e2c2" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | Vevo '90s
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | Vevo 2K
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Pluto TV",â˜…â˜… Kids â˜…â˜…
 https://od.lk/s/MF8yNDkxMDE0MTJf/PlutoTV_Intermission_2020.mp4?plutotvkids
 #EXTINF:-1 tvg-id="60f9ebb06f0b3d000746fbdb" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | Team Spirit
@@ -1234,475 +1272,6 @@ https://dai.google.com/linear/hls/event/jyAhWsXeQjKtvXWsYd2vHA/master.m3u8
 #EXTINF:-1 tvg-id="DUMMYNoEpg" tvg-name="Times Now Navbharat" tvg-logo="https://a.jsrdn.com/hls/22979/times-now-navbharat/logo_20210727_192118_68.png" group-title="Distro TV",DTV | Times Now Navbharat
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/WICioQJ2FO/c.m3u8
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Local Now",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?LocalNow0
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Local Now",** Category updated 11/28/21 **
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?LocalNow1
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Local Now",** Credits: @DeltaSR + @jhr1948 via Discord | Adapted by: @geonsey Free2View TV **
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?LocalNow2
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Local Now",** Use this EPG source: NEW! [11] https://cutt.ly/LocalNowepg **
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?LNepg1
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Local Now",** PLEASE NOTE: Due to the limitations of the Local Now API there is only a 3-hour EPG so be sure to refresh often for latest data. **
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?LNepg2
-#EXTINF:-1 tvg-id="DUMMYInfo" tvg-name="LocalNow Information" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now Information
-https://github.com/DeltaSr95/LocalNow/raw/master/localnowinfo.mp4?1
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Local Now",â˜…â˜… Entertainment â˜…â˜…
-https://github.com/DeltaSr95/LocalNow/raw/master/localnowinfo.mp4?Ent
-#EXTINF:-1 tvg-id="LocalNow_EPGBuzzr" tvg-name="Buzzr" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Buzzr
-https://buzzr-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGTheGrio" tvg-name="TheGrio" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | TheGrio
-https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/4fa93e24786446d4820a8336a281c2a7/index.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGThe Film Detective" tvg-name="The Film Detective" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",The Film Detective
-https://filmdetective-localnow.amagi.tv/index.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGCONtv" tvg-name="CONtv" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | CONtv
-https://contv-localnow.cinedigm.com/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGCONtv Anime" tvg-name="CONtv Anime" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | CONtv Anime
-https://contvanime-localnow.cinedigm.com/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGDove Channel" tvg-name="Dove Channel" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Dove Channel
-https://dovenow-localnow.cinedigm.com/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGElectric Now" tvg-name="Electric Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Electric Now
-https://ov.ottera.tv/live/master.m3u8?channel=elec_en
-#EXTINF:-1 tvg-id="LocalNow_EPGShout! Factory TV" tvg-name="Shout! Factory TV" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Shout! Factory TV
-https://shoutfactory-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGJohnny Carson TV" tvg-name="Johnny Carson TV" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Johnny Carson TV
-https://johnnycarson-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGMystery Science Theater 3000" tvg-name="Mystery Science Theater 3000" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Mystery Science Theater 3000
-https://mst3k-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGThe Archive" tvg-name="The Archive" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | The Archive
-https://ov.ottera.tv/live/master.m3u8?channel=mcom_ta_us
-#EXTINF:-1 tvg-id="LocalNow_EPGAdrenaline Rush" tvg-name="Adrenaline Rush" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now Adrenaline Rush
-https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Main_EPGAll The Drama" tvg-name="Local Now Drama" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now Drama
-https://linear-141.frequency.stream/dist/localnow/141/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGLocal Now Wild West" tvg-name="Local Now Wild West" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now Wild West
-https://d2v42hnvh68zz7.cloudfront.net/dist/localnow/213/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGLone Star" tvg-name="Lone Star" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Lone Star
-https://lonestar-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGLove & War" tvg-name="Love & War" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Love & War
-https://linear-217.frequency.stream/dist/localnow/217/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGRomantique" tvg-name="Romantique" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Romantique
-https://linear-152.frequency.stream/dist/localnow/152/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGLocal Now Inspiration" tvg-name="Local Now Inspiration" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now Inspiration
-https://linear-134.frequency.stream/dist/localnow/134/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGChive TV" tvg-name="Chive TV" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Chive TV
-https://chivetv-localnow.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGCJC Network" tvg-name="CJC Network" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | CJC Network
-https://vcncje.teleosmedia.com/linear/cje/cjc/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dance Go TV" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Dance Go TV
-https://ov.ottera.tv/live/master.m3u8?channel=jun_dg
-#EXTINF:-1 tvg-id="LocalNow_EPGES24" tvg-name="ES24" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | ES24
-https://ov.ottera.tv/live/master.m3u8?channel=jun_es
-#EXTINF:-1 tvg-id="LocalNow_EPGEvrgrn" tvg-name="Evrgrn" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Evrgrn
-https://evrgn-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGFido TV" tvg-name="Fido TV" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Fido TV
-https://1123112950.rsc.cdn77.org/HLS/FIDO_SCTE.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGHBCU Go" tvg-name="HBCU Go" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | HBCU Go
-https://vcnhbcu.teleosmedia.com/linear/hbcu/sports_classic/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGHeritage Plus" tvg-name="Heritage Plus" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Heritage Plus
-https://heritage-plus.akamaized.net/hls/live/2033560/HERITAGE-PLUS/master.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGMade In Hollywood" tvg-name="Made In Hollywood" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Made In Hollywood
-https://ov.ottera.tv/live/master.m3u8?channel=mvf_mh
-#EXTINF:-1 tvg-id="LocalNow_EPGOML on Revry" tvg-name="OML on Revry" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",OML on Revry
-https://linear-73.frequency.stream/dist/localnow/73/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGPeople TV" tvg-name="People TV" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | People TV
-https://peopletv-localnow.akamaized.net/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGPod TV" tvg-name="Pod TV" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Pod TV
-https://ov.ottera.tv/live/master.m3u8?channel=ptv_po
-#EXTINF:-1 tvg-id="LocalNow_EPGPopstar! TV" tvg-name="Popstar! TV" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Popstar! TV
-https://linear-10.frequency.stream/dist/localnow/10/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGSurvivorNetTV" tvg-name="SurvivorNetTV" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | SurvivorNetTV
-https://linear-165.frequency.stream/dist/localnow/165/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGThe Grapevine" tvg-name="The Grapevine" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | The Grapevine
-https://ov.ottera.tv/live/master.m3u8?channel=mcom_gv_us
-#EXTINF:-1 tvg-id="LocalNow_EPGThe Preview Channel" tvg-name="The Preview Channel" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",The Preview Channel
-https://32446768083a4b3b8f5d614b6c5021d1.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_ThePreviewChannel/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGTheGRID Network" tvg-name="TheGRID Network" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | TheGRID Network
-https://vcncje.teleosmedia.com/linear/cje/thegrid/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGTreehouse Gaming" tvg-name="Treehouse Gaming" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Treehouse Gaming
-https://ov.ottera.tv/live/master.m3u8?channel=sadsea_tn
-#EXTINF:-1 tvg-id="LocalNow_EPGUS Weekly TV" tvg-name="US Weekly TV" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | US Weekly TV
-https://5cd89f3c4ef845078f40d11891de2676.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_UsWeeklyTV/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGVolty TV" tvg-name="Volty TV" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Volty TV
-https://ov.ottera.tv/live/master.m3u8?channel=vty_vt
-#EXTINF:-1 tvg-id="LocalNow_EPGZoomer Television" tvg-name="Zoomer Television" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Zoomer Television
-https://zoomer-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Local Now",â˜…â˜… Movies â˜…â˜…
-https://github.com/DeltaSr95/LocalNow/raw/master/localnowinfo.mp4?Movies
-#EXTINF:-1 tvg-id="LocalNow_EPGMovies of the 30s and 40s" tvg-name="Movies of the 30s and 40s" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Movies | 1930s and 40s
-https://linear-204.frequency.stream/dist/localnow/204/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGMovies of the 50's and 60's" tvg-name="Movies of the 50s and 60s" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Movies | 1950s and 60s
-https://linear-203.frequency.stream/dist/localnow/203/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGMovies of the 70's" tvg-name="Movies of the 70s" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Movies of the 1970s
-https://linear-172.frequency.stream/dist/localnow/172/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGMovies of the 80's" tvg-name="Movies of the 80s" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Movies of the 1980s
-https://linear-171.frequency.stream/dist/localnow/171/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGMovies of the 90's" tvg-name="Movies of the 90s" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Movies of the 1990s
-https://linear-170.frequency.stream/dist/localnow/170/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGLocal Now Movies of the 2000s" tvg-name="Local Now Movies of the 2000s" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Movies of the 2000s
-https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGLocal Now Movies of the 2010s" tvg-name="Local Now Movies of the 2010s" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Movies of the 2010s
-https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGLocal Now Movies of the 2020s" tvg-name="Local Now Movies of the 2020s" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Movies of the 2020s
-https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGLocal Now Movies of the Week" tvg-name="Local Now Movies of the Week" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Movies of the Week
-https://linear-236.frequency.stream/dist/localnow/236/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGLocal Now Spotlight" tvg-name="Local Now Spotlight" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now Spotlight
-https://linear-233.frequency.stream/dist/localnow/233/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGAward Winning Indie Flix" tvg-name="Award Winning Indie Flix" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Award Winning Indie Flix
-https://linear-232.frequency.stream/dist/localnow/232/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGCineLife" tvg-name="CineLife" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | CineLife
-https://cinelife-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_612fa2d8a5705e40fc453722_cinelife-live/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGFamily Flix" tvg-name="Family Flix" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Family Flix
-https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGLocal Now Global Flix" tvg-name="Local Now Global Flix" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now Global Flix
-https://linear-248.frequency.stream/dist/localnow/248/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGPG Flix" tvg-name="PG Flix" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | PG Flix
-https://linear-218.frequency.stream/dist/localnow/218/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGPG-13 Flix" tvg-name="PG-13 Flix" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | PG-13 Flix
-https://linear-230.frequency.stream/dist/localnow/230/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Local Now",â˜…â˜… Sci-Fi & Horror â˜…â˜…
-https://github.com/DeltaSr95/LocalNow/raw/master/localnowinfo.mp4?SFH
-#EXTINF:-1 tvg-id="LocalNow_EPGBloodyDisgusting" tvg-name="BloodyDisgusting" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",BloodyDisgusting TV
-https://bloodydisgusting-localnow.cinedigm.com/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGHorror Machine" tvg-name="Horror Machine" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Horror Machine
-https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGFear This!" tvg-name="Fear This!" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Fear This!
-https://linear-143.frequency.stream/dist/localnow/143/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGFear This! Classics" tvg-name="Fear This! Classics" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Fear This! Classics
-https://linear-153.frequency.stream/dist/localnow/153/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGFear This! SciFi" tvg-name="Fear This! SciFi" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Fear This! SciFi
-https://linear-163.frequency.stream/dist/localnow/163/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Local Now",â˜…â˜… Action â˜…â˜…
-https://github.com/DeltaSr95/LocalNow/raw/master/localnowinfo.mp4?Action
-#EXTINF:-1 tvg-id="LocalNow_EPGHi-Yah!" tvg-name="Hi-Yah!" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Hi-Yah!
-https://linear-59.frequency.stream/dist/localnow/59/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGMutant X" tvg-name="Mutant X" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Mutant X
-https://linear-238.frequency.stream/dist/localnow/238/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Local Now",â˜…â˜… Drama â˜…â˜…
-https://github.com/DeltaSr95/LocalNow/raw/master/localnowinfo.mp4?Drama
-#EXTINF:-1 tvg-id="LocalNow_EPGAll The Drama" tvg-name="All The Drama" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | All The Drama
-https://linear-141.frequency.stream/dist/localnow/141/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGDocurama" tvg-name="Docurama" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Docurama
-https://docurama-localnow.cinedigm.com/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGLocal Now Crime and Punishment" tvg-name="Local Now Crime and Punishment" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now Crime & Punishment
-https://linear-241.frequency.stream/dist/localnow/241/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGThe Dead Zone" tvg-name="The Dead Zone" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | The Dead Zone
-https://linear-215.frequency.stream/dist/localnow/215/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGTrue History" tvg-name="True History" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | True History
-https://linear-188.frequency.stream/dist/localnow/188/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Local Now",â˜…â˜… Lifestyle & Food â˜…â˜…
-https://github.com/DeltaSr95/LocalNow/raw/master/localnowinfo.mp4?LifestyleFood
-#EXTINF:-1 tvg-id="LocalNow_EPGCooking Panda" tvg-name="Cooking Panda" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Cooking Panda
-https://ov.ottera.tv/live/master.m3u8?channel=rndr_cp
-#EXTINF:-1 tvg-id="LocalNow_EPGGusto TV" tvg-name="Gusto TV" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Gusto TV
-https://gusto-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGAfroLand TV" tvg-name="AfroLand TV" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | AfroLand TV
-https://ov.ottera.tv/live/master.m3u8?channel=alt_al
-#EXTINF:-1 tvg-id="LocalNow_EPGBoomers TV" tvg-name="Boomers TV" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Boomers TV
-https://boomerstv-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6172f9fb5b90193fbe46f494_boomerstv-live/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGChopperTown" tvg-name="ChopperTown" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | ChopperTown
-https://linear-11.frequency.stream/dist/localnow/11/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGDefiance" tvg-name="Defiance" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Defiance
-https://linear-68.frequency.stream/dist/localnow/68/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGDemand Africa" tvg-name="Demand Africa" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Demand Africa
-https://demadafrica-localnow.amagi.tv/index.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGLocal Now Destinations" tvg-name="Local Now Destinations" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now Destinations
-https://linear-249.frequency.stream/dist/localnow/249/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGRevry" tvg-name="Revry" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Revry
-https://linear-43.frequency.stream/dist/localnow/43/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Local Now",â˜…â˜… Shopping â˜…â˜…
-https://github.com/DeltaSr95/LocalNow/raw/master/localnowinfo.mp4?Shopping
-#EXTINF:-1 tvg-id="LocalNow_EPGHSN" tvg-name="HSN" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | HSN
-https://lshsn1usott-lh.akamaihd.net/i/lshsn1usott_01@838842/master.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGJewelry TV" tvg-name="Jewelry TV" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Jewelry TV
-https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGQVC" tvg-name="QVC" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | QVC
-https://lsqvc1usott-lh.akamaihd.net/i/lsqvc1usott_01@838836/master.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGShop LC" tvg-name="Shop LC" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Shop LC
-https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(ShopLC_LocalNow)/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Local Now",â˜…â˜… Reality â˜…â˜…
-https://github.com/DeltaSr95/LocalNow/raw/master/localnowinfo.mp4?Reality
-#EXTINF:-1 tvg-id="LocalNow_EPGFat Guys in the Woods" tvg-name="Fat Guys in the Woods" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Fat Guys in the Woods
-https://linear-119.frequency.stream/dist/localnow/119/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGHighway Thru Hell" tvg-name="Highway Thru Hell" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Highway Thru Hell
-https://linear-120.frequency.stream/dist/localnow/120/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGMilitary Times" tvg-name="Military Times" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Military Times
-https://linear-64.frequency.stream/dist/localnow/64/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGSo Real" tvg-name="So Real" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | So Real
-https://soreal-localnow.cinedigm.com/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGLocal Now Justice" tvg-name="Local Now Justice" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now Justice
-https://linear-90.frequency.stream/dist/localnow/90/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGAmerica's Court with Judge Ross" tvg-name="Americas Court with Judge Ross" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",America's Court with Judge Ross
-https://linear-219.frequency.stream/dist/localnow/219/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGJustice for All with Judge Cristina Perez" tvg-name="Justice for All with Judge Cristina Perez" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Justice for All with Judge Cristina Perez
-https://linear-220.frequency.stream/dist/localnow/220/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGJustice with Judge Mablean" tvg-name="Justice with Judge Mablean" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Justice with Judge Mablean
-https://linear-221.frequency.stream/dist/localnow/221/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGSupreme Justice with Judge Karen" tvg-name="Supreme Justice with Judge Karen" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Supreme Justice with Judge Karen
-https://linear-222.frequency.stream/dist/localnow/222/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGThe Verdict with Judge Hatchett" tvg-name="The Verdict with Judge Hatchett" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",The Verdict with Judge Hatchett
-https://linear-223.frequency.stream/dist/localnow/223/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Local Now",â˜…â˜… Comedy â˜…â˜…
-https://github.com/DeltaSr95/LocalNow/raw/master/localnowinfo.mp4?Comedy
-#EXTINF:-1 tvg-id="LocalNow_EPGAFV Espanol" tvg-name="AFV Espanol" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | AFV Espanol
-https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGAFV Family" tvg-name="AFV Family" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | AFV Family
-https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGComedy Dynamics" tvg-name="Comedy Dynamics" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Comedy Dynamics
-https://comedydynamics-localnow.cinedigm.com/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGComics Unleashed" tvg-name="Comics Unleashed" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Comics Unleashed
-https://linear-208.frequency.stream/dist/localnow/208/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGDan Vs." tvg-name="Dan Vs" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Dan Vs.
-https://linear-239.frequency.stream/dist/localnow/239/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGFunny You Should Ask" tvg-name="Funny You Should Ask" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Funny You Should Ask
-https://linear-207.frequency.stream/dist/localnow/207/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGHa! That's Funny" tvg-name="Ha! Thats Funny" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Ha! That's Funny
-https://linear-135.frequency.stream/dist/localnow/135/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGLN Comedy" tvg-name="Local Now Comedy" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now Comedy
-https://linear-89.frequency.stream/dist/localnow/89/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGMr. Box Office" tvg-name="Mr Box Office" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Mr. Box Office
-https://linear-201.frequency.stream/dist/localnow/201/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGThe First Family" tvg-name="The First Family" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now The First Family
-https://linear-202.frequency.stream/dist/localnow/202/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGunVALEd Network" tvg-name="unVALEd Network" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now unVALEd Network
-https://ov.ottera.tv/live/master.m3u8?channel=jvi_un
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Local Now",â˜… Science | History | Nature â˜…
-https://github.com/DeltaSr95/LocalNow/raw/master/localnowinfo.mp4?Science
-#EXTINF:-1 tvg-id="LocalNow_EPGNaturescape" tvg-name="Naturescape" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Naturescape
-https://lotus.stingray.com/manifest/naturescape-a003-losangeles/localnow/master.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGOutdoor America" tvg-name="Outdoor America" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Outdoor America
-https://ov.ottera.tv/live/master.m3u8?channel=obs_oa_us
-#EXTINF:-1 tvg-id="LocalNow_EPGPattrn" tvg-name="Pattrn" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Pattrn
-https://linear-76.frequency.stream/dist/localnow/76/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGSpace Channel" tvg-name="Space Channel" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Space Channel
-https://ov.ottera.tv/live/master.m3u8?channel=space_sp
-#EXTINF:-1 tvg-id="LocalNow_EPGUtah TV" tvg-name="Utah TV" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Utah TV
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/51901278-b41e-4b0c-a237-9b9b3fb3f2c8.m3u8?adMethod=3&UtahtvLocalNow
-#EXTINF:-1 tvg-id="LocalNow_EPGLocal Now Insight" tvg-name="Local Now Insight" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now Insight
-https://linear-154.frequency.stream/dist/localnow/154/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGLove Nature Channel" tvg-name="Love Nature Channel" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Love Nature Channel
-https://lovenatureus-eng-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGWild Earth" tvg-name="Wild Earth" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Wild Earth
-https://wildearth-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGXploration Station" tvg-name="Xploration Station" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Xploration Station
-https://amg00681-rotfeldproducti-xploration-localnow-qtn9w.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGLocal Now Discover" tvg-name="Local Now Discover" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now Discover
-https://linear-145.frequency.stream/dist/localnow/145/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGWeather Gone Viral" tvg-name="Weather Gone Viral" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Weather Gone Viral
-https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Local Now",â˜…â˜… Family â˜…â˜…
-https://github.com/DeltaSr95/LocalNow/raw/master/localnowinfo.mp4?Family
-#EXTINF:-1 tvg-id="LocalNow_EPGCareer Day" tvg-name="Career Day" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Career Day
-https://linear-88.frequency.stream/dist/localnow/88/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGYoung Icons" tvg-name="Young Icons" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Young Icons
-https://linear-182.frequency.stream/dist/localnow/182/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Local Now",â˜…â˜… News â˜…â˜…
-https://github.com/DeltaSr95/LocalNow/raw/master/localnowinfo.mp4?News
-#EXTINF:-1 tvg-id="LocalNow_EPGAWE Plus" tvg-name="AWE Plus" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | AWE Plus
-https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGBlack News Channel" tvg-name="Black News Channel" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Black News Channel
-https://linear-130.frequency.stream/dist/localnow/130/bpk-tv/BNC-OTT/default/index.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGBloomberg Quicktakes" tvg-name="Bloomberg Quicktakes" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Bloomberg Quicktakes
-https://localnow.bmd.bloomberg.com/hls/manifests/quicktake_linear_us/master.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGBloomberg Television" tvg-name="Bloomberg Television" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Bloomberg Television
-https://localnow.bmd.bloomberg.com/hls/manifests/bmd_us_tickerless/master.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGCheddar" tvg-name="Cheddar" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Cheddar
-https://livestream.chdrstatic.com/e1bced8988f6a21da2206247c69538b6d4b12898ae8245c3a72f57e21384ccba/localnow/localnowlive/cheddardigital/index.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGCourt TV" tvg-name="Court TV" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Court TV
-https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGLaw & Crime" tvg-name="Law & Crime" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Law & Crime
-https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist_scte.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGNewsmax" tvg-name="Newsmax" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Newsmax
-https://nmxlocalnow.akamaized.net/hls/live/2020471/Live_1/index.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGNewsy" tvg-name="Newsy" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Newsy
-https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGOAN Plus" tvg-name="OAN Plus" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | OAN Plus
-https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGRevry News" tvg-name="Revry News" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Revry News
-https://linear-44.frequency.stream/dist/localnow/44/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGThe FIrst" tvg-name="The FIrst" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | The FIrst
-https://redseat-thefirst-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGYahoo! Finance" tvg-name="Yahoo! Finance" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Yahoo! Finance
-https://yahoofinance-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Local Now",â˜…â˜… Local News â˜…â˜…
-https://github.com/DeltaSr95/LocalNow/raw/master/localnowinfo.mp4?LocalNews
-#EXTINF:-1 tvg-id="LocalNow_EPGDenver7" tvg-name="ABC7 Denver CO" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",ABC7 Denver CO
-https://kmgh-syndication.ewscloud.com/out/v1/54afa525bb6b4f708c89d5ad1c77b77e/index.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGABC15 Arizona" tvg-name="ABC15 Arizona" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",ABC15 Arizona
-https://knxv-syndication.ewscloud.com/out/v1/734c17b72dea4f6795efa601bbcfc82d/index.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGABC 10 News San Diego KGTV" tvg-name="ABC 10 News San Diego KGTV" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",ABC 10 News San Diego KGTV
-https://kgtv-syndication.ewscloud.com/out/v1/9916f5222ae74e398263d277684b161c/index.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGABC Action News Tampa Bay WFTS" tvg-name="ABC Action News Tampa Bay WFTS" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",ABC Action News Tampa Bay WFTS
-https://wfts-syndication.ewscloud.com/out/v1/cdf4355ff2f54f76a0963dec6266512c/index.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGAction News Jax" tvg-name="Action News Jax" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Action News Jax
-https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftvtv-hls-v3/live.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGButte/Bozeman Montana Right Now" tvg-name="ButteBozeman Montana Right Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Butte/Bozeman Montana Right Now
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/1e4f79b1-fb5e-458c-b617-d3ac5d21564e.m3u8?adMethod=3&sessionId=kwyblocalnow
-#EXTINF:-1 tvg-id="LocalNow_EPGFox 13 Memphis" tvg-name="Fox 13 Memphis" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Fox 13 Memphis
-https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-whbqtv-hls-v3/live.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGFOX 13 News Utah" tvg-name="FOX 13 News Utah" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",FOX 13 News Utah
-https://kstu-syndication.ewscloud.com/out/v1/976723f64a494176bce4131e668621aa/index.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGFox 23 Tulsa" tvg-name="Fox 23 Tulsa" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Fox 23 Tulsa
-https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGKHQ Local News" tvg-name="KHQ Local News" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",KHQ Local News
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/96ef92fd-36df-43e5-b434-ed10cc615742.m3u8?adMethod=3&sessionId=khqlocalnow
-#EXTINF:-1 tvg-id="LocalNow_EPGKIRO 7 Seattle" tvg-name="KIRO 7 Seattle" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",KIRO 7 Seattle
-https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kirotv-hls-v3/live.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGKSHB 41 Kansas City" tvg-name="KSHB 41 Kansas City" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",KSHB 41 Kansas City
-https://kshb-syndication.ewscloud.com/out/v1/4368cbfbec0541f8b78f762adbb6fccd/index.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGKULR" tvg-name="KULR Billings MT" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",KULR Billings MT
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/ff1112f8-7ffe-494d-8cce-7954b4487f48.m3u8?adMethod=3&sessioinId=kurllocalnow
-#EXTINF:-1 tvg-id="LocalNow_EPGMissoula Montana Right Now" tvg-name="Missoula Montana Right Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Missoula Montana Right Now
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/af0f7e66-d5cc-4d60-8795-ebddc983e1ae.m3u8?adMethod=3&sessionId=ktmflocalnow
-#EXTINF:-1 tvg-id="LocalNow_EPGNBC RIGHT NOW" tvg-name="NBC RIGHT NOW" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",NBC RIGHT NOW
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/8bc71947-0aa6-4849-b31e-1c4e0c5e0e2c.m3u8?adMethod=3&sessionId=kndulocalnow
-#EXTINF:-1 tvg-id="LocalNow_EPGNews12" tvg-name="News12" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",News12
-https://livestream.chdrstatic.com/2272f9cc29d3f9e812a3b4cacbd767bf69c95a59434c3f482606a67962a0dd5e/localnow/n12nyLocalNow/news12newyork/primary/index.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGNews 5 Cleveland WEWS" tvg-name="News 5 Cleveland WEWS" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",News 5 Cleveland WEWS
-https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGWAAY" tvg-name="WAAY" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",WAAY
-https://waay-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_615b79802c42e276926e8e15_waay-live/7992673f-bd45-4030-b9a5-c76284ff0bbf/0.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGWFTV 9 Orlando" tvg-name="WFTV 9 Orlando" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",WFTV 9 Orlando
-https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wjaxtv-hls-v3/live.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGBoston 25 News" tvg-name="WFXT Boston 25 News" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",WFXT Boston 25 News
-https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftxtv-hls-v3/live.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGWHIO Dayton" tvg-name="WHIO Dayton" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",WHIO Dayton
-https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-whiodaitv-hls-v3/live.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGWPTV West Palm Beach" tvg-name="WPTV West Palm Beach" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",WPTV West Palm Beach
-https://wptv-syndication.ewscloud.com/out/v1/0619fb38917e4d868b3ef71ab02d826b/index.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGWPXI 11 Pittsburgh" tvg-name="WPXI 11 Pittsburgh" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",WPXI 11 Pittsburgh
-https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wpxitv-hls-v3/live.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGWSB Now Atlanta" tvg-name="WSB Now Atlanta" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",WSB Now Atlanta
-https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wsbtvnow-hls-v3/live.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGWSOC 9 Charlotte" tvg-name="WSOC 9 Charlotte" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",WSOC 9 Charlotte
-https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wsoctv-hls-v3/live.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGWXYZ Detroit 7 Action News" tvg-name="WXYZ Detroit 7 Action News" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",WXYZ Detroit 7 Action News
-https://wxyz-syndication.ewscloud.com/out/v1/459e356d18be4af88bfd34140d590ada/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Local Now",â˜…â˜… Sports â˜…â˜…
-https://github.com/DeltaSr95/LocalNow/raw/master/localnowinfo.mp4?Sports
-#EXTINF:-1 tvg-id="LocalNow_EPGA8 Esports" tvg-name="A8 Esports" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | A8 eSports
-https://ov.ottera.tv/live/master.m3u8?channel=jun_a8
-#EXTINF:-1 tvg-id="LocalNow_EPGAllied Esports" tvg-name="Allied Esports" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Allied eSports
-https://alliedesports-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6126abc2de5e6b7182567705_alliedesports-live/213.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGBilliard TV" tvg-name="Billiard TV" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Billiard TV
-https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGBlack Belt TV" tvg-name="Black Belt TV" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Black Belt TV
-https://ov.ottera.tv/live/master.m3u8?channel=jun_bb
-#EXTINF:-1 tvg-id="LocalNow_EPGChannel Fight Masterclass" tvg-name="Channel Fight Masterclass" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Channel Fight Masterclass
-https://ov.ottera.tv/live/master.m3u8?channel=chan_cf
-#EXTINF:-1 tvg-id="LocalNow_EPGCombat Go" tvg-name="Combat Go" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Combat Go
-https://ov.ottera.tv/live/master.m3u8?channel=jun_cg
-#EXTINF:-1 tvg-id="LocalNow_EPGCornhole TV" tvg-name="Cornhole TV" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Cornhole TV
-https://1815337252.rsc.cdn77.org/HLS/CORNHOLETV_SCTE.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGESR eSports Network" tvg-name="ESR eSports Network" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",ESR eSports Network
-https://eyeonesports.com/ES2RA-628g.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGExtreme Plus" tvg-name="Extreme Plus" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Extreme Plus
-https://ov.ottera.tv/live/master.m3u8?channel=chan_ep
-#EXTINF:-1 tvg-id="LocalNow_EPGFight Network" tvg-name="Fight Network" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Fight Network
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGFor The Fans" tvg-name="For The Fans" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | For The Fans
-https://1622862207.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGIMPACT! Wrestling" tvg-name="IMPACT! Wrestling" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | IMPACT! Wrestling
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGInsight TV" tvg-name="Insight TV" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Insight TV
-https://insight-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGLN Sports" tvg-name="LN Sports" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | LN Sports
-https://linear-86.frequency.stream/dist/localnow/86/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGLSN" tvg-name="LSN" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | LSN
-https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGMMA TV" tvg-name="MMA TV" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | MMA TV
-https://ov.ottera.tv/live/master.m3u8?channel=mma_mm
-#EXTINF:-1 tvg-id="LocalNow_EPGMotoAmerica" tvg-name="MotoAmerica" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | MotoAmerica
-https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGMotorvision" tvg-name="Motorvision" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Motorvision
-https://ov.ottera.tv/live/master.m3u8?channel=mvg_mv
-#EXTINF:-1 tvg-id="LocalNow_EPGNHRA TV" tvg-name="NHRA TV" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | NHRA TV
-https://ov.ottera.tv/live/master.m3u8?channel=prl_nh
-#EXTINF:-1 tvg-id="LocalNow_EPGOutside TV" tvg-name="Outside TV" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Outside TV
-https://outsidetv-outside-localnow.amagi.tv/localnow.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGPac-12 Insider" tvg-name="Pac-12 Insider" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Pac-12 Insider
-https://pac12-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGPlayers TV" tvg-name="Players TV" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Players TV
-https://playerstv-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61533ee52694691458132a52_playerstv-live/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGPoker Night in America" tvg-name="Poker Night in America" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Poker Night in America
-https://d2ac29vaob351i.cloudfront.net/scheduler/scheduleMaster/216.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGSki TV" tvg-name="Ski TV" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Ski TV
-https://d2xeo83q8fcni6.cloudfront.net/scheduler/scheduleMaster/193.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGSpartan TV" tvg-name="Spartan TV" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Spartan TV
-https://amg01416-faststudios-spartantv-localnow-67lg6.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGSportsGrid" tvg-name="SportsGrid" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | SportsGrid
-https://sportsgrid-localnow-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGThe Unbeaten" tvg-name="The Unbeaten" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | The Unbeaten
-https://unbeaten-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGWired2Fish" tvg-name="Wired2Fish" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Wired2Fish
-https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGWhistle TV" tvg-name="Whistle TV" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Whistle TV
-https://whistletv-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGWorld Poker Tour" tvg-name="World Poker Tour" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",WPT World Poker Tour
-https://d3w4n3hhseniak.cloudfront.net/scheduler/scheduleMaster/95.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Local Now",â˜…â˜… Music â˜…â˜…
-https://github.com/DeltaSr95/LocalNow/raw/master/localnowinfo.mp4?Music
-#EXTINF:-1 tvg-id="LocalNow_EPGAXS TV Now" tvg-name="AXS TV Now" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | AXS TV Now
-https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGLocal Now Music" tvg-name="Local Now Music" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now Music
-https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGParty Tyme Karaoke" tvg-name="Party Tyme Karaoke" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Party Tyme Karaoke
-https://ov.ottera.tv/live/master.m3u8?channel=ssnd_pt_us
-#EXTINF:-1 tvg-id="LocalNow_EPGQwestClassical" tvg-name="Qwest Classical" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Qwest Classical
-https://qwestclassic-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGQwestJazz" tvg-name="QwestJazz" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | QwestJazz
-https://qwestjazz-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGQwestMix" tvg-name="QwestMix" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | QwestMix
-https://qwestmix-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGVevo '70s" tvg-name="Vevo 70s" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Vevo '70s
-https://vevo70s-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61538fef7110f75972655fa8_vevo70s-live/live.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGVevo '80s" tvg-name="Vevo 80s" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Vevo '80s
-https://vevo80s-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_615392f5743a2822d9551f45_vevo80s-live/live.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGVevo '90s" tvg-name="Vevo 90s" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Vevo '90s
-https://vevo90s-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61539424ca0c716cfb0c5192_vevo90s-live/live.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGVevo 2K" tvg-name="Vevo 2K" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Vevo 2K
-https://vevo2k-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61539515739f0b32402b3042_vevo2k-live/live.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGVevo Country" tvg-name="Vevo Country" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Vevo Country
-https://vevocountry-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_612fa7470ebbcf28e93e6032_vevocountry-live/live.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGVevo Hip-Hop" tvg-name="Vevo Hip-Hop" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Vevo Hip-Hop
-https://vevohiphop-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_612e6c53c433d168ad20fe62_vevohiphop-live/live.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGVevo Latino" tvg-name="Vevo Latino" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Vevo Latino
-https://vevolatino-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_612faeca989c084f121c0c0a_vevolatino-live/live.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGVevo Pop" tvg-name="Vevo Pop" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Vevo Pop
-https://vevopop-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_612fa8b7989c084f121c0c08_vevopop-live/live.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGVevo R&B" tvg-name="Vevo R&B" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Vevo R&B
-https://vevorb-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_612fad407242a0381174ef62_vevorb-live/live.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGVevo Reggaeton & Trap" tvg-name="Vevo Reggaeton & Trap" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Vevo Reggaeton & Trap
-https://vevoreggaetontrap-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_612fb00f3089353a793959fa_vevoreggaetontrap-live/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Local Now",â˜…â˜… Health â˜…â˜…
-https://github.com/DeltaSr95/LocalNow/raw/master/localnowinfo.mp4?Health
-#EXTINF:-1 tvg-id="LocalNow_EPGLocal Now Elevation" tvg-name="Local Now Elevation" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now Elevation
-https://linear-210.frequency.stream/dist/localnow/210/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGFireside" tvg-name="Local Now Fireside" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now Fireside
-https://linear-127.frequency.stream/dist/localnow/127/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGLocal Now Horizon" tvg-name="Local Now Horizon" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now Horizon
-https://linear-211.frequency.stream/dist/localnow/211/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGLocal Now Seaside" tvg-name="Local Now Seaside" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now Seaside
-https://linear-209.frequency.stream/dist/localnow/209/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGLocal Now Stargaze" tvg-name="Local Now Stargaze" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now Stargaze
-https://linear-214.frequency.stream/dist/localnow/214/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGLN Zen" tvg-name="Local Now Zen" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now Zen
-https://linear-125.frequency.stream/dist/localnow/125/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGLoupe Art" tvg-name="Loupe Art" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Loupe Art
-https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGOne Get Fit" tvg-name="One Get Fit" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | One Get Fit
-https://zoomer-onegetfit.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGQuietude" tvg-name="Quietude" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Quietude
-https://linear-81.frequency.stream/dist/localnow/81/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Local Now",â˜…â˜… Seasons Greetings â˜…â˜… NOTE: Live channels will be OFF-AIR during non-seasonal streaming windows.
-https://github.com/DeltaSr95/LocalNow/raw/master/localnowinfo.mp4?Xmas1
-#EXTINF:-1 tvg-id="LocalNow_EPGHolidays at Home" tvg-name="Holidays at Home" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Holidays at Home
-https://linear-122.frequency.stream/dist/localnow/122/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGGravitas Movies" tvg-name="Gravitas Holiday" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Gravitas Holiday
-https://b4542aa677084c7ba618b1fae108640b.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_GravitasMovies/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNow_EPGVevo Holiday" tvg-name="Vevo Holiday" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Vevo Holiday
-https://vevoholiday-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6153962959596175e04c9a85_vevoholiday-live/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="WatchYour.TV",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?tvs0
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="WatchYour.TV",** Category updated 11/17/21 **
@@ -1853,11 +1422,11 @@ https://content.uplynk.com/channel/ext/f749f9956d4e467897dc48680d53df15/43391.m3
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Entertainment",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?entertainment0
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Entertainment",** Category updated 8/31/21 **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Entertainment",** Category updated 01/04/22 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?entertainment1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Entertainment",** Use these EPG sources: (refer to the 'Info | Free2View TV' category at the beginning of the playlist for specific xml URL's) [6] Stirr **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?entertainment2
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Entertainment",** Webstreams **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Entertainment",â˜…â˜… Webstreams â˜…â˜…
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?webstreams1
 #EXTINF:-1 tvg-id="externallinearfeed-10-21-2019-10-21-2019" tvg-logo="https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png" group-title="Entertainment",Electric Now | Webstream
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=53&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=75d1fa20f696cde33a9013081fda46ae&app_bundle=com.electric.now&app_store_url=https%3A%2F%2Fwww.electricnow.tv%2Fdevices&app_domain=electricnow.tv&app_name=electricnow&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=electricnow&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&gender=not_specified&yob=0&livestream=1&timestamp=1630354325&id=430&ip=2001%3A67c%3A2628%3A647%3A12%3A%3A1c&override_expiration=1500&sign=Eck49xZ6yrE0fSd3rvIBYwSGibRFaPhf4nU9WlYnPbg%3D
@@ -1877,8 +1446,8 @@ https://tokushoutsu-zype.amagi.tv/playlist.m3u8
 https://johnnycarson-zype.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDU4Nzk1NDNf/TheCarolBurnettShow.png" group-title="Entertainment",The Carol Burnett Show | Web
 https://thecarolburnettshow-zype.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Entertainment",** NASA Live ** https://www.nasa.gov/nasalive **
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?entertainment4Nasa
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Entertainment",â˜…â˜… NASA Live â˜…â˜… https://www.nasa.gov/nasalive
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?entertainmentNasa
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUzMTI3ODJf/NASA.png" group-title="Entertainment",NASA TV | Webstream
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUzMTI3ODJf/NASA.png" group-title="Entertainment",NASA TV 1 (Public)
@@ -1895,22 +1464,105 @@ http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUzMTI3ODJf/NASA.png" group-title="Entertainment",NASA TV 4 (ISS 480p Cam)
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Entertainment",** nosey.com **
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?entertainment4
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYxMDA5NTJf/Nosey_485x485.png" group-title="Entertainment",nosey | Jerry Springer
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Binge TV",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?entertainment0
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Binge TV",** Category updated 01/04/22 **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?entertainment1
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Binge TV",â˜…â˜… Filmrise â˜…â˜…
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?BingeFilmRise
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMTM2OTNf/FilmRise_Classic-TV_300x300.png" group-title="Binge TV",Roku | FilmRise Classic TV
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMTM4NzVf/FilmRise_Family_355x355.png" group-title="Binge TV",Roku | FilmRise Family
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMjQ1NDNf/FilmRise_Heartland_332x332.png" group-title="Binge TV",Roku | FilmRise Heartland
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuheartland/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MDM2OThf/FilmRise_Kids_512x512.png" group-title="Binge TV",Roku | FilmRise Kids
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisekids/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMTM2ODJf/FilmRise_Free-Movies_300x300.png" group-title="Binge TV",Roku | FilmRise Free Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMjM0NDRf/FilmRise_Action_500x500.png" group-title="Binge TV",Roku | FilmRise Action
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzUyOTMzMDFf/FilmRise_Sci-Fi_355x355.png" group-title="Binge TV",Roku | FilmRise Sci-Fi
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMjQ5NTRf/FilmRise_Horror2_500x500.png" group-title="Binge TV",Roku | FilmRise Horror
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisehorror/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MDM2Njdf/FilmRise_TrueCrime_512x512.png" group-title="Binge TV",Roku | FilmRise True Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisetruecrime/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMjM5NTJf/Filmrise_UnsMys_900x900.png" group-title="Binge TV",FilmRise | Unsolved Mysteries
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMjQwOTBf/FilmRise_ForensicFiles_398x398.png" group-title="Binge TV",FilmRise | Forensic Files
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMjQ2OTBf/FilmRise_Mysteries_500x500.png" group-title="Binge TV",Roku | FilmRise Mysteries
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisemystery/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMjQ3ODVf/FilmRise_Westerns_500x500.png" group-title="Binge TV",Roku | FilmRise Westerns
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMjM2MDJf/FilmRise_HellsKitchen_500x500.png" group-title="Binge TV",Roku | FilmRise Hell's Kitchen
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecooking/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Binge TV",Redbox | FilmRise Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Binge TV",Redbox | FilmRise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Binge TV",Redbox | FilmRise Sci-Fi
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisescifi/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Binge TV",Redbox | FilmRise Classic TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Binge TV",â˜…â˜… nosey TV â˜…â˜… https://www.nosey.com/
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?bingeNosey
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYxMDA5NTJf/Nosey_485x485.png" group-title="Binge TV",nosey | Jerry Springer
 https://6035f7de3d0f4769aa5e1f528b93358f.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e7f848f1ff2e1d2555a2/playlist.m3u8?&gdpr=1&gdpr_consent=1
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYxMDA5NTJf/Nosey_485x485.png" group-title="Entertainment",nosey | Maury
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYxMDA5NTJf/Nosey_485x485.png" group-title="Binge TV",nosey | Maury
 https://6bb7d84ad45a44b180f5eee78d105db6.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e88458ad7801fa2cfc2e/playlist.m3u8?&gdpr=1&gdpr_consent=1
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYxMDA5NTJf/Nosey_485x485.png" group-title="Entertainment",nosey | Steve Wilkos
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYxMDA5NTJf/Nosey_485x485.png" group-title="Binge TV",nosey | Steve Wilkos
 https://a5f5889fe0474320a09fe9acfbf39a08.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e84c95ee0253b97679d7/playlist.m3u8?&lmt=1&gdpr_consent=1
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYxMDA5NTJf/Nosey_485x485.png" group-title="Entertainment",nosey | Divorce Court
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYxMDA5NTJf/Nosey_485x485.png" group-title="Binge TV",nosey | Divorce Court
 https://6b35abb7a8684e0ca7e4aa0dbd9b7c45.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e76d1474f9020c06f9ee/playlist.m3u8?&gdpr=1&gdpr_consent=1
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYxMDA5NTJf/Nosey_485x485.png" group-title="Entertainment",nosey | Judge Dad | Judge Mom
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYxMDA5NTJf/Nosey_485x485.png" group-title="Binge TV",nosey | Judge Dad | Judge Mom
 https://9e8a585dae4840d18cfe5989851b5e73.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_60833a79de49a00d0ab83a5a/playlist.m3u8?&gdpr=1&gdpr_consent=1
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Binge TV",â˜…â˜… [adult swim] â˜…â˜… https://www.adultswim.com/streams/
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?bingeASwim
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV",[adult swim] live stream
+https://media.cdn.adultswim.com/streams/playlists/live-stream.primary.v2.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV",Rick and Morty
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV",Last Stream on the Left
+https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV",Off The Air / Smalls
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV",Metalocalypse
+https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV",Robot Chicken
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV",Samurai Jack
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV",Aqua Teen Hunger Force
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV",The Eric Andre Show
+https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV",The Venture Bros.
+https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV",Channel 5
+https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV",Infomercials
+https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV",Black Jesus
+https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV",Your Pretty Face is Going to Hell
+https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV",Dream Corp LLC
+https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV",Mr. Pickles
+http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV",Squidbillies
+https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV",Tim and Eric Awesome Show
+http://adultswim-vodlive.cdn.turner.com/live/tim-and-eric/stream.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV",Relaxing Fish 
+https://media.cdn.adultswim.com/streams/playlists/fishcam.backup.m3u8
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Movies Plus",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?moviesplus0
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Movies Plus",** Category updated 8/23/21 **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Movies Plus",** Category updated 12/29/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?moviesplus1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Movies Plus",** Use these EPG sources: (refer to the 'Info | Free2View TV' category at the beginning of the playlist for specific xml URL's) [6] Stirr **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?moviesplusEPG2A
@@ -1944,10 +1596,6 @@ https://filmdetective-stirr.amagi.tv/index.m3u8
 https://lonestar-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Movies Plus",** Vintage & Nostalgic **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?moviesplus2B
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzU1NDU0NjNf/247RetroTV.png" group-title="Movies Plus",247 Retro TV
-http://hlsdpi-cdn-chqtx02.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzU1NDU0NjNf/247RetroTV.png" group-title="Movies Plus",247 Retro TV (alt)
-http://143.198.135.247:1935/247Retro/smil:247retrolive.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1639582086&wowzatokenCustomParameter=myParameter&wowzatokenhash=9Hb5CAZvw0qVm4V8jWgJm57iRJfRzOTm-tf2ECgyGBg=
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzU1NDU1MTBf/NostTV_SpydarTV.png" group-title="Movies Plus",Spydar TV
 https://simultv.s.llnwi.net/n4s4/Spydar/interlink.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzU1NDU1MTVf/KartoonFunTime_209x209.png" group-title="Movies Plus",Kartoon Fun Time
@@ -2141,7 +1789,7 @@ https://d179m5eq83yziw.cloudfront.net/live3/unbeaten_tv/bitrate1-clear.isml/mani
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="USA Free TV",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ota0A
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="USA Free TV",** Category updated 12/20/21 **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="USA Free TV",** Category updated 12/29/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ota0AA
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="USA Free TV",** Use these EPG sources: (refer to the 'Info | Free2View TV' category at the beginning of the playlist for specific xml URL's) [2] PBS | [3] KCK_66101 | [4] NYC_10001_OTA | [5] Plex | [7] EPG | [10] WNY_13601_DTV **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ota1A
@@ -2250,7 +1898,7 @@ https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?freeTVmore
 #EXTINF:-1 tvg-id="" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNTUzODM4MThf/DigiTV_420x420.png" group-title="USA Free TV",Digi TV | Webstream
 https://amg01443-netxholdingsllc-digitv200-ono-zzfy4.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDU4ODA2NjJf/KoolTV_627x627.png" group-title="USA Free TV",Kool TV | Webstream
-http://209.182.219.50:1935/roku/roku/playlist.m3u8
+http://64.91.244.153:1935/roku/roku/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzcyNjE0MDJf/RNTV_460x460.png" group-title="USA Free TV",Right Now Television
 https://2-fss-2.streamhoster.com/pl_118/205448-2064324-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzcyNjA5NzZf/AMGTV_290x290.png" group-title="USA Free TV",AMG-TV Network
@@ -2267,33 +1915,8 @@ https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
 https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjU3OTE2ODhf/CitiCable_225x225.png" group-title="USA Free TV",KNET-CD 25.2 | Local Access
 http://granicusliveus6-a.akamaihd.net/torrance/G0057_005/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="PBS (Geo-USA) | PBS + NPR",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?pbsinfo0A
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="PBS (Geo-USA) | PBS + NPR",** Category updated 12/02/21 **
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?pbsinfo0B
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="PBS (Geo-USA) | PBS + NPR",** ATTENTION 1: PBS has recently begun to add DRM protection into their streams and are now unavailable to be included into the Free2View TV Playlist. **
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?pbsinfo1A
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="PBS (Geo-USA) | PBS + NPR",** ATTENTION 2: Some working PBS streams have now been moved to the USA Free TV section of the Playlist. **
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?pbsinfo1B
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="PBS (Geo-USA) | PBS + NPR",** ATTENTION 3: This category will likely be discontinued by the next update. **
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?pbsinfo1C
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4Mzc0OThf/NPR_256x256.png" group-title="PBS (Geo-USA) | PBS + NPR",** NPR Radio Networks **
-https://od.lk/s/MF8yMjI5MDcxMDNf/NPR_Wallpaper_1280x720.mp4
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4Mzc0OThf/NPR_256x256.png" group-title="PBS (Geo-USA) | PBS + NPR" radio="true",WPSU FM 91.5 News & Classical 
-https://wpsu-ice.streamguys1.com/wpsu1
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4Mzc0OThf/NPR_256x256.png" group-title="PBS (Geo-USA) | PBS + NPR" radio="true",WPSU Radio 2 Public Radio Mix 
-https://wpsu-ice.streamguys1.com/wpsu2
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4Mzc0OThf/NPR_256x256.png" group-title="PBS (Geo-USA) | PBS + NPR" radio="true",WPSU Radio 3 Jazzworks 
-https://wpsu-ice.streamguys1.com/wpsu3
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4Mzc0OThf/NPR_256x256.png" group-title="PBS (Geo-USA) | PBS + NPR" radio="true",NPR | WCPN 90.3 Radio 
-https://ideastream.streamguys1.com/wcpn.mp3
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4Mzc0OThf/NPR_256x256.png" group-title="PBS (Geo-USA) | PBS + NPR" radio="true",WCLV CLassical 104.9 Radio
-https://ideastream.streamguys1.com/wclv.mp3
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4Mzc0OThf/NPR_256x256.png" group-title="PBS (Geo-USA) | PBS + NPR" radio="true",NPR | NPR Hourly Newscast
-http://pd.npr.org/anon.npr-mp3/npr/news/newscast.mp3
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4Mzc0OThf/NPR_256x256.png" group-title="PBS (Geo-USA) | PBS + NPR" radio="true",KQED Radio Live Stream
-https://streams.kqed.org/kqedradio?listenerid=1632014350025_0.3531046065504524&awparams=companionAds%3Atrue&listenerid=1632014350025_0.3531046065504524&awparams=companionAds%3Atrue?onsite=true
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNTY4NjI2OTdf/EPlusTV6_235x235.png" group-title="USA Free TV",EPlusTV 6 | Jackson TN
+https://t08021-lh.akamaihd.net/i/t08021a_1@382750/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Canada",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Canada0
@@ -2481,7 +2104,7 @@ https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_2500.m3u8
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Free2View TV Select",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Select0
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Free2View TV Select",** Category updated 8/03/21 **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Free2View TV Select",** Category updated 01/03/22 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Select1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Free2View TV Select",** Free2View TV Select ** Now available on Roku- the OFFICIAL Roku channel for Free2View TV. Search the term 'Free2View TV' on your Roku to install the app. **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?roku2
@@ -2492,7 +2115,7 @@ https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?rokuEPG1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Free2View TV Select",** Free TV | General **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?groupFreeGen
 #EXTINF:-1 tvg-id="USBA300030Q8" tvg-logo="https://od.lk/s/MF8yMzI5MTYxMTJf/BUZZR_v2_595x595.png" group-title="Free2View TV Select",F2V | BUZZR
-https://buzzr-distro.amagi.tv/playlist.m3u8?l1br3date0802-Spc-SsgEPG
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-buzzr-samsungtv-us/playlist.m3u8?l1br3date0103-SsgSc-SsgEPG
 #EXTINF:-1 tvg-id="5f7791b8372da90007fd45e6" tvg-logo="https://od.lk/s/MF8yMzcyNjM1ODBf/TPIR_576x576.png" group-title="Free2View TV Select",F2V | TPIR: Barker Era
 http://siloh-sp.plutotv.net/lilo/production/ThePriceisRight/master.m3u8
 #EXTINF:-1 tvg-id="I45.2.99361.zap2it.com" tvg-type="live" group-title="Free2View TV Select" tvg-logo="https://od.lk/s/MF8yMjM5NTQzOTVf/ChargeTV.png",F2V | Charge!
@@ -2505,12 +2128,16 @@ https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?groupFam
 https://player-api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8?l1br3&date0908&catf2v
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Free2View TV Select",** Movies Plus **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?groupMPlus
-#EXTINF:-1 tvg-id="USAJ30000100K" tvg-logo="https://od.lk/s/MF8yNDAxMTIwMzFf/TWDUniverse_800x800.png" group-title="Free2View TV Select",F2V | TWD Universe
-https://amc-twdfanexperience-1-us.vizio.wurl.tv/playlist.m3u8?l1br3date0801-Spc-SsgEPG
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce" tvg-logo="https://od.lk/s/MF8yNDAxMTIwMzFf/TWDUniverse_800x800.png" group-title="Free2View TV Select",F2V | TWD Universe
+https://amc-twdfanexperience-1-us.plex.wurl.tv/playlist.m3u8?l1br3date0801-Spc-SsgEPG
 #EXTINF:-1 tvg-id="USAJ3400010RS" tvg-logo="https://od.lk/s/MF8yNDAxMTE4NjRf/StoriesByAMC_300x300.png" group-title="Free2View TV Select",F2V | Stories by AMC
 https://amc-amcpresents-2-us.samsung.wurl.tv/playlist.m3u8?l1br3date0830&EPGSsg&Catf2v
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d" group-title="Free2View TV Select" tvg-logo="https://od.lk/s/MF8yMzc5Mjk1NTRf/AMCThrillers_660x660.png",F2V | AMC Thrillers
 https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8?l1br3date0801-Spc-PlxEPG
+#EXTINF:-1 tvg-id="USAJ30000148W" tvg-logo="https://od.lk/s/MF8yMzQ5NTgwODhf/Cinevault-80s_NewV2.png" group-title="Free2View TV Select",F2V | Cinevault 80s
+https://gsn-cinevault-80s-1-us.samsung.wurl.tv/playlist.m3u8?l1br3date1231-SsgSc&SSgEPG
+#EXTINF:-1 tvg-id="USAK3508709A" tvg-logo="https://od.lk/s/MF8yMzQ5NTgwODlf/Cinevault-Westerns_NewV2.png" group-title="Free2View TV Select",F2V | Cinevault Westerns
+https://gsn-cinevault-westerns-1-us.samsung.wurl.tv/playlist.m3u8?l1br3date1231-SsgSc&SSgEPG
 #EXTINF:-1 tvg-id="externallinearfeed-10-21-2019-10-21-2019" tvg-logo="https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png" group-title="Free2View TV Select",F2V | Electric Now
 https://ov-elec-en.ottera.tv/elec/en/en.m3u8?l1br3date0830&SrcXumo&EPGStr&Catf2v
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Free2View TV Select",** Specialty Networks **
@@ -2532,9 +2159,9 @@ https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?AMCInfo0
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?AMCInfo1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="AMC Networks",** Uses these EPG sources: (refer to the 'Info | Free2View TV' category at the beginning of the playlist for specific xml URL's) [5] Plex | [8] Samsung TV Plus | [9] Pluto TV **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?AMCInfo2
-#EXTINF:-1 tvg-id="USAJ30000100K" tvg-logo="https://od.lk/s/MF8yNDAxMTIwMzFf/TWDUniverse_800x800.png" group-title="AMC Networks",TWD Universe | Vizio
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDAxMTIwMzFf/TWDUniverse_800x800.png" group-title="AMC Networks",TWD Universe | Vizio
 https://amc-twdfanexperience-1-us.vizio.wurl.tv/playlist.m3u8?l1br3date0702andAMCBinge
-#EXTINF:-1 tvg-id="USAJ30000100K" tvg-logo="https://od.lk/s/MF8yNDAxMTIwMzFf/TWDUniverse_800x800.png" group-title="AMC Networks",TWD Universe (+1h) | Samsung (Look ahead 4hrs in EPG to get info on what's playing now.)
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDAxMTIwMzFf/TWDUniverse_800x800.png" group-title="AMC Networks",TWD Universe (+1h) | Samsung (Look ahead 4hrs in EPG to get info on what's playing now.)
 https://amc-twdtv14-1-us.samsung.wurl.tv/playlist.m3u8?l1br3date0702andAMCBinge
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f3ba" tvg-logo="https://od.lk/s/MF8yNDAxMTE4NjRf/StoriesByAMC_300x300.png" group-title="AMC Networks",Stories by AMC | IMDb TV
 https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8?l1br3date0702andAMCBingeAndPlexEPG
@@ -2570,47 +2197,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82547b6b3df60007fec2
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82530945600e0007ca076c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&CatAMC
 #EXTINF:-1 tvg-id="5e82bb378601b80007b4bd78" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="AMC Networks",The Walking Dead en espaÃ±ol
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&CatAMC
-
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="FilmRise Free TV & Movies",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?FilmriseInfo0
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="FilmRise Free TV & Movies",** Category updated 8/17/21 **
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?FilmriseInfo1
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMTM2OTNf/FilmRise_Classic-TV_300x300.png" group-title="FilmRise Free TV & Movies",Roku | FilmRise Classic TV
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMTM4NzVf/FilmRise_Family_355x355.png" group-title="FilmRise Free TV & Movies",Roku | FilmRise Family
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMjQ1NDNf/FilmRise_Heartland_332x332.png" group-title="FilmRise Free TV & Movies",Roku | FilmRise Heartland
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuheartland/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MDM2OThf/FilmRise_Kids_512x512.png" group-title="FilmRise Free TV & Movies",Roku | FilmRise Kids
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisekids/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMTM2ODJf/FilmRise_Free-Movies_300x300.png" group-title="FilmRise Free TV & Movies",Roku | FilmRise Free Movies
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMjM0NDRf/FilmRise_Action_500x500.png" group-title="FilmRise Free TV & Movies",Roku | FilmRise Action
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzUyOTMzMDFf/FilmRise_Sci-Fi_355x355.png" group-title="FilmRise Free TV & Movies",Roku | FilmRise Sci-Fi
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMjQ5NTRf/FilmRise_Horror2_500x500.png" group-title="FilmRise Free TV & Movies",Roku | FilmRise Horror
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisehorror/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MDM2Njdf/FilmRise_TrueCrime_512x512.png" group-title="FilmRise Free TV & Movies",Roku | FilmRise True Crime
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisetruecrime/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMjM5NTJf/Filmrise_UnsMys_900x900.png" group-title="FilmRise Free TV & Movies",FilmRise | Unsolved Mysteries
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMjQwOTBf/FilmRise_ForensicFiles_398x398.png" group-title="FilmRise Free TV & Movies",FilmRise | Forensic Files
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMjQ2OTBf/FilmRise_Mysteries_500x500.png" group-title="FilmRise Free TV & Movies",Roku | FilmRise Mysteries
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisemystery/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMjQ3ODVf/FilmRise_Westerns_500x500.png" group-title="FilmRise Free TV & Movies",Roku | FilmRise Westerns
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMjM2MDJf/FilmRise_HellsKitchen_500x500.png" group-title="FilmRise Free TV & Movies",Roku | FilmRise Hell's Kitchen
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecooking/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="FilmRise Free TV & Movies",Redbox | FilmRise Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="FilmRise Free TV & Movies",Redbox | FilmRise Family
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="FilmRise Free TV & Movies",Redbox | FilmRise Sci-Fi
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisescifi/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="FilmRise Free TV & Movies",Redbox | FilmRise Classic TV
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Sci-Fi + Horror & Beyond",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?scifi0
@@ -2798,49 +2384,6 @@ https://s6.yesstreaming.net:17082/stream
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY4MDc3NDNf/OldTimeRadio.png" group-title="Holidays 365" radio="true",Conyers OTR Seasonal (Sc.2)
 http://s6.yesstreaming.net:7082/stream
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Binge TV | [adult swim]",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?adswm0
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Binge TV | [adult swim]",** Category updated 8/22/21 **
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?adswm1
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV | [adult swim]",[adult swim] live stream
-https://media.cdn.adultswim.com/streams/playlists/live-stream.primary.v2.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV | [adult swim]",Rick and Morty
-https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV | [adult swim]",Last Stream on the Left
-https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV | [adult swim]",Off The Air / Smalls
-https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV | [adult swim]",Metalocalypse
-https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV | [adult swim]",Robot Chicken
-https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV | [adult swim]",Samurai Jack
-https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV | [adult swim]",Aqua Teen Hunger Force
-https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV | [adult swim]",The Eric Andre Show
-https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV | [adult swim]",The Venture Bros.
-https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV | [adult swim]",Channel 5
-https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV | [adult swim]",Infomercials
-https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV | [adult swim]",Black Jesus
-https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV | [adult swim]",Your Pretty Face is Going to Hell
-https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV | [adult swim]",Dream Corp LLC
-https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV | [adult swim]",Mr. Pickles
-http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV | [adult swim]",Squidbillies
-https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV | [adult swim]",Tim and Eric Awesome Show
-http://adultswim-vodlive.cdn.turner.com/live/tim-and-eric/stream.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV | [adult swim]",Relaxing Fish 
-https://media.cdn.adultswim.com/streams/playlists/fishcam.backup.m3u8
-
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="International TV",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?International0
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="International TV",** Category updated 9/30/21 **
@@ -2897,8 +2440,6 @@ https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Francophone
 https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8?international
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yMzIyMTI5OTdf/TV5Monde_820x820.png" group-title="International TV",France | TV5 Monde Info
 https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8?international
-#EXTINF:-1 tvg-id="I743.67231.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDgzNjA3NzJf/LCN_640x640.png" group-title="International TV",CA | LCN Le Canal Nouvelles
-https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8?international
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Ambient TV",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Ambient0
@@ -3324,6 +2865,25 @@ https://listen.openstream.co/4884/;listen
 https://listen.openstream.co/4799/;listen
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY4MDc3NDNf/OldTimeRadio.png" group-title="Free Live Radio" radio="true",WOTR | Suspense Radio USA
 https://listen.openstream.co/4885/;listen
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="NPR Radio Networks",** Category updated 12/29/21 **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?nprinfo0
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4Mzc0OThf/NPR_256x256.png" group-title="NPR Radio Networks",** NPR Radio Networks **
+https://od.lk/s/MF8yMjI5MDcxMDNf/NPR_Wallpaper_1280x720.mp4
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4Mzc0OThf/NPR_256x256.png" group-title="NPR Radio Networks" radio="true",WPSU FM 91.5 News & Classical 
+https://wpsu-ice.streamguys1.com/wpsu1
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4Mzc0OThf/NPR_256x256.png" group-title="NPR Radio Networks" radio="true",WPSU Radio 2 Public Radio Mix 
+https://wpsu-ice.streamguys1.com/wpsu2
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4Mzc0OThf/NPR_256x256.png" group-title="NPR Radio Networks" radio="true",WPSU Radio 3 Jazzworks 
+https://wpsu-ice.streamguys1.com/wpsu3
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4Mzc0OThf/NPR_256x256.png" group-title="NPR Radio Networks" radio="true",NPR | WCPN 90.3 Radio 
+https://ideastream.streamguys1.com/wcpn.mp3
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4Mzc0OThf/NPR_256x256.png" group-title="NPR Radio Networks" radio="true",WCLV CLassical 104.9 Radio
+https://ideastream.streamguys1.com/wclv.mp3
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4Mzc0OThf/NPR_256x256.png" group-title="NPR Radio Networks" radio="true",NPR | NPR Hourly Newscast
+http://pd.npr.org/anon.npr-mp3/npr/news/newscast.mp3
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4Mzc0OThf/NPR_256x256.png" group-title="NPR Radio Networks" radio="true",KQED Radio Live Stream
+https://streams.kqed.org/kqedradio?listenerid=1632014350025_0.3531046065504524&awparams=companionAds%3Atrue&listenerid=1632014350025_0.3531046065504524&awparams=companionAds%3Atrue?onsite=true
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Free2View TV | VOD",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?F2VVOD0
