@@ -18,130 +18,6 @@
 #
 # ************************************************************************************************************************************* 
 #
-# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 8/10/2021 ** !! See chronology of changes below...
-# !!!!!!!!!!!!!!! - !! Introducing the UPDATED AND REVISED FOR 2021 edition of the Free2View TV playlist!
-# UPDATE: 8/25/21 - Soft launch of the 'preview' edition of this playlist. Still a work in progress. Full launch expected by 9/06/21!
-# PREVIEW EDITION - UPDATE: Added more channels in "Samsung TV Plus" group (8/25). More "Sports & Recreation" channels added (8/25).
-# PREVIEW EDITION - UPDATE: Added more channels in "Samsung TV Plus" and "Vizio" groups; removed EPG data from NTV ("Canada") (8/25).
-# PREVIEW EDITION - UPDATE: Added more channels in "Movies & More" category (8/25). Added "International TV", updated streams. (8/26).
-# PREVIEW EDITION - UPDATE: Added more channels in "Movies & More" category (8/26), and "Free2View TV Select | Roku" category (8/26).
-# PREVIEW EDITION - UPDATE: More "Vizio WatchFree + Pluto TV" channels; replaced with generic logos to facilitate quick updates.
-# PREVIEW EDITION - UPDATE: Added new "Free Ad Supported TV" category, aka FAST, with Local Now Exclusive channels (8/29).
-# PREVIEW EDITION - UPDATE: Added "Vuuzle" streams and "Plex" streams to "Free Ad Supported TV" category (8/29).
-# PREVIEW EDITION - UPDATE: Added full set of France 24 streams in "Live News" category; Electric Now channel updated (8/30).
-# PREVIEW EDITION - UPDATE: Added additional channels in "Samsung TV Plus"; Portlandia added to "AMC Networks" category (8/31).
-# PREVIEW EDITION - UPDATE: Added SportsTribal.tv in the "Sports & Recreation" group (9/01).
-# PREVIEW EDITION - UPDATE: Updated Plex channels with EPG sources (9/02). "WatchYour.TV | TVS" category and channels added (9/03).
-# PREVIEW EDITION - UPDATE: Completed migration of "USA FREE TV | OTA" channels from previous version of playlist (9/05).
-# PREVIEW EDITION - UPDATE: Expanded "Plex Live TV" and set up in its own category with full EPG listings (9/05).
-# REVISED EDITION - UPDATE: OFFICIAL DROP OF THE REVISED EDITION!! (9/07)
-# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 9/08/2021 ** !! See chronology of changes below...
-# UPDATE: 9/08/21 - MORE CHANNELS: Added additional Pluto TV streams with EPG, Positiv TV with EPG, add to their respective groups.
-# UPDATE: 9/09/21 - NEW CHANNELS: Added new Kids' Pluto TV channels with EPG in "Vizio WatchFree + Pluto TV" category.
-# UPDATE: 9/12/21 - UPDATE: New streams / updated streams to "Plex Live TV" and "Samsung TV Plus".
-# UPDATE: 9/12/21 - NEW CHANNEL ADDED: French-Canadian channel TVA (Alternate) added to "Canada" category.
-# UPDATE: 9/12/21 - NEW CATEGORY: "Free Live Radio" category: local live radio, news radio, novelty & Old Time Radio, and more.
-# UPDATE: 9/13/21 - NEW VOD ADDED: Additional VOD media has been added to the NSFW edition of the playlist.
-# UPDATE: 9/15/21 - NEW CATEGORY: "Ambient TV" - Sound Optional! Great for office screens at home or for your business!
-# UPDATE: 9/15/21 - UPDATE: AmericaTeve | Roku, DocuBox | Vuuzle, added to "Free Ad Supported TV"; streams updated in same group.
-# CHANGELOG FORMAT CHANGE BEGINS HERE TO ALLOW FOR LENGTHIER INFORMATION:
-# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 9/18/2021 ** !! See chronology of changes below...
-# 09/18/21 - UPDATE: Added KQED TV and Radio streams in "PBS (Geo-USA) | PBS + NPR".
-# 09/18/21 - MINOR UPDATE: Updated some formatting of some #EXTINF tags in several categories.
-# 09/19/21 - CHANNEL UPDATE: Updated stream for Knowledge Network in "Canada" category; added some CBC/ICI duplicates.
-# 09/19/21 - NEW CHANNELS ADDED: Live streams from Australia added as a sub-category in "International TV".
-# 09/19/21 - NEW / UPDATE: Updated streams for Russia Today channels, added new RT Documentary, "International TV" group.
-# 09/19/21 - NEW CHANNELS ADDED: Law & Crime, Lively Place, Loop Music Videos added to "Plex Live TV" category, with EPG.
-# 09/19/21 - CHANNELS REMOVED: "Vizio WatchFree + Pluto TV": Removed Adventure Sports Network, Law & Crime (dead links).
-# 09/19/21 - CHANNELS ADDED: "Vizio WatchFree + Pluto TV": Outside TV+, Pac 12 Insider. "Samsung TV Plus": CrimeTime TV added.
-# 09/21/21 - NEW VOD ADDED: New collection of 18+ VOD's added (only applicable to the NSFW versions of the playlist).
-# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 9/23/2021 ** !! See chronology of changes below...
-# 09/23/21 - MAJOR RE-ORGANIZATION: Moved Vizio channels to "Free Ad Supported TV", renamed category to "Pluto TV on Samsung TV Plus".
-# 09/29/21 - CATEGORY UPDATED: Updated stream URL's in "Samsung TV Plus" group; added several new channels.
-# 09/30/21 - NEW CHANNELS ADDED: Francophone channels added to "International TV" and duplicated in "Canada" category.
-# 09/30/21 - NEW CHANNELS ADDED: AccuWeather NOW and Documentary+ added to "Plex Live TV" category.
-# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 10/03/2021 ** !! See chronology of changes below...
-# 10/03/21 - NEW RADIO CHANNELS / CATEGORY: Full selection of DASH Radio streams. Special thanks to @Sphinxroot via our Discord group.
-# 10/07/21 - NEW CATEGORY: "Holidays 365" category complementing the seasons with special streams and VOD, Halloween, Christmas, etc.
-# 10/09/21 - PLAYLIST MAINTENANCE: Did general housecleaning of the playlist (fixed categories, reorganized list, etc). 
-# 10/11/21 - NEW CHANNELS ADDED: Several new channels added to "Plex Live TV" category.
-# 10/13/21 - NEW VOD ADDED: Two new episodes from Playboy 18+ VOD's added (only applicable to the NSFW versions of the playlist).
-# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 10/14/2021 ** !! See chronology of changes below...
-# 10/14/21 - NEW EPG ADDED FOR UPDATED CATEGORY (see next info): NEW! [10] https://od.lk/s/MzJfMTQyMzI0MTdf/WNY_13601_DTV.xml
-# 10/14/21 - CATEGORY UPDATED: Changed "USA FREE TV | OTA" to "USA Free TV" using new EPG source above, additional channels/EPG data.
-# 10/15/21 - CHANNEL MAINTENANCE: Added additional source for 'noovo' channel in "Canada" category.
-# 10/16/21 - NEW CHANNELS: USTVNow Free TV added to "USA Free TV" (EPG where applicable) https://www.ustvnow.com/freetowatch 
-# 10/17/21 - NEW CHANNEL: ACE | American Classic Entertainment linear stream (DistroTV source) added to "USA Free TV".
-# 10/17/21 - NEW CHANNEL: The Grio TV linear stream (LocalNow source) added to "USA Free TV".
-# 10/18/21 - NEW CONTENT: Added additional VOD titles and "Haunt TV" live stream to "Holidays 365" Halloween sub-category.
-# 10/18/21 - CATEGORY MAINTENANCE / NEW CHANNELS: Updated & reorganized "Pluto TV on Samsung TV Plus" group, new channels added.
-# 10/18/21 - CHANNEL MAINTENANCE: Mapped additional EPG for 'Worldwide Streams' subcategory of "PBS (Geo-USA) | PBS + NPR" group. 
-# 10/19/21 - NEW CONTENT: horror radio: Conyers OTR; https://darkentertainments.co.uk  - "Holidays 365" Halloween sub-category. 
-# 10/19/21 - NEW CONTENT: GhostCams: Willard Library Ghost Site (www.willardghost.com) - "Holidays 365" Halloween sub-category. 
-# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 10/24/2021 ** !! See chronology of changes below...
-# 10/24/21 - PLAYLIST MAINTENANCE: re-organised a category (moved STIRR TV group closer to the front).
-# 10/24/21 - NEW CATEGORY: Added complete set of "Distro TV" with new EPG, courtesy of @DeltaSR + @jhr1948 via Discord.
-# 10/24/21 - NEW EPG SOURCE: this new EPG source now takes up the vacant [7] slot in our order: NEW! [7] https://cutt.ly/DistroTVepg
-# 10/26/21 - NEW CHANNELS / CHANNEL MAINTENANCE: Added food channels, updated some news channels in "Samsung TV Plus".
-# 10/26/21 - CHANNEL MAINTENANCE: Updated NTV Newfoundland channel in "Canada" category.
-# 10/27/21 - NEW CHANNEL: Fox Weather | Webstream added to "Live News" category.
-# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 10/29/2021 ** !! See chronology of changes below...
-# 10/29/21 - NEW CHANNELS ADDED: Several new channels added to the "Samsung TV Plus" category.
-# 10/30/21 - NEW CONTENT ADDED: Additional VOD and live channels added to "Holidays 365" category.
-# 10/30/21 - NEW CATEGORY: Added primary set (main channels) of "LocalNow" with new EPG, courtesy of @DeltaSR + @jhr1948 via Discord.
-# 10/30/21 - NEW EPG SOURCE: new "LocalNow" EPG source NEW! [11] https://cutt.ly/LocalNowepg
-# 10/30/21 - NEW CATEGORY: Added full set of channels from "WatchYour.TV" with new EPG, courtesy of @DeltaSR + @jhr1948 via Discord.
-# 10/30/21 - NEW EPG SOURCE: new "WatchYour.TV" EPG source NEW! [12] https://cutt.ly/WatchyourTVepg
-# 10/30/21 - INFORMATION: For new EPG sources, be sure to select the 'Download at each update' option in the settings!
-# 10/30/21 - MAINTENANCE: Removed 'Local Now Exclusives' from "Free Ad Supported TV" as we now have dedicated "LocalNow" category.
-# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 11/01/2021 ** !! See chronology of changes below...
-# 11/01/21 - NEW: â˜…â˜… Seasons Greetings â˜…â˜… sub-category with channels added at the end of "Pluto TV on Samsung TV Plus" category.
-# 11/01/21 - NEW: Pluto TV seasonal channels duplicated in the ðŸŽ„ðŸŽ„ Christmas 365 ðŸŽ„ðŸŽ„ sub-category of "Holidays 365" group.
-# 11/01/21 - PLEASE NOTE: Live channels in the Seasonal categories will be OFF-AIR during non-seasonal streaming windows.
-# 11/04/21 - PLAYLIST MAINTENANCE: Cleaned up some lines in the playlist (reduced the amount of unnecessary information placeholders).
-# 11/06/21 - NEW CHANNELS ADDED: Several new channels added to "Plex Live TV" category.
-# 11/08/21 - NEW: â˜…â˜… Seasons Greetings â˜…â˜… sub-category added to "LocalNow"; also re-organized category with sub-channel headings.
-# 11/08/21 - NEW: Local Now seasonal channels duplicated in the ðŸŽ„ðŸŽ„ Christmas 365 ðŸŽ„ðŸŽ„ sub-category of "Holidays 365" group.
-# COMING SOON: Additional updates to Distro TV list. Expanding additional content into the Holidays group. Additional maintenance.
-# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 11/17/2021 ** !! See chronology of changes below...
-# EPG SOURCE UPDATE: https://cutt.ly/DSr95Combinedepg	<< this will be the new EPG source for all projects issued by @DeltaSR ...
-# EPG SOURCE UPDATE: (cont'd) which replaces individual EPG's [7] and [12]. EPG [11] for LocalNow remains, for technical reasons.
-# EPG SOURCE UPDATE: (cont'd) Any new additions/EPG to Free2View TV from this developer will use the same 'combined' EPG source.
-# 11/14/21 - UPDATED CATEGORY: Updated and expanded "Distro TV" category. All available channels included.
-# 11/14/21 - UPDATED CATEGORY: Mapped additional channels and added QVC channels to "USA Free TV" category.
-# 11/17/21 - NEW CHANNELS: Added new Vizio linear channel simulcasts of diginets 'Defy TV' and 'True Real' in "USA Free TV" category.
-# 11/17/21 - NEW / MAINTENANCE: "Holidays 365": Added new 'Holiday Movie Favorites by Lifetime' channel; deleted dead VOD sources.
-# COMING SOON: More new Pluto TV, Samsung TV Plus, and more. Small updates to existing categories. Additional Seasonal programming.
-# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 11/25/2021 ** !! See chronology of changes below...
-# 11/25/21 - CATEGORY UPDATE: Duplicated worldwide PBS channels in "USA Free TV" category.
-# 11/25/21 - CATEGORY UPDATE / NEW: Renamed "Pluto TV on Samsung TV Plus" category as simply "Pluto TV" and added more channels.
-# 11/28/21 - CATEGORY UPDATE: Full update of the "Local Now" category, including new channels and reformating some details.
-# 12/02/21 - CATEGORY UPDATE / CHANNELS REMOVED: "PBS (Geo-USA) | PBS + NPR" ** ATTENTION: PBS has recently begun to add DRM protection 
-             into their streams and are now unavailable to be included into the playlist. Some working PBS streams have now 
-             been moved to the "USA Free TV" section of the Playlist. This category will likely be discontinued by the next update.
-# 12/05/21 - CATEGORY UPDATE / NEW: Updated streams and content in the "Holidays 365" including new iHeartChristmas TV channels.
-# COMING SOON: To Be Announced.
-# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 12/06/2021 ** !! See chronology of changes below...
-#            ** ATTENTION: Due to server issues EPG sources [1] [3] [4] [10] have moved servers and new links have been generated. 
-#            Now also using short links for easier entry into your streaming players. 
-#            Perfect Player backup files also updated with the new settings. **
-# 12/06/21 - NEW CATEGORY: Added "VOD | Lakeshore Classic Movies" with classic films from the PBS movie library.
-# 12/11/21 - NEW CHANNEL: Added Digi TV | Webstream in "USA Free TV". https://www.watchdigitv.com/schedule
-# 12/11/21 - NEW CHANNEL: Added Mystery Alley | Ovation in "USA Free TV". https://www.ovationtv.com/schedule/
-# 12/11/21 - NEW CHANNEL: Added Journy | Ovation in "USA Free TV". https://journy.tv
-# COMING SOON: Content from critical thinker.cyou. Update to Distro TV, new channels in Plex. Update Free2View TV Select category.
-# COMING SOON: Move NPR radio. Add more iHeartRadio TV channels. Add more LCM movies. Add more premium 18+ videos. More.
-# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 12/15/2021 ** !! See chronology of changes below...
-# 12/15/21 - CATEGORY MAINTENANCE: Cleaned up "Canda" category and updated some streams.
-# 12/17/21 - CHANNEL MAINTENANCE: Updated the USTVNow Free Channels streams in "USA Free TV", mapped additional EPG to some channels.
-# 12/19/21 - NEW CHANNELS: Added new channels into "Plex Live TV"; Plex Christmas channels (sub-domains) added in "Holidays 365".
-# COMING SOON: Content from critical thinker.cyou. Update to Distro TV, additional new channels to be added to Plex. 
-# COMING SOON: Move NPR radio. Add more iHeartRadio TV channels. Add more LCM movies. Add more premium 18+ videos. More.
-# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 12/22/2021 ** !! See chronology of changes below...
-# 12/22/21 - CHANNEL REMOVED: Removed LCN from "Canada" group (no longer available to stream for free).
-# 12/22/21 - CHANNEL ADDED: Available until January 20, 2022: French-Canadian channel 'Zeste' added to "Canada" group, with EPG.
-# COMING SOON: Content from critical thinker.cyou. Update to Distro TV, additional new channels to be added to Plex. 
-# COMING SOON: Move NPR radio. Add more iHeartRadio TV channels. Add more LCM movies. Add more premium 18+ videos. More.
 # !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 12/28/2021 ** !! See chronology of changes below...
 # 12/28/21 - CHANNEL MAINTENANCE: Updated 247 Retro TV live stream in "Movies Plus". http://www.247retro.com
 # 12/29/21 - NEW CHANNEL: Added EPlusTV 6 | Jackson TN in "USA Free TV". https://www.eplustv6.com
@@ -158,27 +34,39 @@
 # COMING SOON: Content from critical thinker.cyou. Update to Distro TV; additional new channels to be added to Plex. 
 # COMING SOON: iHeartRadio visual playlists, as well as new radio streams with support from https://cultradioagogo.com
 # COMING SOON: New free TV regional categories from selected markets, with category-exclusive EPG listings and expanded channel lists.
+# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist finalized as of 01/30/2022 ** !! See chronology of changes below...
+# 01/14/22 - NEW: From http://CultRadioAGoGo.com ðŸŽ¶ Officially licensed to the Free2View TV Project! ðŸŽ¶ added to "Free Live Radio".
+# 01/14/22 - NEW: https://www.zrock103.com FM radio Lexington KY added to ðŸŽ¶ Free Live Radio Mix ðŸŽ¶ subcategory in "Free Live Radio".
+# 01/15/22 - NEW CHANNELS: Added â˜…â˜… Home + DIY â˜…â˜… subcategory with a full set of channels from "Pluto TV".
+# 01/16/22 - CATEGORY MAINTENANCE: Updated some streams and EPG mapping to some channels in "USA Free TV" category.
+# 01/16/22 - CATEGORY UPDATED / NEW STREAMS: Changed "Ambient TV" to "Ambient TV + Radio" with new Radio streams and VOD titles.
+# 01/18/22 - NEW CHANNELS / CATEGORY: "USA Regional | 21117" category added with new, exclusive EPG and channels. 
+# 01/18/22 - NEW EPG SOURCE: NEW! (01/19/22) [12] https://cutt.ly/EPG_MLD_21117 .. added with new channels, exclusive EPG data.
+# 01/23/22 - RELOCATED: PBS | Maryland Public TV removed from "USA Free TV" and is now exclusive to new "USA Regional | 21117" group.
+# 01/24/22 - CHANNEL MAINTENANCE: EPG source for Digi TV | Webstream in "USA Free TV" now uses [7] https://cutt.ly/DSr95Combinedepg
+# 01/27/22 - NEW CHANNELS ADDED: New channels added to the 'Hit TV' subcategory in "Plex Live TV".
+# 01/27/22 - CHANNELS UPDATED: Tags added, new EPG mapped to channels in "Entertainment" group, â˜…â˜… Shout! Factory TV â˜…â˜… subcategory. 
+# COMING SOON: Updates to News, Sports, 18+ categories; consolidating more categories; cleaning up seasonal category.
+# COMING SOON: Content from critical thinker.cyou. Update to Distro TV; additional new channels to be added to Plex. 
+# COMING SOON: iHeartRadio visual playlists, as well as new radio streams with support from https://cultradioagogo.com
+# COMING SOON: More free TV regional categories from selected markets, with category-exclusive EPG listings and expanded channel lists.
 #
 # ************************************************************************************************************************************* 
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Info | Free2View TV",** Completely Revised for 2021 **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Info | Free2View TV",** Completely Revised for 2022 **
 https://od.lk/s/MF8yMjk4MTkzODdf/Free2ViewTV-Slide1_v6_210220.mp4?1A
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Info | Free2View TV",** Info | Free2View TV **
 https://od.lk/s/MF8yMjk4MTkzODdf/Free2ViewTV-Slide1_v6_210220.mp4?1B
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Info | Free2View TV",** ATTENTION: MORE CHANNELS ARE COMING SOON! Just looking over the previous iteration of the Free2View TV Project's streaming TV playlist and the Project will be migrating over most channels to this new revised version- we're just filtering and doing a purge of dead links. Updates expected weekly or semi-weekly. Stay Tuned! **
-https://od.lk/s/MF8yMjk4MTkzODdf/Free2ViewTV-Slide1_v6_210220.mp4?1C
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Info | Free2View TV",** LATEST INFO & REMOTE LINKS go to https://thefrugalstreamer.blogspot.com/p/free2viewtvpage1.html or google 'Free2View TV' **
 https://od.lk/s/MF8yMjk4MTkzODdf/Free2ViewTV-Slide1_v6_210220.mp4?1C2
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Info | Free2View TV",** Our Social Places: Facebook Group 'We Are Streamers on a Budget' | Discord https://discord.gg/C48WhSTpw7 | email Free2ViewTVCanada@gmail.com **
 https://od.lk/s/MF8yMjk4MTkzODdf/Free2ViewTV-Slide1_v6_210220.mp4?1D
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",** EPG Sources Below: ** Be sure to select the 'Download at each update' option in the settings! **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?2
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",** ATTENTION: Due to server issues EPG sources [1] [3] [4] [10] have moved servers and new links have been generated. Now also using short links for easier entry into your streaming players. Perfect Player backup files also updated with the new settings. **
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?2B
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",** ATTENTION: Due to server issues PLAYLIST sources have changed. Go to our blog page https://thefrugalstreamer.blogspot.com/p/free2viewtvpage1.html for the latest updates and further information about the changes. **
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?2C
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",** Several categories use a mix of many of the EPG sources below. For optimum performance it is recommended that you set up all of the available EPG sources. Please note also that many of the new EPG sources were updated recently so be sure to update your settings accordingly. **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?2A
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[1] https://cutt.ly/CAN_EPG1
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?3
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[2] https://i.mjh.nz/PBS/all.xml 
@@ -201,7 +89,7 @@ https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?11
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?12
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",DISCONTINUED (1/07/22) [11] https://cutt.ly/LocalNowepg
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?13
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[12] (EPG EMPTY SLOT)
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",NEW! (01/19/22) [12] https://cutt.ly/EPG_MLD_21117
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?14
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDA3OTIxOTdf/BuyMeACoffee_400x400.png" group-title="Info | Free2View TV",** Support Us! Buy Me A Coffee? **
 https://od.lk/s/MF8yMjk4MTkzOTJf/F2VTV_BuyMeACoffee_v4.mp4?BMC1
@@ -423,7 +311,7 @@ https://newidco-newkid-1-us.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Pluto TV",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?BingePlutoInfo0A
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Pluto TV",** Category updated 1/08/22 **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Pluto TV",** Category updated 01/15/22 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?BingePlutoInfo1A
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Pluto TV",** Credits: @MattHuisman | Adapted by: @geonsey Free2View TV **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?BingePlutoInfo1B
@@ -495,6 +383,48 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f754f98185580007eb07
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e825550e758c700077b0aef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="60f75771dfc72a00071fd0e0" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | Gunsmoke
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f75771dfc72a00071fd0e0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Pluto TV",â˜…â˜… Home + DIY â˜…â˜…
+https://od.lk/s/MF8yNDkxMDE0MTJf/PlutoTV_Intermission_2020.mp4?plutotvhome
+#EXTINF:-1 tvg-id="6022bd17849c620007f43ae0" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | Pluto TV Home
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6022bd17849c620007f43ae0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5d51e791b7dba3b2ae990ab2" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | This Old House
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5dc1cb279c91420009db261d" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | Lively Place
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc1cb279c91420009db261d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5ef0fbed39ff730007383a69" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | Dabl (Geo-USA)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ef0fbed39ff730007383a69/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5f4ff8c8bcf3d600078af3eb" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | The Design Network
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4ff8c8bcf3d600078af3eb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="601a0342dcf4370007566891" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | Tiny House Nation
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/601a0342dcf4370007566891/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="615b8ec39e878900073f419a" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | Antiques Road Trip
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/615b8ec39e878900073f419a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5ce44810b421747ae467b7cd" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | Antiques Roadshow UK
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ce44810b421747ae467b7cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5fb5836fe745b600070fc743" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | BBC Home
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5fb5844bf5514d0007945bda" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | BBC Food
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5877ac8cb791f4eb4a140d81" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | Food TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5e84f54a82f05300080e6746" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | America's Test Kitchen
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84f54a82f05300080e6746/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="6148c756ce8091000748d113" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | Iron Chef
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6148c756ce8091000748d113/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5877acecb16bb1e042ee453f" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | Pluto TV Weddings
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5877acecb16bb1e042ee453f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5887ba337b8e94223eb121bd" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | Pluto TV Best Life
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="599375885ceaac3cabccbed7" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | Cats 24/7
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/599375885ceaac3cabccbed7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5b329e0a7b9d8872aeb49ceb" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | Dogs 24/7
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b329e0a7b9d8872aeb49ceb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5bb1ad55268cae539bcedb08" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | The Pet Collective
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb1ad55268cae539bcedb08/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5c58a539fae3812612f33ca3" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | Faith TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c58a539fae3812612f33ca3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5d486b2eeddd9576d66f9066" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | TBN
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d486b2eeddd9576d66f9066/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Pluto TV",â˜…â˜… Reality â˜…â˜…
 https://od.lk/s/MF8yNDkxMDE0MTJf/PlutoTV_Intermission_2020.mp4?plutotvreality
 #EXTINF:-1 tvg-id="5e82530945600e0007ca076c" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Pluto TV",US | All Reality by WE tv
@@ -770,7 +700,7 @@ https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Plex Live TV",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?plex0
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Plex Live TV",** Category updated 12/19/21 **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Plex Live TV",** Category updated 1/27/22 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?plex1
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Plex Live TV",** Credits: @MattHuisman | Adapted by: @geonsey Free2View TV **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Plex2
@@ -784,6 +714,20 @@ https://vcnplex.teleosmedia.com/linear/ovation/journy/playlist.m3u8?ptoken=cxqV1
 https://plexpab.teleosmedia.com/linear/ovation/journypresentsanthonybourdain/playlist.m3u8?ptoken=cxqV12Mp49Tp6JXshCdM&pid=6182cd0df4e62961d9c2ccf6&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-616de83d40598ac2f83e7873" tvg-logo="https://provider-static.plex.tv/uploads/production/885cb80b-2178-492f-a0d8-3f2290508df8/mystery_alley_logo.png" group-title="Plex Live TV",US | Mystery Alley
 https://plexovm.teleosmedia.com/linear/ovationmysteries/mysteryalley/playlist.m3u8?ptoken=cxqV12Mp49Tp6JXshCdM&pid=616de83d40598ac2f83e7873&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61ddcc6023daf618ed44c29f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/94c5a66f-c118-4d32-b8cf-fbed9e1dd454/WantedDeadorAlive_15000x1000_darkbgd.png" group-title="Plex Live TV",US | Wanted: Dead or Alive
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wanted-doa-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=VeRRLspvSX7Z8bzwMLKr&channelId=61ddcc6023daf618ed44c29f
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61ae679103baf19077bbf933" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9f5bb066-e3be-497a-8efd-b6b1cccdefcf/true_crime_now_logo.png" group-title="Plex Live TV",US | True Crime Now
+https://8fbd39030a8643c49ad12795244aa71a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TrueCrimeNow/playlist.m3u8?ads.wurl_channel=941&ads.wurl_name=TrueCrimeNow&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=VeRRLspvSX7Z8bzwMLKr&ads.plex_id=61ae679103baf19077bbf933&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141127" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/sftv_logo_dark.png" group-title="Plex Live TV",US | Shout! Factory TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-shoutfactory-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=VeRRLspvSX7Z8bzwMLKr&channelId=60d4edd6b2fdec002c141127
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4eddbb2fdec002c141133" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/mst3k_logo_dark.png" group-title="Plex Live TV",US | MST3K
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-mst3k-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=VeRRLspvSX7Z8bzwMLKr&channelId=60d4eddbb2fdec002c141133
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c141129" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/TokuSHOUTsu_logo_dark.png" group-title="Plex Live TV",US | TokuSHOUTsu
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-tokushoutsu-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=VeRRLspvSX7Z8bzwMLKr&channelId=60d4edd7b2fdec002c141129
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/johnnycarsontv_logo_dark.png" group-title="Plex Live TV",US | Johnny Carson TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-johnnycarson-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=VeRRLspvSX7Z8bzwMLKr&channelId=60d4edd6b2fdec002c141123
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141125" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/carolburnett_logo_dark.png" group-title="Plex Live TV",US | The Carol Burnett Show
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-carolburnettshow-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=VeRRLspvSX7Z8bzwMLKr&channelId=60d4edd6b2fdec002c141125
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61a94815f6575693e6392561" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b435083-eb80-4f1a-ae78-fd6cab44964c/CSS_1920x1080-Transparent_-_Sue_Chang.png" group-title="Plex Live TV",US | Chicken Soup for the Soul
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-chickensoup-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=h-Sjr4w2pJ7atMszKvTv&channelId=61a94815f6575693e6392561
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ef3b588e782f002c8b1d06" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/best-ever-tv-logo_dark.png" group-title="Plex Live TV",US | Best TV Ever
@@ -1422,10 +1366,22 @@ https://content.uplynk.com/channel/ext/f749f9956d4e467897dc48680d53df15/43391.m3
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Entertainment",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?entertainment0
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Entertainment",** Category updated 01/04/22 **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Entertainment",** Category updated 1/27/22 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?entertainment1
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Entertainment",** Use these EPG sources: (refer to the 'Info | Free2View TV' category at the beginning of the playlist for specific xml URL's) [6] Stirr **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Entertainment",** This category uses various EPG sources. Be sure to review the EPG source URL's indicated in the 'Info | Free2View TV' category for the most up to date information. ALSO PLEASE NOTE: Not all channels have EPG data. **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?entertainment2
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Entertainment",â˜…â˜… Shout! Factory TV â˜…â˜… https://www.shoutfactory.com/corp/shout-factory-tv
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?entertainment4SFTV
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141127" tvg-logo="https://od.lk/s/MF8yMjQwMDg4ODBf/ShoutFactoryTV_310x310.png" group-title="Entertainment",Shout! Factory TV | Web
+https://shoutfactory-shoutfactory-zype.amagi.tv/playlist.m3u8?l1br3&date0127&Webstream&PlexEPG
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4eddbb2fdec002c141133" tvg-logo="https://od.lk/s/MF8yNDU4NzU2Mzlf/MST3K_400x400.png" group-title="Entertainment",MST3K | Web
+https://mst3k-ts-zype.amagi.tv/playlist.m3u8?l1br3&date0127&Webstream&PlexEPG
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c141129" tvg-logo="https://od.lk/s/MF8yNDU4NzU5MTlf/Tokushoutsu_400x400.png" group-title="Entertainment",TokuSHOUTsu | Web
+https://tokushoutsu-zype.amagi.tv/playlist.m3u8?l1br3&date0127&Webstream&PlexEPG
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123" tvg-logo="https://od.lk/s/MF8yNDU4NzcwNzJf/JohnnyCarsonTV_370x370.png" group-title="Entertainment",Johnny Carson TV | Web
+https://johnnycarson-zype.amagi.tv/playlist.m3u8?l1br3&date0127&Webstream&PlexEPG
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141125" tvg-logo="https://od.lk/s/MF8yNDU4Nzk1NDNf/TheCarolBurnettShow.png" group-title="Entertainment",The Carol Burnett Show | Web
+https://thecarolburnettshow-zype.amagi.tv/playlist.m3u8?l1br3&date0127&Webstream&PlexEPG
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Entertainment",â˜…â˜… Webstreams â˜…â˜…
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?webstreams1
 #EXTINF:-1 tvg-id="externallinearfeed-10-21-2019-10-21-2019" tvg-logo="https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png" group-title="Entertainment",Electric Now | Webstream
@@ -1434,18 +1390,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=53&avod=1&coppa=0&is_lat=0
 https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDUyNTIwOTNf/SpaceChannel_200x200.png" group-title="Entertainment", Space Channel | Webstream
 https://ov-space-sp.ottera.tv/out/v1/190362790edc41c2bd6dd7653c2009f9/index.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Entertainment",** Shout! Factory TV ** https://www.shoutfactory.com/corp/shout-factory-tv **
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?entertainment4SFTV
-#EXTINF:-1 tvg-id="externallinearfeed-03-08-2019-03-08-2019" tvg-logo="https://od.lk/s/MF8yMjQwMDg4ODBf/ShoutFactoryTV_310x310.png" group-title="Entertainment",Shout! Factory TV | Web
-https://shoutfactory-shoutfactory-zype.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-03-20-2020-03-20-2020" tvg-logo="https://od.lk/s/MF8yNDU4NzU2Mzlf/MST3K_400x400.png" group-title="Entertainment",MST3K | Webstream
-https://mst3k-ts-zype.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDU4NzU5MTlf/Tokushoutsu_400x400.png" group-title="Entertainment",TokuSHOUTsu | Webstream
-https://tokushoutsu-zype.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-10-20-2020-10-20-2020" tvg-logo="https://od.lk/s/MF8yNDU4NzcwNzJf/JohnnyCarsonTV_370x370.png" group-title="Entertainment",Johnny Carson TV | Web
-https://johnnycarson-zype.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDU4Nzk1NDNf/TheCarolBurnettShow.png" group-title="Entertainment",The Carol Burnett Show | Web
-https://thecarolburnettshow-zype.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Entertainment",â˜…â˜… NASA Live â˜…â˜… https://www.nasa.gov/nasalive
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?entertainmentNasa
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUzMTI3ODJf/NASA.png" group-title="Entertainment",NASA TV | Webstream
@@ -1789,54 +1733,56 @@ https://d179m5eq83yziw.cloudfront.net/live3/unbeaten_tv/bitrate1-clear.isml/mani
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="USA Free TV",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ota0A
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="USA Free TV",** Category updated 12/29/21 **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="USA Free TV",** Category updated 01/16/22 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ota0AA
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="USA Free TV",** Use these EPG sources: (refer to the 'Info | Free2View TV' category at the beginning of the playlist for specific xml URL's) [2] PBS | [3] KCK_66101 | [4] NYC_10001_OTA | [5] Plex | [7] EPG | [10] WNY_13601_DTV **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="USA Free TV",** This category uses various EPG sources. Be sure to review the EPG source URL's indicated in the 'Info | Free2View TV' category for the most up to date information. ALSO PLEASE NOTE: Not all channels have EPG data. **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ota1A
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="USA Free TV",** PLEASE NOTE: Not all channels have EPG data.
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ota4A
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="USA Free TV",ðŸ“º Free TV Webstreams ðŸ“º
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ota0C
 #EXTINF:-1 tvg-id="I45.2.99361.zap2it.com" tvg-type="live" group-title="USA Free TV" tvg-logo="https://od.lk/s/MF8yMjM5NTQzOTVf/ChargeTV.png",Charge! | Webstream
-https://content-ause1.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8?l1br3&date0820&catOTAWebstream
+https://content-ause1.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8?l1br3&date0116&catOTAWebstream&EPG10001
 #EXTINF:-1 tvg-id="I17.4.70281.zap2it.com" tvg-type="live" group-title="USA Free TV" tvg-logo="https://od.lk/s/MF8yMjM5NTQzOTZf/CometTV.png",Comet TV | Webstream
-https://content-ausw1-up-1.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?l1br3&date0820&catOTAWebstream
+https://content-ausw1-up-1.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?l1br3&date0116&catOTAWebstream&EPG10001
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-616de83d40598ac2f83e7873" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNTU0OTIwNzlf/MysteryAlley_319x319.png" group-title="USA Free TV",Mystery Alley | Ovation
 https://vcnmysteryalley.teleosmedia.com/linear/ovationmysteries/mysteryalley/playlist.m3u8?l1br3&date1220&PlexEPG&catOTA&Webstream
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132df62fe160040f26bc2" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjg5MzMxNjNf/Journy_225x225.png" group-title="USA Free TV",Journy | Ovation
 https://vcnovation.teleosmedia.com/linear/ovation/journy/playlist.m3u8?l1br3&date1220&PlexEPG&catOTA&Webstream
+#EXTINF:-1 tvg-id="USA_Networks_and_Sports_EPGDigiTV.us" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNTUzODM4MThf/DigiTV_420x420.png" group-title="USA Free TV",Digi TV | Webstream
+https://amg01443-netxholdingsllc-digitv200-ono-zzfy4.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="I31.4.55347.zap2it.com" tvg-type="live" group-title="USA Free TV" tvg-logo="https://od.lk/s/MF8yNTMwOTg1MDNf/DefyTV_864x864.png",Defy TV | Vizio
-https://scripps-defy-1-us.vizio.wurl.tv/playlist.m3u8?l1br3&date1117&catOTAWebstream
+https://scripps-defy-1-us.vizio.wurl.tv/playlist.m3u8?l1br3&date1117&catOTAWebstream&EPG10001
 #EXTINF:-1 tvg-id="I31.6.83518.zap2it.com" tvg-type="live" group-title="USA Free TV" tvg-logo="https://od.lk/s/MF8yNTMwOTg0OTFf/TrueReal_864x864.png",True Real | Vizio
-https://scripps-truereal-1-us.vizio.wurl.tv/playlist.m3u8?l1br3&date1117&catOTAWebstream
+https://scripps-truereal-1-us.vizio.wurl.tv/playlist.m3u8?l1br3&date1117&catOTAWebstream&EPG10001
 #EXTINF:-1 tvg-id="I5.4.97965.zap2it.com" tvg-type="live" group-title="USA Free TV" tvg-logo="https://od.lk/s/MF8yNDk0NDk3NDNf/TheGrio_296x296.png",The Grio TV
-https://thegriov2-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60b677f241a2d8778e68a712_thegriov2-live/index.m3u8
+https://thegriov2-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60b677f241a2d8778e68a712_thegriov2-live/index.m3u8?l1br3&date0116&catOTAWebstream&EPG10001
 #EXTINF:-1 tvg-id="I4.2.44936.zap2it.com" tvg-type="live" group-title="USA Free TV" tvg-logo="https://od.lk/s/MF8yMjU5MjY0NTJf/CoziTV_WZTS_218x218.png",WZTS | Cozi TV (National EPG)
-https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
+https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8?l1br3&date0116&catOTAWebstream&EPG10001
 #EXTINF:-1 tvg-id="dtv_EPGACE TV" tvg-name="Ace" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNDk3NzgzMTRf/ACENetwork_250x250.png" group-title="USA Free TV",ACE | American Classic Ent.
 https://dai.google.com/linear/hls/event/XlPF-0NTSFOnlMNs1Sr59w/master.m3u8?l1br3date1220&DistroTVEPG&DistroTVBaseSc&CatUSAFreeTV
 #EXTINF:-1 tvg-id="I218.45397.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMzMxNTE3NTVf/FolkTV_NEW_720x720.png" group-title="USA Free TV",Folk TV | Webstream
-http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/master.m3u8
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/master.m3u8?l1br3&date0116&catOTAWebstream&EPG13601DTV
 #EXTINF:-1 tvg-id="I10.3.62804.zap2it.com" tvg-type="live" group-title="USA Free TV" tvg-logo="https://od.lk/s/MF8yMjc0ODkyNDhf/NBCLX_584x584.png",NBCLX | Webstream
-https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8
+https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8?l1br3&date0116&catOTAWebstream&EPG10001
 #EXTINF:-1 tvg-id="I54.4.36171.zap2it.com" tvg-type="live" group-title="USA Free TV" tvg-logo="https://od.lk/s/MF8yMzMyMzk0MDNf/PositivTV_520x520.png",Positiv TV | Webstream
-https://player-api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
+https://player-api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8?l1br3&date0116&catOTAWebstream&EPG10001
 #EXTINF:-1 tvg-id="I28.1.114802.zap2it.com" tvg-type="live" group-title="USA Free TV" tvg-logo="https://od.lk/s/MF8yMjY2MjM2MTlf/JewelryTV_1024x1024.png",Jewelry TV | Webstream
-https://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
+https://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8?l1br3&date0116&catOTAWebstream&EPG10001
 #EXTINF:-1 tvg-id="I4.3.94944.zap2it.com" tvg-type="live" group-title="USA Free TV" tvg-logo="https://od.lk/s/MF8yMjY2MjQ5NDJf/CourtTV_450x450.png",Court TV | Webstream
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay
 #EXTINF:-1 tvg-id="I25.2.97117.zap2it.com" tvg-type="live" group-title="USA Free TV" tvg-logo="https://od.lk/s/MF8yMjY2MjI1OTlf/NewsNet.png",NewsNet | Webstream
-http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
-#EXTINF:-1 tvg-id="I2.3.112501.zap2it.com" tvg-type="live" group-title="USA Free TV" tvg-logo="https://od.lk/s/MF8yMjU5MjY0NjZf/Dabl_400x400.png",Dabl (Geo-USA) | Webstream
-https://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
+http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?l1br3&date0116&catOTAWebstream&EPG66101
+#EXTINF:-1 tvg-id="I2.3.112501.zap2it.com" tvg-type="live" group-title="USA Free TV" tvg-logo="https://od.lk/s/MF8yMjU5MjY0NjZf/Dabl_400x400.png",Dabl | Sc.1
+https://siloh.pluto.tv/lilo/production/DABL/master.m3u8?l1br3&date0116&catOTAWebstream&EPG10001
+#EXTINF:-1 tvg-id="I2.3.112501.zap2it.com" tvg-type="live" group-title="USA Free TV" tvg-logo="https://od.lk/s/MF8yMjU5MjY0NjZf/Dabl_400x400.png",Dabl | Sc.2 (Geo-USA)
+https://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8?l1br3&date0116&ScPlutoBase&catOTAWebstream&EPG10001
 #EXTINF:-1 tvg-id="I137.11069.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNDk4NDcyMDJf/QVC_225x225.png" group-title="USA Free TV",QVC | Webstream
-https://lsqvc1us-lh.akamaihd.net/i/lsqvc1us_01@809353/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNDk4NDcyMDJf/QVC_225x225.png" group-title="USA Free TV",QVC 2 | Webstream
-https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/master.m3u8
+https://lsqvc1us-lh.akamaihd.net/i/lsqvc1us_01@809353/master.m3u8?l1br3&date0116&catOTAWebstream&EPG13601DTV2
+#EXTINF:-1 tvg-id="I255.82682.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNDk4NDcyMDJf/QVC_225x225.png" group-title="USA Free TV",QVC 2 | Webstream
+https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/master.m3u8?l1br3&date0116&catOTAWebstream&EPG13601DTV2
 #EXTINF:-1 tvg-id="I73.101260.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNDk4NDcyMDJf/QVC_225x225.png" group-title="USA Free TV",QVC 3 | Webstream
-https://lsqvc3us-lh.akamaihd.net/i/lsqvc3us_01@809459/master.m3u8
+https://lsqvc3us-lh.akamaihd.net/i/lsqvc3us_01@809459/master.m3u8?l1br3&date0116&catOTAWebstream&EPG13601DTV2
 #EXTINF:-1 tvg-id="" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNDk4NDcyMDJf/QVC_225x225.png" group-title="USA Free TV",QVC Now | Webstream
-https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8
+https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8?l1br3&date0116&catOTAWebstream
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="USA Free TV",ðŸ“º USTVNow Free TV ðŸ“º https://www.ustvnow.com/freetowatch
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?otaUSTVN
 #EXTINF:-1 tvg-id="I82.73413.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNDk0NDk3NDZf/fetv_250x250.png" group-title="USA Free TV",USTVNow | fetv 
@@ -1895,8 +1841,6 @@ https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/61839
 https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/playlist.m3u8?l1br3&date0525
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="USA Free TV",ðŸ“º More USA Free TV ðŸ“º
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?freeTVmore
-#EXTINF:-1 tvg-id="" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNTUzODM4MThf/DigiTV_420x420.png" group-title="USA Free TV",Digi TV | Webstream
-https://amg01443-netxholdingsllc-digitv200-ono-zzfy4.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDU4ODA2NjJf/KoolTV_627x627.png" group-title="USA Free TV",Kool TV | Webstream
 http://64.91.244.153:1935/roku/roku/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzcyNjE0MDJf/RNTV_460x460.png" group-title="USA Free TV",Right Now Television
@@ -1917,6 +1861,79 @@ https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
 http://granicusliveus6-a.akamaihd.net/torrance/G0057_005/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNTY4NjI2OTdf/EPlusTV6_235x235.png" group-title="USA Free TV",EPlusTV 6 | Jackson TN
 https://t08021-lh.akamaihd.net/i/t08021a_1@382750/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="USA Regional | 21117",** Category updated 01/23/22 **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ota21117A
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="USA Regional | 21117",** Use this EPG source: https://cutt.ly/EPG_MLD_21117 (Channels marked with a '*' have channels and/or EPG data exclusive to this category.) **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ota21117B
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="USA Regional | 21117",** PLEASE NOTE: Some EPG data may differ from actual programming since some webstreams use alternate programming schedules than does their over-the-air broadcast channels. **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ota21117C
+#EXTINF:-1 tvg-id="I4.3.114820.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjc0ODkyNDhf/NBCLX_584x584.png" group-title="USA Regional | 21117",4.3 WRCDT5 NBCLX
+https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8?CatOTA21117
+#EXTINF:-1 tvg-id="I5.2.94963.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNDAxMTA4OTFf/BUZZR_2021_393x393.png" group-title="USA Regional | 21117",5.2 WTTGDT2 BUZZR
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-buzzr-samsungtv-us/playlist.m3u8?CatOTA21117
+#EXTINF:-1 tvg-id="I7.2.46847.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM5NTQzOTVf/ChargeTV.png" group-title="USA Regional | 21117",7.2 WJLADT2 Charge!
+https://content-ause1.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8?CatOTA21117
+#EXTINF:-1 tvg-id="I7.3.56949.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM5NTQzOTZf/CometTV.png" group-title="USA Regional | 21117",7.3 WJLADT3 Comet TV
+https://content-ausw1-up-1.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?CatOTA21117
+#EXTINF:-1 tvg-id="I7.4.102359.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNTg0MDAyMjFf/TBD_640x640.png" group-title="USA Regional | 21117",7.4 WJLADT4 TBD. *
+https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?CatOTA21117
+#EXTINF:-1 tvg-id="I11.4.121218.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNDk0NDk3NDNf/TheGrio_296x296.png" group-title="USA Regional | 21117",11.4 WBALDT4 The Grio
+https://thegriov2-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60b677f241a2d8778e68a712_thegriov2-live/index.m3u8?CatOTA21117
+#EXTINF:-1 tvg-id="I22.1.24347.zap2it.com" tvg-logo="https://od.lk/s/MF8yMjYxNjkxMTBf/PBS.png" group-title="USA Regional | 21117",22.1 WMPTDT MPT Maryland *
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8?CatOTA21117
+#EXTINF:-1 tvg-id="I22.2.35575.zap2it.com" tvg-logo="https://od.lk/s/MF8yNTgyNjUyNDZf/Create_1080x1080.png" group-title="USA Regional | 21117",22.2 WMPTDT2 MPT2 Create *
+https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8?CatOTA21117
+#EXTINF:-1 tvg-id="I22.3.35576.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjYxNjkxMTRf/PBSKids_625x625.png" group-title="USA Regional | 21117",22.3 WMPTDT3 PBS Kids
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8?CatOTA21117&NationalWebstream
+#EXTINF:-1 tvg-id="I22.4.35589.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNDU0NDAxOTJf/NHKWJ_600x600.png" group-title="USA Regional | 21117",22.4 WMPTDT4 NHK *
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8?CatOTA21117&NationalWebstream
+#EXTINF:-1 tvg-id="I25.2.101322.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMzA3OTUzNTZf/SportsGrid_512x512.png" group-title="USA Regional | 21117",25.2 WDVMDT2 SportsGrid *
+https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8?CatOTA21117&NationalWebstream
+#EXTINF:-1 tvg-id="I36.1.90555.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNTg1MjkxMDdf/ShopHQ_275x275.png" group-title="USA Regional | 21117",36.1 WMDEDT Shop HQ *
+https://aos01-evine.secure.footprint.net/evine/cleanfeed/master.m3u8?CatOTA21117&NationalWebstream
+#EXTINF:-1 tvg-id="I36.2.103249.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjY2MjQ5NDJf/CourtTV_450x450.png" group-title="USA Regional | 21117" ,36.2 WMDEDT2 Court TV
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay
+#EXTINF:-1 tvg-id="I36.3.106015.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjU5MjY0NjZf/Dabl_400x400.png" group-title="USA Regional | 21117",36.3 WMDEDT3 Dabl
+https://siloh.pluto.tv/lilo/production/DABL/master.m3u8?l1br3&date0116&catOTAWebstream&EPG10001
+#EXTINF:-1 tvg-id="I36.4.106016.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjY2MjYwMTlf/Circle_332x332.png" group-title="USA Regional | 21117",36.4 WMDEDT4 Circle
+https://circle-xumo.amagi.tv/playlist.m3u8?CatOTA21117&XunmoWebstream
+#EXTINF:-1 tvg-id="I36.5.113468.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNTgyNTk3MDJf/Arirang_200x200.png" group-title="USA Regional | 21117",36.5 WMDEDT5 Arirang *
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?CatOTA21117&NationalWebstream
+#EXTINF:-1 tvg-id="I36.8.115017.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjY2MjMzODNf/ShopLC_800x800.png" group-title="USA Regional | 21117",36.8 WMDEDT8 Shop LC
+https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd?CatOTA21117&NationalWebstream
+#EXTINF:-1 tvg-id="I60.5.83587.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNTMwOTg1MDNf/DefyTV_864x864.png" group-title="USA Regional | 21117" ,60.5 WWPXDT5 Defy TV
+https://scripps-defy-1-us.vizio.wurl.tv/playlist.m3u8?CatOTA21117&VizioWebstream
+#EXTINF:-1 tvg-id="I60.6.92077.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNTMwOTg0OTFf/TrueReal_864x864.png" group-title="USA Regional | 21117",60.6 WWPXDT6 True Real
+https://scripps-truereal-1-us.vizio.wurl.tv/playlist.m3u8?CatOTA21117&VizioWebstream
+#EXTINF:-1 tvg-id="I54.4.106712.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMzMxNTM1NjRf/Stadium.png" group-title="USA Regional | 21117",54.4 WNUVDT4 Stadium
+https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/8036529875f74c81b5f50851bffbc421/playlist_ssaiM.m3u8?CatOTA21117&NationalWebstream
+#EXTINF:-1 tvg-id="I66.7.121360.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNDQ5ODEwNzlf/Newsy_359x359.png" group-title="USA Regional | 21117",66.7 WPXWDT7 Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb&CatOTA21117&NationalWebstream
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="USA Regional | 21117",ðŸ“º BONUS CHANNELS ðŸ“º
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ota21117D
+#EXTINF:-1 tvg-id="" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMzMyNDIzNjZf/CBSNews.png" group-title="USA Regional | 21117",CBS News | CBSN Baltimore
+https://dai.google.com/linear/hls/event/TMUt418sQMeu1QtneYJ9ag/master.m3u8?CatOTA21117
+#EXTINF:-1 tvg-id="" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMzMyNDIzNjZf/CBSNews.png" group-title="USA Regional | 21117",CBS News | CBSN National
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8?CatOTA21117&NationalWebstream
+#EXTINF:-1 channel-id="stirr-dco" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjY0NDYwOTdf/Stirr_Blue_510x510.png" group-title="USA Regional | 21117",STIRR | Batimore *
+https://dai.google.com/linear/hls/event/jCNW8TtPRe6lnJMMVBZWVA/master.m3u8?CatOTA21117&StirrLocalWebstream
+#EXTINF:-1 channel-id="stirr-dco" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjY0NDYwOTdf/Stirr_Blue_510x510.png" group-title="USA Regional | 21117",STIRR | National
+https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8?CatOTA21117&StirrNationalWebstream
+#EXTINF:-1 channel-id="" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="USA Regional | 21117",Local Now | Baltimore *
+https://localnowbaltimore-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_618546923a6d1935e54d3052_localnowbaltimore-live/playlist.m3u8?CatOTA21117&LocalWebstream
+#EXTINF:-1 channel-id="" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNTgzOTkwMzdf/VeryLocal_655x655.png" group-title="USA Regional | 21117",Very Baltimore by WBAL-TV *
+https://lnc-wbal.tubi.video/playlist.m3u8?CatOTA21117&TubiWebstream
+#EXTINF:-1 tvg-id="" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNTgyNTk3MDJf/Arirang_200x200.png" group-title="USA Regional | 21117",Arirang Radio (TV stream) *
+https://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8?CatOTA21117&NationalWebstream
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4Mzc0OThf/NPR_256x256.png" group-title="USA Regional | 21117",ðŸŽ¶ NPR | Baltimore ðŸŽ¶
+https://od.lk/s/MF8yMjI5MDcxMDNf/NPR_Wallpaper_1280x720.mp4?CatOTA21117
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4Mzc0OThf/NPR_256x256.png" group-title="USA Regional | 21117" radio="true",WYPR 88.1 FM Baltimore *
+https://playerservices.streamtheworld.com/api/livestream-redirect/WYPR_HD1.mp3?uuid=riyh77w5q&CatOTA21117
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4Mzc0OThf/NPR_256x256.png" group-title="USA Regional | 21117" radio="true",WYPR Presents BBC *
+https://playerservices.streamtheworld.com/api/livestream-redirect/WYPR_HD2.mp3?uuid=riyh77w5q&CatOTA21117
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4Mzc0OThf/NPR_256x256.png" group-title="USA Regional | 21117" radio="true",WYPR | All Classical *
+https://playerservices.streamtheworld.com/api/livestream-redirect/WYPR_HD3.mp3?uuid=riyh77w5q&CatOTA21117
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Canada",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Canada0
@@ -2441,48 +2458,60 @@ https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8?interna
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yMzIyMTI5OTdf/TV5Monde_820x820.png" group-title="International TV",France | TV5 Monde Info
 https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8?international
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Ambient TV",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Ambient TV + Radio",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Ambient0
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Ambient TV",** Category updated 9/15/21 **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Ambient TV + Radio",** Category updated 01/16/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Ambient1
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Ambient TV",** Ambient TV - Sound Optional! Great for office screens at home or for your business! **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Ambient TV + Radio",â˜…â˜… Sound Optional â˜…â˜… Great for office screens at home or for your business! â˜…â˜…
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Ambient2
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Ambient TV",** Bumblebee.tv **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Ambient TV + Radio",â˜…â˜… Bumblebee.tv â˜…â˜…
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Ambient3
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY5NDMyMDZf/BumblebeeTV_Generic.png" group-title="Ambient TV",LEGO Toons TV | HD
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY5NDMyMDZf/BumblebeeTV_Generic.png" group-title="Ambient TV + Radio",LEGO Toons TV | HD
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY5NDMyMDZf/BumblebeeTV_Generic.png" group-title="Ambient TV",Animals Live | HD
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY5NDMyMDZf/BumblebeeTV_Generic.png" group-title="Ambient TV + Radio",Animals Live | HD
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY5NDMyMDZf/BumblebeeTV_Generic.png" group-title="Ambient TV",Forests Live | HD
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY5NDMyMDZf/BumblebeeTV_Generic.png" group-title="Ambient TV + Radio",Forests Live | HD
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY5NDMyMDZf/BumblebeeTV_Generic.png" group-title="Ambient TV",Rivers & Streams Live | HD
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY5NDMyMDZf/BumblebeeTV_Generic.png" group-title="Ambient TV + Radio",Rivers & Streams Live | HD
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Ambient TV",** Webcams **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Ambient TV + Radio",â˜…â˜… Webcams â˜…â˜…
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?AmbientWebcams
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV",Cheetah Cub Cam | 1
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV + Radio",Cheetah Cub Cam | 1
 https://nzp-ms05.si.edu/live_edge_cheetah_01/cheetah_y01_01_1080_all.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV",Cheetah Cub Cam | 2
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV + Radio",Cheetah Cub Cam | 2
 https://nzp-ms06.si.edu/live_edge_cheetah_02/cheetah_y01_02_1080_all.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV",Naked Mole-rat Cam | 1
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV + Radio",Naked Mole-rat Cam | 1
 https://nzp-ms04.si.edu/live_edge_nmr/nmr_1080_all.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV",Naked Mole-rat Cam | 2
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV + Radio",Naked Mole-rat Cam | 2
 https://nzp-ms06.si.edu/live_edge_nmr_02/nmr_02_1080_all.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV",Lion Cam
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV + Radio",Lion Cam
 https://nzp-ms05.si.edu/live_edge_lion/smil:lion01_all.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV",Giant Panda Cam | 1
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV + Radio",Giant Panda Cam | 1
 https://nzp-ms06.si.edu/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV",Giant Panda Cam | 2
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV + Radio",Giant Panda Cam | 2
 https://nzp-ms06.si.edu/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV",Elephant Cam
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV + Radio",Elephant Cam
 https://nzp-ms06.si.edu/live_edge_elephant/elephant01_all.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDM5MTNf/Generic-Webcam.png" group-title="Ambient TV",Times Square Cam
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDM5MTNf/Generic-Webcam.png" group-title="Ambient TV + Radio",Times Square Cam
 https://videos3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist_w2120301051.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDM5MTNf/Generic-Webcam.png" group-title="Ambient TV",Niagara Falls WebCam
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDM5MTNf/Generic-Webcam.png" group-title="Ambient TV + Radio",Niagara Falls WebCam
 https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/4559/2019/08/11/1300.mp4/chunklist_w1595912559.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDM5MTNf/Generic-Webcam.png" group-title="Ambient TV",London UK Abbey Road WebCam
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDM5MTNf/Generic-Webcam.png" group-title="Ambient TV + Radio",London UK Abbey Road WebCam
 https://videos3.earthcam.com/fecnetwork/AbbeyRoadHD1.flv/chunklist_w1096421812.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDM5MTNf/Generic-Webcam.png" group-title="Ambient TV",Rio Copacabana Beach WebCam
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDM5MTNf/Generic-Webcam.png" group-title="Ambient TV + Radio",Rio Copacabana Beach WebCam
 https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/6593/2017/10/01/1300.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Ambient TV + Radio",ðŸŽ¶ Ambient Radio ðŸŽ¶
+https://od.lk/s/MF8yNDY3OTI1NTFf/OldRadio.mp4?AmbientRadio
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Ambient TV + Radio",ðŸŽ¶ Planet Ambi HD Radio - Music For Sleep & Meditation & Relaxation ðŸŽ¶ https://www.planetambi.com
+https://od.lk/s/MF8yNDY3OTI1NTFf/OldRadio.mp4?PlanetAmbi
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzQzMTY2ODhf/PlanetAmbi_Radio_512x512.png" group-title="Ambient TV + Radio" radio="true",Planet Ambi HD Radio
+http://philae.shoutca.st:9019/stream
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzQzMTY2ODhf/PlanetAmbi_Radio_512x512.png" group-title="Ambient TV + Radio" radio="true",Ambi Nature Radio (Sleep & Relaxation & Meditation)
+http://94.23.252.14:8067/stream
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Ambient TV + Radio",â˜…â˜… Video On Demand â˜…â˜…
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?AmbientVOD
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjQzMjIyNzhf/Generic-VOD.png" group-title="Ambient TV + Radio",VOD | Anytime Fireplace
+https://cloudfront.tubi.video/5070a3d2-0be3-4f38-a440-7385d3821aef/u1xvps5h/stream.m3u8?AmbientVOD
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Stingray Music",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Stingray0
@@ -2807,9 +2836,9 @@ https://ice55.securenetsystems.net/DASH25
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Free Live Radio",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?FreeRadioCat0
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Free Live Radio",** Category updated 9/12/21 **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Free Live Radio",** Category updated 1/14/22 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?FreeRadioCat1
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Free Live Radio",** Free News Radio **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Free Live Radio",ðŸŽ¶ Free News Radio ðŸŽ¶
 https://od.lk/s/MF8yNDY3OTI1NTFf/OldRadio.mp4?RadioNews
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY3OTI2ODVf/TuneIn_380x380.png" group-title="Free Live Radio" radio="true",TuneIn News | MSNBC (Audio)
 https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v2/newsfree/msnbcfree/master.m3u8
@@ -2823,12 +2852,14 @@ http://tunein.streamguys1.com/bloomberg991
 https://stream.revma.ihrhls.com/zc6043/hls.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY3OTI5MDNf/ShoutCast_225x225.png" group-title="Free Live Radio" radio="true",ShoutCast | Fox News Radio
 https://streaming-ent.shoutcast.com/foxnews
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Free Live Radio",** Free Live Radio Mix **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Free Live Radio",ðŸŽ¶ Free Live Radio Mix ðŸŽ¶
 https://od.lk/s/MF8yNDY3OTI1NTFf/OldRadio.mp4?RadioGeneral
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY3OTI2ODVf/TuneIn_380x380.png" group-title="Free Live Radio" radio="true",TuneIn Classic Hits
 http://rfcmedia.streamguys1.com/classichits.mp3
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY3OTI2ODVf/TuneIn_380x380.png" group-title="Free Live Radio" radio="true",TuneIn | MeTV FM WXZO
 http://crystalout.surfernetwork.com:8001/WXZO_MP3
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNTgwNTEzNDZf/Radio_ZRock103_190x190.png" group-title="Free Live Radio" radio="true",Z-Rock 103 FM Lexington KY
+https://playerservices.streamtheworld.com/api/livestream-redirect/WXZZFM.mp3
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY3OTI1ODBf/Radio.png" group-title="Free Live Radio" radio="true",WRVO-1 Public Media NPR News
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRVOFM.mp3?uuid=ikd85nml
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY3OTI1ODBf/Radio.png" group-title="Free Live Radio" radio="true",WRVO-2 PRX Remix
@@ -2839,13 +2870,21 @@ https://16813.live.streamtheworld.com/WRVOHD3.mp3?uuid=ikd85nml
 http://wamu-1.streamguys.com/wamu-1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY3OTI1ODBf/Radio.png" group-title="Free Live Radio" radio="true",WGN Radio 720
 https://v7player.wostreaming.net/3614
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Free Live Radio",** Live Radio | Canada **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Free Live Radio",ðŸŽ¶ Live Radio | Canada ðŸŽ¶
 https://od.lk/s/MF8yNDY3OTI1NTFf/OldRadio.mp4?RadioLocalCA
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY3OTMxMThf/TSNRadio_625x625.png" group-title="Free Live Radio" radio="true",TSN Radio 690 Montreal
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKGMAM.mp3
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY3OTI1ODBf/Radio.png" group-title="Free Live Radio" radio="true",CHOM-FM Montreal
 https://playerservices.streamtheworld.com/api/livestream-redirect/CHOMFM.mp3
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Free Live Radio",** Novelty & Old Time Radio **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Free Live Radio",ðŸŽ¶ Cult Radio-A-Go-Go ðŸŽ¶ http://cultradioagogo.com ðŸŽ¶ Officially licensed to the Free2View TV Project! ðŸŽ¶
+https://od.lk/s/MF8yNDY3OTI1NTFf/OldRadio.mp4?CRAGG
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNTc5MzkxMzVf/CRAGG_290x290.png" group-title="Free Live Radio" radio="true",CRAGG: Cult Radio-A-Go-Go
+http://s10.voscast.com:8502/;stream1618316024104/1
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNTc5MzkxMzdf/CRAGG_HR_290x290.png" group-title="Free Live Radio" radio="true",Horror & Halloween Radio
+http://s2.voscast.com:11034/;stream1618316135542/1
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNTc5MzkxNjlf/CRAGG_Xmas_512x512.png" group-title="Free Live Radio" radio="true",Christmas At The Drive-In!
+http://s3.voscast.com:9774/stream
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Free Live Radio",ðŸŽ¶ Novelty & Old Time Radio ðŸŽ¶
 https://od.lk/s/MF8yNDY3OTI1NTFf/OldRadio.mp4?RadioOTR
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY4MDc3NDNf/OldTimeRadio.png" group-title="Free Live Radio" radio="true",OTR Antioch OTR
 https://s6.yesstreaming.net:18000/listen
