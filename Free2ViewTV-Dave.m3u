@@ -2253,7 +2253,7 @@ https://rcavlive.akamaized.net/hls/live/704022/cancblft/master_2500.m3u8?Canada
 https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_2500.m3u8?Canada
 #EXTINF:-1 tvg-id="I152.15747.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CanalSavoir_363x363.png?raw=true" group-title="DD - Quebec TV",Canal Savoir CFTU ICIQC
 https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 tvg-id="I734.58759.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDU0MDY2MDZf/TVA_540x540.png" group-title="DD - Quebec TV",TVA (Alternate)
+#EXTINF:-1 tvg-id="I94.16378.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDU0MDY2MDZf/TVA_540x540.png" group-title="DD - Quebec TV",TVA (Alternate)
 https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8
 #EXTINF:-1 tvg-id="I734.58759.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDU0MDY2MDZf/TVA_540x540.png" group-title="Canada",TVA (Geo-CA) (Sc.1B)
 https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8?__nn__=5529128749001&hdnea=st=1640215800~exp=1640219400~acl=/*~hmac=22c8e0acd9da195a856e6294006b41985438cd85f8de6123d7dacd616670bd02
