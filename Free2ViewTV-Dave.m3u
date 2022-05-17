@@ -170,6 +170,20 @@
 # PLANNED: Planned additions include: https://geb.tv - https://www.ntd.com/live.html - https://www.jaybirdtv.com/live-stations
 # PLANNED: Planned additions include: https://www.dancetv.net/
 # PROJECT UPDATE: Updating Free2View TV Select for Roku apps, re-organizing channels in this list to better match line-up in apps.
+# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated for Early May 2022 ** !! See chronology of changes below...
+# 05/05/22 - NEW CHANNEL: 'Alter' added, available through the DUST app and Samsung TV Plus. https://www.watchdust.tv/LIVE%20TV
+# 05/08/22 - UPDATED: Some streams have been updated in the "Samsung TV Plus" category. Some new channels added.
+# 05/10/22 - UPDATED: Cleaned up some streams and added Generic EPG data to "Ambient TV + Radio" category.
+# 05/12/22 - MAINTENANCE: Several streams in the Samsung / Sci-Fi subcategory have been updated.
+# 05/13/22 - UPDATED / MAINTENANCE: "Adults Only | 18+" category: Streams are being updated. Some VOD retired, new VOD coming soon.
+# 05/14/22 - MAINTENANCE: Fixed all the broken ðŸ ICI TÃ©lÃ© Canada (Geo-CA) ðŸ streams in "CBC TV | ICI TÃ©lÃ© (Geo-CA)".
+# 05/15/22 - CATEGORY UPDATE: Duplicated additional channels with category specific EPG in "USA Regional | 32789" group. 
+# 05/15/22 - CHANNEL MAINTENANCE: Updated stream and mapped EPG for EPlusTV 6 | Jackson TN, "USA Free TV" (courtesy of @DeltaSR).
+# 05/15/22 - CHANNEL MAINTENANCE: Mapped new EPG to WATC-57 Atlanta / WATC-57 Too | Classic TV, "USA Free TV" (courtesy of @DeltaSR).
+# 05/15/22 - MAINTENANCE / NEW: Re-organized and added new channels to new sub-group ðŸ“º PBS Stations ðŸ“º ("USA Free TV").
+# 05/15/22 - CHANNEL MAINTENANCE: Mapped new EPG to ðŸ Rogers TV ðŸ ("Canada") (courtesy of @DeltaSR).
+# 05/16/22 - NEW CHANNEL: Shout! Cult added to "Entertainment",â˜…â˜… Shout! Factory TV â˜…â˜… https://shoutfactorytvlive.com/shout-cult
+# 05/16/22 - NEW CHANNEL: Kino Cult added to Plex, Entertainment webstreams sub-category - https://www.kinocult.com
 #
 # ************************************************************************************************************************************* 
 
@@ -216,7 +230,7 @@ https://od.lk/s/MF8yMjk4MTkzOTJf/F2VTV_BuyMeACoffee_v4.mp4?BMC2
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDA3OTIxOTdf/BuyMeACoffee_400x400.png" group-title="Info | Free2View TV",** Support Our Collaborator: @MattHuisman Donate: https://www.matthuisman.nz/p/donate.html
 https://od.lk/s/MF8yMjk4MTkzOTJf/F2VTV_BuyMeACoffee_v4.mp4?BMC3
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Samsung TV Plus",** Category updated 10/29/21 **
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Samsung TV Plus",** Category updated 5/08/22 **
 https://od.lk/s/MF8yMzk5NTY0Mjlf/SamsungTVPlus.mp4?SSInfo1
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Samsung TV Plus",** Credits: @MattHuisman | Adapted by: @geonsey Free2View TV **
 https://od.lk/s/MF8yMzk5NTY0Mjlf/SamsungTVPlus.mp4?SSInfo2
@@ -244,16 +258,12 @@ https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
 https://yahoo-samsung.amagi.tv/hls/amagi_hls_data_yahoofina-samsungyahoofinance/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="USBB1500001GD" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/40/USBB1500001GD_20210622T090612.png" group-title="Samsung TV Plus",US | USA Today
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/usatoday-usatodaynews-samsungus/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.us_privacy%3D1YNY%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
-#EXTINF:-1 tvg-id="USBA340000107" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/66/USBA340000107_20210512T004108.png" group-title="Samsung TV Plus",US | BNC GO
-https://didoc69s3kqdd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BlackNewsChannel2-prod/playlist.m3u8?ads.device_did%3D%7BPSID%7D%26ads.device_dnt%3D%7BTARGETOPT%7D%26ads.us_privacy%3D1YNY%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="USBA300028QU" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/90/USBA300028QU_20210622T090622.png" group-title="Samsung TV Plus",US | Newsmax TV
 https://newsmax-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="USBB1900002KF" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/35/USBB1900002KF_20210525T051433.png" group-title="Samsung TV Plus",US | Real America's Voice
 https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8?ads.device_did%3D%7BPSID%7D%26ads.device_dnt%3D%7BTARGETOPT%7D%26ads.us_privacy%3D1YNY%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="USBA30002142" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/03/USBA3000214220200730102745.png" group-title="Samsung TV Plus",US | TYT Network
 https://tyt-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="USAK3508713A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/39/USAK3508713A20200730102745.png" group-title="Samsung TV Plus",US | WeatherNation
-https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CAAJ1700003Q6" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/40/CAAJ1700003Q6_20210525T053227.png" group-title="Samsung TV Plus",CA | CBC NEWS
 https://dai2.xumo.com/xumocdn/p=samsung/amagi_hls_data_xumo1212A-cbcnews/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="CAAJ17000040F" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/36/CAAJ17000040F_20210525T053230.png" group-title="Samsung TV Plus",CA | Radio-Canada.ca
@@ -318,8 +328,6 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_filmriseaction_001.m3u8?ads.caid%3DFilmriseAction%26ads.csid%3Dsamsungtvplus_us_filmriseaction_ssai%26ads.xumo_platform%3Dsamsung%26ads._fw_is_lat%3D%7BTARGETOPT%7D%26ads._fw_us_privacy%3D1YNY%26ads._fw_coppa%3D0%26ads._fw_did%3D%7BPSID%7D%26ads._fw_content_category%3DIAB1-5%26ads._fw_content_genre%3Dmovies%26ads._fw_content_language%3Den%26ads._fw_content_rating%3Dpg-13%26ads._fw_deviceMake%3Dsamsung%26ads._fw_gdpr%3D0%26ads.appName%3D%7BAPP_NAME%7D%26ads.xumo_contentId%3D260%26ads.xumo_contentName%3DFilmRise%26ads.xumo_providerId%3D260%26ads.xumo_providerName%3DFilmRise%26ads.xumo_channelId%3D9999520%26ads.xumo_adsystem%3Dmediatailor%26ads.tpcl%3DMIDROLL%26ads._fw_app_store_url%3D%7BAPP_DOMAIN%7D
 #EXTINF:-1 tvg-id="USAJ3000007MT" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/02/USAJ3000007MT20200730102745.png" group-title="Samsung TV Plus",US | Maverick Black Cinema
 https://maverick-maverick-black-cinema-1-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="USAK3508721A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/18/USAK3508721A20200730102745.png" group-title="Samsung TV Plus",US | Movie Mix
-https://moviemix-samsung-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="USAJ3504703A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/18/USAJ3504703A20200730102745.png" group-title="Samsung TV Plus",US | Gravitas Movies
 https://gravitas-movies-samsung-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="USAJ34000175A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/03/USAJ34000175A_20210323T125703.png" group-title="Samsung TV Plus",US | The Preview Channel
@@ -348,12 +356,14 @@ https://d3ify425qsio2d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_theasylum_001.m3u8?ads.caid=TheAsylum&ads.csid=samsungtvplus_us_theasylum_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=pg-13&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=275&ads.xumo_contentName=TheAsylum&ads.xumo_providerId=275&ads.xumo_providerName=TheAsylum&ads.xumo_channelId=9999532&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 #EXTINF:-1 tvg-id="CAAJ1700002PA" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/20/CAAJ1700002PA_20200819T020408.png" group-title="Samsung TV Plus",CA | The Asylum
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_theasylum_001.m3u8?ads.caid=TheAsylum&ads.csid=samsungtvplus_ca_theasylum_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en%2Cfr-CA%2Cfr&ads._fw_content_rating=pg-13&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=275&ads.xumo_contentName=TheAsylum&ads.xumo_providerId=275&ads.xumo_providerName=TheAsylum&ads.xumo_channelId=9991532&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
-#EXTINF:-1 tvg-id="USAJ3504713A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/61/USAJ3504713A_20210525T051718.png" group-title="Samsung TV Plus",US | DUST
-https://949e5cd19c404c0c86d71055faf37a0a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Dust/playlist.m3u8?ads.wurl_channel=149&ads.wurl_name=DUST&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="USBC100000630" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/61/USAJ3504713A_20210525T051718.png" group-title="Samsung TV Plus",US | DUST
+https://dmnrfk13mvw0g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fn3k0b4vpit0u-prod/amgdust/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="GBBA3300051KI" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/18/GBBA3300051KI_20210414T024433.png" group-title="Samsung TV Plus",UK | DUST
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/gunpowder-dust-int-samsung-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="CAAJ2700024HE" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/09/CAAJ2700024HE_20210525T053341.png" group-title="Samsung TV Plus",CA | DUST
-https://29955703caa546ac80a889f3df2317f0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_Dust/playlist.m3u8?ads.wurl_channel=252&ads.wurl_name=Dust&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="CABB2500027G8" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/51/CABB2500027G8_20220427T054106.png" group-title="Samsung TV Plus",CA | DUST
+https://d2yinr40pnztt5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c47047c65gdy2-prod/amgdustintl/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="USBC100001175" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/48/USBC100001175_20220427T060331.png" group-title="Samsung TV Plus",US | ALTER
+https://d2a5daycfw06m9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4tpex1gnbjekk-prod/amg-gunpowder-alter/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="CABA800009T5" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/44/CABA800009T5_20210525T053241.png" group-title="Samsung TV Plus",CA | Haunt TV
 https://blueantmediacanada-haunttv-samsungca.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="USAJ3000011S4" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/01/USAJ3000011S4_20210525T051716.png" group-title="Samsung TV Plus",US | Midnight Pulp
@@ -372,8 +382,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f77939a630f530007dde6
 https://od.lk/s/MF8yMzk5NTY0Mjlf/SamsungTVPlus.mp4?SSGameShows
 #EXTINF:-1 tvg-id="USBA300030Q8" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/74/USBA300030Q8_20210609T003452.png" group-title="Samsung TV Plus",US | BUZZR
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-buzzr-samsungtv-us/playlist.m3u8
-#EXTINF:-1 tvg-id="USAJ3504712A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/75/USAJ3504712A_20210525T051620.png" group-title="Samsung TV Plus",US | Deal or No Deal
-https://endemol-dealornodeal-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="USAJ3400012FA" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/49/USAJ3400012FA_20220330T044958.png" group-title="Samsung TV Plus",US | Game Show Central
+https://855649d1dca1413dad89e627e1727d97.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_GameShowCentral/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=416&ads.wurl_name=GameShowCentral&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="USBB4400017N3" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/USBB4400017N3_20220330T045122.png" group-title="Samsung TV Plus",US | Deal or No Deal
+https://d3sjlbn3svig82.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6ormhjn52nmh8-prod/amgdealornodeal/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Samsung TV Plus",â˜…â˜… Law + Crime â˜…â˜…
 https://od.lk/s/MF8yMzk5NTY0Mjlf/SamsungTVPlus.mp4?Crime
 #EXTINF:-1 tvg-id="USAK3508703A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/94/USAK3508703A_20210609T003434.png" group-title="Samsung TV Plus",US | Crime 360
@@ -410,8 +422,6 @@ https://tastemade-gb.samsung.wurl.com/playlist.m3u8
 https://dai2.xumo.com/xumocdn/p=samsung/amagi_hls_data_xumo1212A-samsungtvplusamericastestkitchen/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="USBB1000002TK" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/96/USBB1000002TK_20210525T051501.png" group-title="Samsung TV Plus",US | Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8?ads.device_did%3D%7BPSID%7D%26ads.device_dnt%3D%7BTARGETOPT%7D%26ads.us_privacy%3D1YNY%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="USBA3800004EL" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/10/USBA3800004EL_20211230T073056.png" group-title="Samsung TV Plus",US | Fireplace 4K
-https://d83tn4bh2lria.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-af0ty8yffo1e1-prod/amgfireplace4k/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Samsung TV Plus",â˜…â˜… Science + Nature â˜…â˜…
 https://od.lk/s/MF8yMzk5NTY0Mjlf/SamsungTVPlus.mp4?SSNature
 #EXTINF:-1 tvg-id="USBA3400003IP" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/81/USBA3400003IP_20210525T051505.png" group-title="Samsung TV Plus",US | Love Nature 4K
@@ -426,8 +436,8 @@ https://stingray-naturescape-1-ca.samsung.wurl.tv/playlist.m3u8
 https://dai2.xumo.com/xumocdn/p=samsung/amagi_hls_data_xumo1212A-escapes/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Samsung TV Plus",â˜…â˜… Sports + Outdoor â˜…â˜…
 https://od.lk/s/MF8yMzk5NTY0Mjlf/SamsungTVPlus.mp4?SSSports
-#EXTINF:-1 tvg-id="USAK3508718A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/55/USAK3508718A_20210525T051638.png" group-title="Samsung TV Plus",US | Waypoint TV
-https://waypointtv-samsung-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="USBB440002055" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/53/USBB440002055_20220330T044855.png" group-title="Samsung TV Plus",US | Waypoint TV
+https://dtuwkq1klcmpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9kmc8jgz00x8a-prod/amgwaypointtv/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="USAJ2200012RN" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/57/USAJ2200012RN_20210525T051639.png" group-title="Samsung TV Plus",US | Pursuit Up
 https://pursuitup2.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="USAJ3504718A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/91/USAJ3504718A_20210525T051642.png" group-title="Samsung TV Plus",US | World Poker Tour
@@ -656,7 +666,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bd8282253ed2c6334ea10
 #EXTINF:-1 tvg-id="5bd832fd1843b56328bac0c7" tvg-logo="https://od.lk/s/MF8yNTE0NjkwNThf/PlutoTV_Xmas_540x540.png" group-title="Pluto TV",UK | Holiday Lights
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bd832fd1843b56328bac0c7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="STIRR TV",** Category updated 3/12/22 **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="STIRR TV",** Category updated 5/07/22 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Stirr1
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="STIRR TV",** Credits: @MattHuisman | Adapted by: @geonsey Free2View TV **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Stirr1A
@@ -706,8 +716,6 @@ https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
 https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
 #EXTINF:-1 tvg-id="externallinearfeed-01-27-2020-01-27-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/fe91d8c6-3ff8-4480-815d-bb8d93ced667-large16x9_STIRR_0721_EPG_CineLife_1920x1080.png?1625778769097?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR TV",STIRR | CineLife
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
-#EXTINF:-1 tvg-id="news-247" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/02889db0-829d-4fd8-bde0-52ab2fcc38e6-large16x9_STIRR_0721_EPG_News247_1920x1080.png?1625853507243?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR TV",STIRR | News 24/7
-https://dai.google.com/linear/hls/event/8hUeiLMpTm-YNqk7kadUwA/master.m3u8
 #EXTINF:-1 tvg-id="externallinearfeed-07-02-2020-07-02-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/dcdac100-05f3-4c95-9e97-2cf86d3b069f-large16x9_STIRR_0721_EPG_Cinehouse_1920x1080.png?1625778767229?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR TV",STIRR | Cinehouse
 https://dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8
 #EXTINF:-1 tvg-id="externallinearfeed-05-20-2019-05-20-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/d9376bcb-fc85-4ca3-a982-1896336454f1-large16x9_STIRR_0721_EPG_Docurama_1920x1080.png?1625778766661?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR TV",STIRR | Docurama
@@ -774,8 +782,10 @@ https://dai.google.com/linear/hls/event/dKG_ZFd_S82FPgNxHmhdJw/master.m3u8
 https://dai.google.com/linear/hls/event/9cq79TtPR6WbyaQGeDlHjA/master.m3u8
 #EXTINF:-1 tvg-id="externallinearfeed-06-25-2020-213812110-06-25-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/f4c42287-6080-4f57-8bbc-f226a494fb3a-large16x9_STIRR_0721_EPG_WipeoutXtra_1920x1080.png?1625778768288?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR TV",STIRR | Wipeout Xtra
 https://dai.google.com/linear/hls/event/0DG8p66IRES7ZzEe1WJS-w/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-06-29-2020-06-29-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/90d6e620-a4d4-4381-8a7e-2feb51b957fb-large16x9_STIRR_0721_EPG_Dust_1920x1080.png?1625778767059?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR TV",STIRR | DUST (Geo-USA)
+#EXTINF:-1 tvg-id="externallinearfeed-06-29-2020-06-29-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/a698b4f4-44d7-4078-bc3d-e42611772e21-large16x9_STIRR_Logo_0322_Dust_1920x1080_EPG.png?1647468111582?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR TV",STIRR | DUST (Geo-USA)
 https://dust-stirr.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-03-24-2022-03-24-2022" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/15e357a7-632c-454c-a21f-8fa58878991b-large16x9_STIRR_Logo_0322_ALTER_1920x1080_EPG2ALTERFINAL.png?1648117751854?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR TV",STIRR | Alter
+https://dai.google.com/linear/hls/event/m8v8NmeOSAGo1rZqjCpdtA/master.m3u8
 #EXTINF:-1 tvg-id="externallinearfeed-03-20-2020-03-20-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/81d5ab63-70d0-4b91-ab96-a7858b7d78ff-large16x9_STIRR_0721_EPG_MysteryScienceTheater3000_1920x1080.png?1625778767844?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR TV",STIRR | Mystery Science Theater 3000
 https://dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8
 #EXTINF:-1 tvg-id="externallinearfeed-01-28-2021-210659535-01-28-2021" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/947c21dd-ce6d-445e-b9b6-f6fab3e328b0-large16x9_STIRR_0721_EPG_CONtv_1920x1080.png?1625778766516?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR TV",STIRR | CONtv
@@ -885,7 +895,7 @@ https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
 #EXTINF:-1 tvg-id="externallinearfeed-12-11-2019-12-11-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/85c97778-93cf-470f-89cd-044fc0be979c-large16x9_STIRR_0721_EPG_StingrayKaraoke_1920x1080.png?1625778768019?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR TV",STIRR | Karaoke
 https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Plex Live TV",** Category updated 3/05/22 **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Plex Live TV",** Category updated 5/16/22 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?plex1
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Plex Live TV",** Credits: @MattHuisman | Adapted by: @geonsey Free2View TV **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Plex2
@@ -919,12 +929,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-chickensoup-pl
 https://bec-besttvever-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Plex Live TV",â˜…â˜… Entertainment â˜…â˜…
 https://od.lk/s/MF8yNDkxMDIyMThf/PlexLiveTV_Ad_1080p.mp4?plexEntertainment
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170d61b898490041b49360" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/electric-now.png" group-title="Plex Live TV",US | Electric Now
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=70&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=ozAKtoCFFGXy8zeWWsRA&content_series=5f170d61b898490041b49360&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=ozAKtoCFFGXy8zeWWsRA&custom_7=5f170d61b898490041b49360
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61fb10e8fe90430654c57530" tvg-logo="https://provider-static.plex.tv/epg/cms/production/306ca006-6c4b-494f-8e31-6495c301d79a/mobtv_logo_dark_-_Steve_Marshall.png" group-title="Plex Live TV",US | MOB TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61fb10e8fe90430654c57530.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=ozAKtoCFFGXy8zeWWsRA
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6210282878166b2b2b8dadd5" tvg-logo="https://provider-static.plex.tv/epg/cms/staging/6b408530-1f39-4cac-83a7-c400a06735e4/Kino_Cult_1920x1080-01_-_Chase_Menaker.png" group-title="Plex Live TV",US | Kino Cult
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6210282878166b2b2b8dadd5.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=ozAKtoCFFGXy8zeWWsRA
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621674502c2627c068e73ada" tvg-logo="https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png" group-title="Plex Live TV",US | FrightFlix
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621674502c2627c068e73ada.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=ozAKtoCFFGXy8zeWWsRA
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621672612c2627c068e73ad6" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ee175dfe-6f79-415e-a3c1-ce6a9ec831c2/Watchitkid_logo_dark.png" group-title="Plex Live TV",US | Watch it Kid
@@ -933,6 +939,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621672612c26
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621671d05abdd3d5556a1baf.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=ozAKtoCFFGXy8zeWWsRA
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Plex Live TV",â˜…â˜… Movies â˜…â˜…
 https://od.lk/s/MF8yNDkxMDIyMThf/PlexLiveTV_Ad_1080p.mp4?plexmovies
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170d61b898490041b49360" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/electric-now.png" group-title="Plex Live TV",US | Electric Now
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=70&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=ozAKtoCFFGXy8zeWWsRA&content_series=5f170d61b898490041b49360&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=ozAKtoCFFGXy8zeWWsRA&custom_7=5f170d61b898490041b49360
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a3" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/the-film-detective.png" group-title="Plex Live TV",US | The Film Detective
 https://filmdetective-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-filmdetective-plex/CDN/master.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=cxqV12Mp49Tp6JXshCdM&channelId=5eea605674085f0040ddc7a3
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c9241d310bf925e02616" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ed5c5b33-49e7-4a62-a7b0-d58f3e314e40/lonestar_logo_light.png" group-title="Plex Live TV",US | Lone Star Network
@@ -943,6 +951,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00434-tricoasttvllc-darkmatter-plex
 https://2953c6ed7ab54067823fe467ad9ed80f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_DiscoverFilm/playlist.m3u8?ads.wurl_channel=1009&ads.wurl_name=DiscoverFilm&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=VeRRLspvSX7Z8bzwMLKr&ads.plex_id=618198fe4e1b6764011b046a&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/24hrfreemovies_logo_dark.png" group-title="Plex Live TV",US | 24 Hour Free Movies
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8?ads.plex_token=mHLguq7KAeUAboPmP8KS&ads.channel_id=5fd115bab7ef8d002dcf181d&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6210282878166b2b2b8dadd5" tvg-logo="https://provider-static.plex.tv/epg/cms/staging/6b408530-1f39-4cac-83a7-c400a06735e4/Kino_Cult_1920x1080-01_-_Chase_Menaker.png" group-title="Plex Live TV",US | Kino Cult
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6210282878166b2b2b8dadd5.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=2DxBDs2NP1Rsc2DD3H3R
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60a9d104d162b9002d05a60a" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Cinehouse_logo_dark.png" group-title="Plex Live TV",US | Cinehouse
 https://digitalmediarights-cinehouse-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132e162fe160040f26bdb" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/spi_filmstream_1.png" group-title="Plex Live TV",US | FilmStream
@@ -2677,7 +2687,7 @@ https://rpn1.bozztv.com/36bay2/gusa-tvsfrontpagedetective/index.m3u8
 #EXTINF:-1 tvg-id="watchyourtv_EPGTVS Vintage Network" tvg-name="TVS Vintage Network" tvg-logo="https://www.watchyour.tv/img/epgdefault.png" group-title="WatchYour.TV",TVS Vintage Network
 https://rpn1.bozztv.com/36bay2/gusa-tvsvintage/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Entertainment",** Category updated 4/25/22 **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Entertainment",** Category updated 5/16/22 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?entertainment1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Entertainment",** This category uses various EPG sources. Be sure to review the EPG source URL's indicated in the 'Info | Free2View TV' category for the most up to date information. ALSO PLEASE NOTE: Not all channels have EPG data. **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?entertainment2
@@ -2685,8 +2695,10 @@ https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?entertainment2
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?entertainment4SFTV
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141127" tvg-logo="https://od.lk/s/MF8yMjQwMDg4ODBf/ShoutFactoryTV_310x310.png" group-title="Entertainment",Shout! Factory TV | Web
 https://shoutfactory-shoutfactory-zype.amagi.tv/playlist.m3u8?l1br3&date0127&Webstream&PlexEPG
-#EXTINF:-1 #EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjQ4OTgwMThf/ScreamFactoryTV_440x440.png" group-title="Entertainment",Scream! Factory TV | Web
+#EXTINF:-1 #EXTINF:-1 tvg-id="ScreamFactoryTV" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjQ4OTgwMThf/ScreamFactoryTV_440x440.png" group-title="Entertainment",Scream! Factory TV | Web
 https://shoutfactory-screamfactorytv-1-us.ono.wurl.tv/playlist.m3u8?l1br3&date0415&Webstream&NoEPG
+#EXTINF:-1 #EXTINF:-1 tvg-id="ShoutCult" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjc0MTAyMzRf/ShoutCult_800x800.png" group-title="Entertainment",Shout! Cult | Webstream
+https://shoutfactory-shoutcult-1-us.ono.wurl.tv/playlist.m3u8?l1br3&date0516&Webstream&NoEPG
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4eddbb2fdec002c141133" tvg-logo="https://od.lk/s/MF8yNDU4NzU2Mzlf/MST3K_400x400.png" group-title="Entertainment",MST3K | Web
 https://mst3k-ts-zype.amagi.tv/playlist.m3u8?l1br3&date0127&Webstream&PlexEPG
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c141129" tvg-logo="https://od.lk/s/MF8yNDU4NzU5MTlf/Tokushoutsu_400x400.png" group-title="Entertainment",TokuSHOUTsu | Web
@@ -2695,6 +2707,20 @@ https://tokushoutsu-zype.amagi.tv/playlist.m3u8?l1br3&date0127&Webstream&PlexEPG
 https://johnnycarson-zype.amagi.tv/playlist.m3u8?l1br3&date0127&Webstream&PlexEPG
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141125" tvg-logo="https://od.lk/s/MF8yNDU4Nzk1NDNf/TheCarolBurnettShow.png" group-title="Entertainment",The Carol Burnett Show | Web
 https://thecarolburnettshow-zype.amagi.tv/playlist.m3u8?l1br3&date0127&Webstream&PlexEPG
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Entertainment",â˜…â˜… Webstreams â˜…â˜…
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?webstreams1
+#EXTINF:-1 tvg-id="externallinearfeed-10-21-2019-10-21-2019" tvg-logo="https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png" group-title="Entertainment",Electric Now | Webstream
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=53&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=75d1fa20f696cde33a9013081fda46ae&app_bundle=com.electric.now&app_store_url=https%3A%2F%2Fwww.electricnow.tv%2Fdevices&app_domain=electricnow.tv&app_name=electricnow&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=electricnow&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&gender=not_specified&yob=0&livestream=1&timestamp=1630354325&id=430&ip=2001%3A67c%3A2628%3A647%3A12%3A%3A1c&override_expiration=1500&sign=Eck49xZ6yrE0fSd3rvIBYwSGibRFaPhf4nU9WlYnPbg%3D
+#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM5NTU2NjFf/TheAsylum_NEW_939x939.png" group-title="Entertainment",The Asylum | Roku
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8?p=roku&rdid=1aa03a15-4008-5767-8921-b8ac8e49896e&coppa=0&is_lat=1&is_roku_lat=1&content_type=livefeed&content=b8365f49b64452ab88699c1d1fefd973&genre=special&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID&bmodel=bm1&studio_id=asylum&channelStore=us&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="USBC100000630" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjY1MjgxNDhf/DustSciFi_700x700.png" group-title="Entertainment",DUST Sci-Fi | Web (Geo-USA)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/gunpowder-dust-brightcove/playlist.m3u8?did=REPLACEME&us_privacy=REPLACEME&schain=REPLACEME
+#EXTINF:-1 tvg-id="USBC100001175" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjY1MjgxNTFf/AlterHorror_700x700.png" group-title="Entertainment",ALTER Horror | Webstream
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-alter-ono/playlist.m3u8?did=REPLACEME&us_privacy=REPLACEME&schain=REPLACEME
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6210282878166b2b2b8dadd5" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjc0MTA5NjRf/KinoCult_512x512.png" group-title="Entertainment",Kino Cult | Webstream
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2048&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=f5eda336b43c9773462ab85dfbad57ec&app_bundle=com.giant.kinocult&app_store_url=https%3A%2F%2Fwww.kinocult.com%2Fdevices&app_domain=kinocult.com&app_name=kinocult&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=kinocult&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&site_page=https%253A%252F%252Fwww.kinocult.com%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=North%20America&timestamp=1652617398&id=560&ip=2001%3A1970%3A4000%3A26%3Ac4dd%3Ab2e5%3A94e3%3Adfb9&override_expiration=1500&sign=Gwa6hcbA1AcG1croRNSGb8R0QK%2B2SZWgMZUKVKW7Pds%3D
+#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMzAxMjQ1MzBf/Docubay_750x750.png" group-title="Entertainment",DocuBay TV
+https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Entertainment",â˜…â˜… Veely â˜…â˜… https://veely.tv/live/ â˜…â˜… Credits: @DeltaSR + @jhr1948 via Discord | Uses EPG source [7] https://cutt.ly/DSr95Combinedepg
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Veely1
 #EXTINF:-1 tvg-id="Veely_EPGReal Stories" tvg-name="Real Stories" tvg-logo="https://thumbnails.simplestreamcdn.com/veely/channel_logos/1050.png?width=700&lang=en" group-title="Entertainment",Real Stories
@@ -2711,12 +2737,6 @@ https://lds-donttellbride-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-don
 https://lds-timeline-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-timelinesimplestream/CDN/master.m3u8
 #EXTINF:-1 tvg-id="Veely_EPGWonder" tvg-name="Wonder" tvg-logo="https://thumbnails.simplestreamcdn.com/veely/channel_logos/1049.png?width=700&lang=en" group-title="Entertainment",Wonder
 https://lds-wonder-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-wondorsimplestream/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Entertainment",â˜…â˜… Webstreams â˜…â˜…
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?webstreams1
-#EXTINF:-1 tvg-id="externallinearfeed-10-21-2019-10-21-2019" tvg-logo="https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png" group-title="Entertainment",Electric Now | Webstream
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=53&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=75d1fa20f696cde33a9013081fda46ae&app_bundle=com.electric.now&app_store_url=https%3A%2F%2Fwww.electricnow.tv%2Fdevices&app_domain=electricnow.tv&app_name=electricnow&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=electricnow&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&gender=not_specified&yob=0&livestream=1&timestamp=1630354325&id=430&ip=2001%3A67c%3A2628%3A647%3A12%3A%3A1c&override_expiration=1500&sign=Eck49xZ6yrE0fSd3rvIBYwSGibRFaPhf4nU9WlYnPbg%3D
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMzAxMjQ1MzBf/Docubay_750x750.png" group-title="Entertainment",DocuBay TV
-https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Entertainment",â˜…â˜… NASA Live â˜…â˜… https://www.nasa.gov/nasalive
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?entertainmentNasa
 #EXTINF:-1 tvg-id="nasatv-gracenote-external-01-09-2019" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNDUzMTI3ODJf/NASA.png" group-title="Entertainment",NASA TV 1 Public | Webstream
@@ -2955,7 +2975,7 @@ https://broadcast.mytvtogo.net/itsatthemovies/itsatthemovies/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Live News",** Category updated 02/24/22 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?news1
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Movies Plus",** This category uses various EPG sources. Be sure to review the EPG source URL's indicated in the 'Info | Free2View TV' category for the most up to date information. ALSO PLEASE NOTE: Not all channels have EPG data. **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Live News",** This category uses various EPG sources. Be sure to review the EPG source URL's indicated in the 'Info | Free2View TV' category for the most up to date information. ALSO PLEASE NOTE: Not all channels have EPG data. **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?NewsEPG2A
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Live News",â˜…â˜… Top 5 | News â˜…â˜…
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?top5news
@@ -2965,7 +2985,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8?T
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8?Top5
 #EXTINF:-1 tvg-id="USAJ17000049P" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="Live News",ABC News Live | Top 5
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8?Top5
-#EXTINF:-1 tvg-id="USAJ3400018M0" tvg-logo="https://od.lk/s/MF8yNDQ5ODEwNzlf/Newsy_359x359.png" group-title="Live News",Newsy | Top 5
+#EXTINF:-1 tvg-id="I31.7.121325.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDQ5ODEwNzlf/Newsy_359x359.png" group-title="Live News",Newsy | Top 5
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb&Top5
 #EXTINF:-1 tvg-id="USAJ3504714A" tvg-logo="https://od.lk/s/MF8yMjM5NTUyNDhf/Cheddar_900x900.png" group-title="Live News",Cheddar News | Top 5
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8?Top5
@@ -3151,7 +3171,7 @@ https://live.serverside.ai/hls/7dc5907c-6d6e-45ef-a24f-e28353aa8e98/master.m3u8?
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzA3OTU1MDBf/UnbeatenCombat_450x450.png" group-title="Sports & Recreation",Unbeaten Combat | ST.TV
 https://d179m5eq83yziw.cloudfront.net/live3/unbeaten_tv/bitrate1-clear.isml/manifest.m3u8?t=2021-03-05T16%3A30%3A00.000
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="USA Free TV",** Category updated 4/26/22 **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="USA Free TV",** Category updated 5/16/22 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ota0AA
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="USA Free TV",** This category uses various EPG sources. Be sure to review the EPG source URL's indicated in the 'Info | Free2View TV' category for the most up to date information. ALSO PLEASE NOTE: Not all channels have EPG data. **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ota1A
@@ -3161,8 +3181,8 @@ https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ota0C
 https://content-ausw1-up-1.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?l1br3&date0116&catOTAWebstream&EPG10001
 #EXTINF:-1 tvg-id="I55.3.110888.zap2it.com" tvg-type="live" group-title="USA Free TV" tvg-logo="https://od.lk/s/MF8yMjM5NTQzOTVf/ChargeTV.png",Charge! | Webstream
 https://content-ause1.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8?l1br3&date0116&catOTAWebstream&EPG10001
-#EXTINF:-1 tvg-id="USBB3200012D6" tvg-type="live" group-title="USA Free TV" tvg-logo="https://od.lk/s/MF8yNjYwMTM1MzNf/ion_400x400.png",ION Television | Samsung
-https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8?l1br3&date0502&ScSsg&epgSSg&catUSAFreeTV
+#EXTINF:-1 tvg-id="I31.1.43818.zap2it.com" tvg-type="live" group-title="USA Free TV" tvg-logo="https://od.lk/s/MF8yNjYwMTM1MzNf/ion_400x400.png",ION Television | Samsung
+https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8?l1br3&date0502&ScSsg&epg10001&catUSAFreeTV
 #EXTINF:-1 tvg-id="USAJ2200014K9" tvg-type="live" group-title="USA Free TV" tvg-logo="https://od.lk/s/MF8yMjM0MjczODBf/IonPlus_420x420.png",ION Plus | Samsung
 https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8?l1br3&date0502&ScSsg&epgSSg&catUSAFreeTV
 #EXTINF:-1 tvg-id="USAJ2200014K9" tvg-type="live" group-title="USA Free TV" tvg-logo="https://od.lk/s/MF8yMjM0MjczODBf/IonPlus_420x420.png",ION Plus | Xumo
@@ -3195,12 +3215,6 @@ https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=
 https://siloh.pluto.tv/lilo/production/DABL/master.m3u8?l1br3&date0116&catOTAWebstream&EPG10001
 #EXTINF:-1 tvg-id="I2.3.112501.zap2it.com" tvg-type="live" group-title="USA Free TV" tvg-logo="https://od.lk/s/MF8yMjU5MjY0NjZf/Dabl_400x400.png",Dabl | Sc.2 (Geo-USA)
 https://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8?l1br3&date0116&ScPlutoBase&catOTAWebstream&EPG10001
-#EXTINF:-1 tvg-id="PBS_WKLE-DT1_Lexington" tvg-logo="https://od.lk/s/MF8yMjYxNjkxMTBf/PBS.png" group-title="USA Free TV",PBS | KET TV HD
-https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="PBSKids_WKLE-DT4_Lexington" tvg-logo="https://od.lk/s/MF8yMjYxNjkxMTRf/PBSKids_625x625.png" group-title="USA Free TV",PBS Kids | KET TV HD
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="I21.3.44147.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDQ4MzcyNzlf/PBSWorld_972x972.png" group-title="USA Free TV",PBS | World Channel
-https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 #EXTINF:-1 tvg-id="I137.11069.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNDk4NDcyMDJf/QVC_225x225.png" group-title="USA Free TV",QVC | Webstream
 https://lsqvc1us-lh.akamaihd.net/i/lsqvc1us_01@809353/master.m3u8?l1br3&date0116&catOTAWebstream&EPG13601DTV2
 #EXTINF:-1 tvg-id="I255.82682.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNDk4NDcyMDJf/QVC_225x225.png" group-title="USA Free TV",QVC 2 | Webstream
@@ -3209,6 +3223,18 @@ https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/master.m3u8?l1br3&date0116
 https://lsqvc3us-lh.akamaihd.net/i/lsqvc3us_01@809459/master.m3u8?l1br3&date0116&catOTAWebstream&EPG13601DTV2
 #EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNDk4NDcyMDJf/QVC_225x225.png" group-title="USA Free TV",QVC Now | Webstream
 https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8?l1br3&date0116&catOTAWebstream
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="USA Free TV",ðŸ“º PBS Stations ðŸ“º
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?freeTVPBS
+#EXTINF:-1 tvg-id="PBS_WKLE-DT1_Lexington" tvg-logo="https://od.lk/s/MF8yMjYxNjkxMTBf/PBS.png" group-title="USA Free TV",PBS | KET TV HD
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="PBSKids_WKLE-DT4_Lexington" tvg-logo="https://od.lk/s/MF8yMjYxNjkxMTRf/PBSKids_625x625.png" group-title="USA Free TV",PBS Kids | KET TV HD
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="D_wpptdt" tvg-logo="https://od.lk/s/MF8yNjc0NzY4NTRf/PBS39Extra_500x500.png" group-title="USA Free TV",PBS Extra 35.1 Philadelphia PA WPPT-DT
+https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="D_wpptdt2" tvg-logo="https://od.lk/s/MF8yNDQ4MzcyNzlf/PBSWorld_972x972.png" group-title="USA Free TV",PBS World 35.2 Philadelphia PA WPPT-DT2
+https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
+#EXTINF:-1 tvg-id="D_wlvtdt" tvg-logo="https://od.lk/s/MF8yMjYxNjkxMTBf/PBS.png" group-title="USA Free TV",PBS 39.1 Philadelphia PA WLVT-DT
+https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="USA Free TV",ðŸ“º USTVNow Free TV ðŸ“º https://www.ustvnow.com/freetowatch
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?otaUSTVN
 #EXTINF:-1 tvg-id="I82.73413.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNDk0NDk3NDZf/fetv_250x250.png" group-title="USA Free TV",USTVNow | fetv 
@@ -3241,6 +3267,12 @@ https://81988.global.ssl.fastly.net/6054f2db9a679c037cbbb2b2/live_7749cbc088e711
 https://api.v3.invintus.com/StreamURI/persis/2147483647/360tv/media.m3u8
 #EXTINF:-1 tvg-id="D_lmgtv244" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMzcyNjEyMThf/VicValley_LMG-TV.png" group-title="USA Free TV",LMG-TV 24.4 Victor Valley CA K24LS-D4
 https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
+#EXTINF:-1 tvg-id="EPlus6" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNTY4NjI2OTdf/EPlusTV6_235x235.png" group-title="USA Free TV",EPlusTV 6 | Jackson TN
+https://jacksonenergy.secure.footprint.net/egress/bhandler/jacksonenergy/streama/manifest.m3u8
+#EXTINF:-1 tvg-id="D_watcdt" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMzcyNjEzMDhf/WATC_390x390.png" group-title="USA Free TV",WATC-57 Atlanta
+https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
+#EXTINF:-1 tvg-id="D_watcdt2" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMzcyNjEzMDhf/WATC_390x390.png" group-title="USA Free TV",WATC-57 Too | Classic TV
+https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
 #EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMzcyNjE0MDJf/RNTV_460x460.png" group-title="USA Free TV",Right Now Television
 https://2-fss-2.streamhoster.com/pl_118/205448-2064324-1/playlist.m3u8
 #EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMzcyNjA5NzZf/AMGTV_290x290.png" group-title="USA Free TV",AMG-TV Network
@@ -3249,14 +3281,8 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
 #EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMzcyNjEwODlf/KVVB-33_NewsNet.png" group-title="USA Free TV",KVVB-TV 33.3 NewsNet
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMzcyNjEzMDhf/WATC_390x390.png" group-title="USA Free TV",WATC-57 Atlanta
-https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMzcyNjEzMDhf/WATC_390x390.png" group-title="USA Free TV",WATC-57 Too | Classic TV
-https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
 #EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjU3OTE2ODhf/CitiCable_225x225.png" group-title="USA Free TV",KNET-CD 25.2 | Local Access
 http://granicusliveus6-a.akamaihd.net/torrance/G0057_005/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNTY4NjI2OTdf/EPlusTV6_235x235.png" group-title="USA Free TV",EPlusTV 6 | Jackson TN
-https://t08021-lh.akamaihd.net/i/t08021a_1@382750/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="USA Free TV",ðŸ“º Local TV Channels ðŸ“º
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?freeTVlocal
 #EXTINF:-1 tvg-id="TVTV_WFMZDT1" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU1Nzg1ODhf/WFMZ-TV_280x280.png" group-title="USA Free TV",WFMZ 69.1 Allentown PA WFMZDT1
@@ -3369,8 +3395,14 @@ https://hlssct35test-i.akamaihd.net/hls/live/1021808/scte35test01/master.m3u8?ca
 https://localnoworlando-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6181ad00acf73605114dfc8f_localnoworlando-live/playlist.m3u8?CatOTA32789&LocalWebstream
 #EXTINF:-1 tvg-id="I10.5.103677.zap2it.com" tvg-type="live" group-title="USA Regional | 32789" tvg-logo="https://od.lk/s/MF8yMjY2MjI1OTlf/NewsNet.png",10.5 WSWFLD5 NewsNet *
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?l1br3&date0116&cat32789&Webstream
+#EXTINF:-1 tvg-id="I50.7.101246.zap2it.com" tvg-logo="https://od.lk/s/MF8yMjM5NTUyNDhf/Cheddar_900x900.png" group-title="USA Regional | 32789",50.7 WFEFLD7 Cheddar News
+https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8?cat32789
 #EXTINF:-1 tvg-id="I52.5.70977.zap2it.com" tvg-type="live" group-title="USA Regional | 32789" tvg-logo="https://od.lk/s/MF8yMzMyMzk0MDNf/PositivTV_520x520.png",52.5 WHLVDT5 Positiv TV *
 https://player-api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8?l1br3&date0116&cat32789&Webstream
+#EXTINF:-1 tvg-id="I56.1.30624.zap2it.com" tvg-type="live" group-title="USA Regional | 32789" tvg-logo="https://od.lk/s/MF8yNjYwMTM1MzNf/ion_400x400.png",56.1 WOPXDT ION Television
+https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8?l1br3&date0502&ScSsg&epg32789&cat32789
+#EXTINF:-1 tvg-id="I56.7.121355.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDQ5ODEwNzlf/Newsy_359x359.png" group-title="USA Regional | 32789",56.7 WOPXDT7 Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb&cat32789
 #EXTINF:-1 tvg-id="I68.2.48127.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMzA5ODU1MTNf/ClassicArtsShowcase.png" group-title="USA Regional | 32789",68.2 WEFSDT2 Classic Arts Showcase *
 https://gcamhls02-i.akamaihd.net/hls/live/1024257/ClassicArts/master_720p30.m3u8?catOTA32789
 #EXTINF:-1 tvg-id="nasatv-gracenote-external-01-09-2019" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNDUzMTI3ODJf/NASA.png" group-title="USA Regional | 32789",NASA TV | Webstream *
@@ -3380,7 +3412,7 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8?catOTA3278
 #EXTINF:-1 tvg-id="I68.4.42525.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjA2Mjk4Njhf/FloridaChannel_400x400.png" group-title="USA Regional | 32789",68.4 WEFSDT4 The Florida Channel *
 https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_ta2cmesd/format/applehttp/protocol/https/uiConfId/46275742/a.m3u8?catOTA32789
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Canada",** Category updated 4/23/22 **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Canada",** Category updated 5/16/22 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Canada1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Canada",** Main EPG Source: [1] https://cutt.ly/CAN_EPG1 | Generic EPG Source: [7] https://cutt.ly/DSr95Combinedepg **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Canada2
@@ -3409,9 +3441,9 @@ https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Canada4
 #EXTINF:-1 tvg-id="I742.60327.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNDU0MDkxNTNf/ICI-RDI.png" group-title="Canada",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8?Canada
 #EXTINF:-1 tvg-id="I728.45864.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png" group-title="Canada",ICI Tele Est (Geo-CA)
-https://rcavlive.akamaized.net/hls/live/704022/cancblft/master_2500.m3u8?Canada
+https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8?Canada
 #EXTINF:-1 tvg-id="I733.72984.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png" group-title="Canada",ICI Tele Ouest (Geo-CA)
-https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_2500.m3u8?Canada
+https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8?Canada
 #EXTINF:-1 tvg-id="I152.15747.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CanalSavoir_363x363.png?raw=true" group-title="DD - Quebec TV",Canal Savoir CFTU ICIQC
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-id="I94.16378.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDU0MDY2MDZf/TVA_540x540.png" group-title="DD - Quebec TV",TVA (Alternate)
@@ -3466,78 +3498,78 @@ https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5f
 https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Canada",ðŸ Rogers TV ðŸ
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Canada6Rogers
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV ON: Barrie Cable 10
-https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m32_card3/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV ON: Borden-Alliston Cable 65
-https://5e7c60955a878.streamlock.net/rtv_live/m24_card2/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV ON: Brantford Cable 20
-https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m19_card4/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV ON: Cambridge Cable 20
-https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m19_card4/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV ON: Collingwood Cable 53
-https://5e7c60955a878.streamlock.net/rtv_live/m30_card1/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV ON: Dufferin-Caledon Cable 63
-https://5e7c60955a878.streamlock.net/rtv_live/m24_card4/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV ON: Durham Region Cable 10
-https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m25_card3/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV ON: Georgina Cable 10
-https://5e7c60955a878.streamlock.net/rtv_live/m26_card4/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV ON: Grey County Cable 53
-https://5e7c60955a878.streamlock.net/rtv_live/m24_card1/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV ON: Guelph Cable 20
-https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m19_card2/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV ON: Kincardine Cable 6
-https://5e7c60955a878.streamlock.net/rtv_live/m19_card1/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV ON: Kitchener Cable 20
-https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m19_card4/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV ON: London Cable 13
-https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m20_card1/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV ON: Midland Cable 53
-https://5e7c60955a878.streamlock.net/rtv_live/m30_card2/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV ON: Orillia Cable 10
-https://5e7c60955a878.streamlock.net/rtv_live/m30_card4/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV ON: Ottawa Cable 22
-https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m31_card3/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV ON: Ottawa Cable 23 Francais
-https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m31_card4/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV ON: St. Thomas Cable 13
-https://5e7c60955a878.streamlock.net/rtv_live/m20_card3/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV ON: Stratford Cable 20
-https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m19_card4/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV ON: Strathroy-Caradoc Cable 13
-https://5e7c60955a878.streamlock.net/rtv_live/m20_card3/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV ON: Tillsonburg Cable 13
-https://5e7c60955a878.streamlock.net/rtv_live/m20_card4/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV ON: Uxbridge-Scugog Cable 10
-https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m25_card1/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV ON: Waterloo Region Cable 20
-https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m19_card4/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV ON: Woodstock Region Cable 13
-https://5e7c60955a878.streamlock.net/rtv_live/m20_card2/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV NB: Bathurst Cable 10
+#EXTINF:-1 tvg-id="RogersTV_Bathurst" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV Bathurst NB Cable 10
 https://5e7c60955a878.streamlock.net/rtv_live/m21_card1/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV NB: Bathurst Cable 9 Francais
+#EXTINF:-1 tvg-id="RogersTV_BathurstFrancais" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV Bathurst NB Cable 9 Francais
 https://5e7c60955a878.streamlock.net/rtv_live/m21_card1/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV NB: Edmundston Cable 10 Francais
+#EXTINF:-1 tvg-id="RogersTV_EdmundstonFrancais" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV Edmundston NB Cable 10 Francais
 https://5e7c60955a878.streamlock.net/rtv_live/m28_card1/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV NB: Fredericton Cable 10
+#EXTINF:-1 tvg-id="RogersTV_Fredericton" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV Fredericton NB Cable 10
 https://5e7c60955a878.streamlock.net/rtv_live/m21_card2/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV NB: Miramichi Cable 10
+#EXTINF:-1 tvg-id="RogersTV_Miramichi" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV Miramichi NB Cable 10
 https://5e7c60955a878.streamlock.net/rtv_live/m21_card3/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV NB: Moncton Cable 10
+#EXTINF:-1 tvg-id="RogersTV_Moncton" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV Moncton NB Cable 10
 https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m28_card2/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV NB: Moncton Cable 9 Francais
+#EXTINF:-1 tvg-id="RogersTV_MonctonFrancais" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV Moncton NB Cable 9 Francais
 https://5e7c60955a878.streamlock.net/rtv_live/m21_card4/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV NB: Saint John Cable 10
+#EXTINF:-1 tvg-id="RogersTV_SaintJohn" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV Saint John NB Cable 10
 https://5e7c60955a878.streamlock.net/rtv_live/m28_card3/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV NL: Corner Brook Cable 9
+#EXTINF:-1 tvg-id="RogersTV_CornerBrook" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV Corner Brook NF Cable 9
 https://5e7c60955a878.streamlock.net/rtv_live/m37_card4/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV NL: Gander Cable 9
+#EXTINF:-1 tvg-id="RogersTV_Gander" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV Gander NF Cable 9
 https://5e7c60955a878.streamlock.net/rtv_live/m37_card1/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV NL: Grand Falls-Windsor Cable 9
+#EXTINF:-1 tvg-id="RogersTV_GrandFallsWindsor" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV Grand Falls-Windsor NF Cable 9
 https://5e7c60955a878.streamlock.net/rtv_live/m37_card3/playlist.m3u8
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",Rogers TV NL: St. John's Cable 9
+#EXTINF:-1 tvg-id="RogersTV_StJohns" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV St. John's NF Cable 9
 https://5e7c60955a878.streamlock.net/rtv_live/m37_card2/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_Barrie" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV Barrie ON Cable 10
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m32_card3/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_BordenAlliston" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV Borden-Alliston ON Cable 65
+https://5e7c60955a878.streamlock.net/rtv_live/m24_card2/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_Brantford" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV Brantford ON Cable 20
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m19_card4/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_Cambridge" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV Cambridge ON Cable 20
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m19_card4/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_Collingwood" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV Collingwood ON Cable 53
+https://5e7c60955a878.streamlock.net/rtv_live/m30_card1/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_DufferinCaledon" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV Dufferin-Caledon ON Cable 63
+https://5e7c60955a878.streamlock.net/rtv_live/m24_card4/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_DurhamRegion" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV Durham Region ON Cable 10
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m25_card3/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_Georgina" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV Georgina ON Cable 10
+https://5e7c60955a878.streamlock.net/rtv_live/m26_card4/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_GreyCounty" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV Grey County ON Cable 53
+https://5e7c60955a878.streamlock.net/rtv_live/m24_card1/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_Guelph" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV Guelph ON Cable 20
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m19_card2/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_Kincardine" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV Kincardine ON Cable 6
+https://5e7c60955a878.streamlock.net/rtv_live/m19_card1/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_Kitchener" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV Kitchener ON Cable 20
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m19_card4/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_London" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV London ON Cable 13
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m20_card1/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_Midland" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV Midland ON Cable 53
+https://5e7c60955a878.streamlock.net/rtv_live/m30_card2/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_Orillia" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV Orillia ON Cable 10
+https://5e7c60955a878.streamlock.net/rtv_live/m30_card4/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_Ottawa" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV Ottawa ON Cable 22
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m31_card3/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_OttawaFrancais" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV Ottawa ON Cable 23 Francais
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m31_card4/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_StThomas" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV St. Thomas ON Cable 13
+https://5e7c60955a878.streamlock.net/rtv_live/m20_card3/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_Stratford" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV Stratford ON Cable 20
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m19_card4/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_StrathroyCaradoc" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV Strathroy-Caradoc ON Cable 13
+https://5e7c60955a878.streamlock.net/rtv_live/m20_card3/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_Tillsonburg" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV Tillsonburg ON Cable 13
+https://5e7c60955a878.streamlock.net/rtv_live/m20_card4/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_UxbridgeScugog" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV Uxbridge-Scugog ON Cable 10
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m25_card1/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_WaterlooRegion" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV Waterloo Region ON Cable 20
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m19_card4/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_Woodstock" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjU0MzkxNzlf/RogersTV_900x900.png" group-title="Canada",RogersTV Woodstock Region ON Cable 13
+https://5e7c60955a878.streamlock.net/rtv_live/m20_card2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Canada",ðŸ Faith & Religion ðŸ
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Canada6Faith
 #EXTINF:-1 tvg-id="I285.33583.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjQyNTQ1MzNf/EWTN_450x450.png" group-title="Canada",EWTN Canada
@@ -3561,7 +3593,7 @@ http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3
 #EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjQyNTQ4Njhf/OntParl_450x450.png" group-title="Canada",Ontario OLA Network | FR
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="CBC TV | ICI TÃ©lÃ© (Geo-CA)",** Category updated 4/02/22 **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="CBC TV | ICI TÃ©lÃ© (Geo-CA)",** Category updated 5/14/22 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?CBCICI1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="CBC TV | ICI TÃ©lÃ© (Geo-CA)",** Use this EPG source: [1] https://od.lk/s/MzJfMTQyMzI0MTJf/CAN_EPG1.xml **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?CBCEPG1
@@ -3601,34 +3633,38 @@ https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_72.m3u8
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_73.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="CBC TV | ICI TÃ©lÃ© (Geo-CA)",ðŸ ICI TÃ©lÃ© Canada (Geo-CA) ðŸ
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?CBCCategory2
+#EXTINF:-1 tvg-id="I742.60327.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDU0MDkxNTNf/ICI-RDI.png" group-title="CBC TV | ICI TÃ©lÃ© (Geo-CA)",ICI RDI (Source 1)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-id="I126.15209.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="DD - Quebec TV",ICI RDI (French News)
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-id="I727.72974.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png" group-title="CBC TV | ICI TÃ©lÃ© (Geo-CA)",ICI TÃ©lÃ© Acadie
-https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_2500.m3u8
-#EXTINF:-1 tvg-id="I119.15977.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="DD - ICI Tele Canada (Geo)",ICI Tele Alberta
-https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master_2500.m3u8
+https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
+#EXTINF:-1 tvg-id="I732.72972.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png" group-title="CBC TV | ICI TÃ©lÃ© (Geo-CA)",ICI TÃ©lÃ© Alberta
+https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8
 #EXTINF:-1 tvg-id="I733.72984.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png" group-title="CBC TV | ICI TÃ©lÃ© (Geo-CA)",ICI TÃ©lÃ© CB-Yukon
-https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_2500.m3u8
-#EXTINF:-1 tvg-id="I95.18291.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="DD - ICI Tele Canada (Geo)",ICI Tele Est-Quebec
-https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master_2500.m3u8
-#EXTINF:-1 tvg-id="I108.10134.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="DD - ICI Tele Canada (Geo)",ICI Tele Estrie
-https://rcavlive.akamaized.net/hls/live/704016/cancksh/master_2500.m3u8
-#EXTINF:-1 tvg-id="I118.16731.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="DD - ICI Tele Canada (Geo)",ICI Tele Manitoba
-https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master_2500.m3u8
-#EXTINF:-1 tvg-id="I542.16831.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="DD - ICI Tele Canada (Geo)",ICI Tele Mauricie
-https://rcavlive.akamaized.net/hls/live/704021/cancktm/master_2500.m3u8
-#EXTINF:-1 tvg-id="I112.10089.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="DD - Quebec TV",ICI Tele (Montreal) (Geo)
-https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
-#EXTINF:-1 tvg-id="I99.10090.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="DD - ICI Tele Canada (Geo)",ICI Tele Ontario
-https://rcavlive.akamaized.net/hls/live/704022/cancblft/master_2500.m3u8
-#EXTINF:-1 tvg-id="I125.16017.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="DD - ICI Tele Canada (Geo)",ICI Tele Ottawa-Gatineau
-https://rcavlive.akamaized.net/hls/live/664046/cancboft/master_2500.m3u8
-#EXTINF:-1 tvg-id="I111.16732.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="DD - Quebec TV",ICI Tele (Quebec)
-https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_2500.m3u8
-#EXTINF:-1 tvg-id="I97.17369.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="DD - ICI Tele Canada (Geo)",ICI Tele Saguenay
-https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_2500.m3u8
-#EXTINF:-1 tvg-id="I98.15989.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="DD - ICI Tele Canada (Geo)",ICI Tele Saskatchewan
-https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_2500.m3u8
+https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8
+#EXTINF:-1 tvg-id="I724.73000.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png" group-title="CBC TV | ICI TÃ©lÃ© (Geo-CA)",ICI TÃ©lÃ© Est-QuÃ©bec
+https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8
+#EXTINF:-1 tvg-id="I712.72980.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png" group-title="CBC TV | ICI TÃ©lÃ© (Geo-CA)",ICI TÃ©lÃ© Estrie
+https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8
+#EXTINF:-1 tvg-id="I730.73029.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png" group-title="CBC TV | ICI TÃ©lÃ© (Geo-CA)",ICI TÃ©lÃ© Manitoba
+https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8
+#EXTINF:-1 tvg-id="I709.72986.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png" group-title="CBC TV | ICI TÃ©lÃ© (Geo-CA)",ICI TÃ©lÃ© Mauricie
+https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
+#EXTINF:-1 tvg-id="I701.45867.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png" group-title="CBC TV | ICI TÃ©lÃ© (Geo-CA)",ICI TÃ©lÃ© MontrÃ©al (Sc.1)
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
+#EXTINF:-1 tvg-id="I701.45867.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png" group-title="CBC TV | ICI TÃ©lÃ© (Geo-CA)",ICI TÃ©lÃ© MontrÃ©al (Sc.2)
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_2500.m3u8
+#EXTINF:-1 tvg-id="I728.45864.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png" group-title="CBC TV | ICI TÃ©lÃ© (Geo-CA)",ICI TÃ©lÃ© Ontario
+https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8
+#EXTINF:-1 tvg-id="I706.52235.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png" group-title="CBC TV | ICI TÃ©lÃ© (Geo-CA)",ICI TÃ©lÃ© Ottawa-Gatineau
+https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8
+#EXTINF:-1 tvg-id="I715.49584.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png" group-title="CBC TV | ICI TÃ©lÃ© (Geo-CA)",ICI TÃ©lÃ© QuÃ©bec
+https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8
+#EXTINF:-1 tvg-id="I718.72981.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png" group-title="CBC TV | ICI TÃ©lÃ© (Geo-CA)",ICI TÃ©lÃ© Saguenay
+https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8
+#EXTINF:-1 tvg-id="I731.73188.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png" group-title="CBC TV | ICI TÃ©lÃ© (Geo-CA)",ICI TÃ©lÃ© Saskatchewan
+https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Free2View TV Select",** Category updated 04/10/22 ** [Update in progress]
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Select1
@@ -3692,10 +3728,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4fc274694c027be6ed3e
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc02a44a9518600094273ac/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-id="620bfa7df72827000703ddb1" tvg-logo="https://od.lk/s/MF8yNjM2MzU0MjFf/StargateChannel_526x526.png" group-title="Free2View TV Select",Pluto TV Stargate
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620bfa7df72827000703ddb1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 tvg-id="USAJ3504713A" tvg-logo="https://od.lk/s/MF8yMjQwMDkwMjRf/Dust_670x670.png" group-title="Free2View TV Select",F2V | DUST (US)
-https://dust-samsung-us.samsung.wurl.tv/playlist.m3u8?l1br3date0801&SrcSsg&EPGssg&Catf2v
-#EXTINF:-1 tvg-id="CAAJ1700002PA" tvg-logo="https://od.lk/s/MF8yMjQwMDkwMjRf/Dust_670x670.png" group-title="Free2View TV Select",F2V | DUST (CA)
-https://dust-samsung-uk-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="USBC100000630" tvg-logo="https://od.lk/s/MF8yNjY1MjgxNDhf/DustSciFi_700x700.png" group-title="Free2View TV Select",F2V | DUST (US)
+https://dmnrfk13mvw0g.cloudfront.net/amgdust/playlist.m3u8?l1br3date0512&SRC=newSsg&EPG=Ssg&CAT=freetv
+#EXTINF:-1 tvg-id="CABB2500027G8" tvg-logo="https://od.lk/s/MF8yNjY1MjgxNDhf/DustSciFi_700x700.png" group-title="Free2View TV Select",F2V | DUST (CA)
+https://d2yinr40pnztt5.cloudfront.net/amgdustintl/playlist.m3u8?l1br3date0512&SRC=newSsg&EPG=Ssg&CAT=freetv
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Free2View TV Select",â˜…â˜… Horror & Paranormal â˜…â˜…
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?f2vTV2Horror
 #EXTINF:-1 tvg-id="569546031a619b8f07ce6e25" tvg-logo="https://od.lk/s/MF8yNjI3MzYyMDFf/PlutoTVHorror_450x450.png" group-title="Free2View TV Select",Pluto TV Horror (US)
@@ -3705,7 +3741,7 @@ https://haunttv-roku.amagi.tv/playlist.m3u8?l1br3date0812&SrcRoku&EPGssg&Catf2v
 #EXTINF:-1 #EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjQ4OTgwMThf/ScreamFactoryTV_440x440.png" group-title="Free2View TV Select",F2V | Scream! Factory TV
 https://shoutfactory-screamfactorytv-1-us.ono.wurl.tv/playlist.m3u8?l1br3&date0415&Webstream&NoEPG&catf2v
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Chills + Thrills",** Category updated 4/09/22 **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Chills + Thrills",** Category updated 5/05/22 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Chills1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Chills + Thrills",** This category uses various EPG sources. Be sure to review the EPG source URL's indicated in the 'Info | Free2View TV' category for the most up to date information. ALSO PLEASE NOTE: Not all channels have EPG data. **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Chills2
@@ -3725,11 +3761,17 @@ http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=540&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=f5eda336b43c9773462ab85dfbad57ec&app_bundle=com.space.channel&app_store_url=https%3A%2F%2Fwww.spacechannel.com%2Fdevices&app_domain=spacechannel.com&app_name=spacechannel&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=spacechannel&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&gender=not_specified&yob=0&livestream=1
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6047e0d0a3c395002decfc9a" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNDUyNTIwOTNf/SpaceChannel_200x200.png" group-title="Chills + Thrills",Space Channel | Source 2
 https://ov-space-sp.ottera.tv/out/v1/190362790edc41c2bd6dd7653c2009f9/index.m3u8?scWeb&epgPlex
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Chills + Thrills",â˜…â˜… Sci-Fi & Fantasy â˜…â˜… 
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Chills5A
+#EXTINF:-1 tvg-id="USBC100000630" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjY1MjgxNDhf/DustSciFi_700x700.png" group-title="Chills + Thrills",DUST Sci-Fi | Web (Geo-USA)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/gunpowder-dust-brightcove/playlist.m3u8?did=REPLACEME&us_privacy=REPLACEME&schain=REPLACEME&cat=Scifi
+#EXTINF:-1 tvg-id="USBC100000630" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjY1MjgxNDhf/DustSciFi_700x700.png" group-title="Chills + Thrills",DUST Sci-Fi | Samsung US
+https://dmnrfk13mvw0g.cloudfront.net/amgdust/playlist.m3u8?cat=SciFi
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Chills + Thrills",â˜…â˜… Horror & Paranormal â˜…â˜… 
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Chills5
 #EXTINF:-1 tvg-id="CABA800009T5" tvg-logo="https://od.lk/s/MF8yMzQ3MDMwMjhf/HauntTV_600x600.png" group-title="Chills + Thrills",Haunt TV | Roku
 https://haunttv-roku.amagi.tv/playlist.m3u8?l1br3&date0822&ScRoku&EpgSsg&catParanormal
-#EXTINF:-1 tvg-id="CABA800009T5" tvg-logo="https://od.lk/s/MF8yMzQ3MDMwMjhf/HauntTV_600x600.png" group-title="Chills + Thrills",Haunt TV | Samsung
+#EXTINF:-1 tvg-id="CABA800009T5" tvg-logo="https://od.lk/s/MF8yMzQ3MDMwMjhf/HauntTV_600x600.png" group-title="Chills + Thrills",Haunt TV | Samsung CA
 https://blueantmediacanada-haunttv-samsungca.amagi.tv/playlist.m3u8?l1br3&date0308&ScSsgExt&EpgSsg&catParanormal
 #EXTINF:-1 tvg-id="ParanormalTV" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjIxNzc3OTRf/ParanormalTV_290x290.png" group-title="Chills + Thrills",Paranormal TV | Webstream (https://paranormal.tv/watch-live)
 https://2-fss-2.streamhoster.com/pl_138/205518-2101216-1/playlist.m3u8
@@ -3743,9 +3785,13 @@ https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ChillsMovies
 https://dai2.xumo.com/xumocdn/p=samsung/amagi_hls_data_xumo1212A-samsungtvplustheasylum/CDN/playlist.m3u8?l1br3&date0308&ScSsgExt&EpgSsg&catParanormal
 #EXTINF:-1 tvg-id="CAAJ1700002PA" tvg-logo="https://od.lk/s/MF8yMjM5NTU2NjFf/TheAsylum_NEW_939x939.png" group-title="Chills + Thrills",The Asylum (Canada)
 https://dai2.xumo.com/xumocdn/p=samsung/amagi_hls_data_xumo1212A-samsungtvpluscantheasylum/CDN/playlist.m3u8?l1br3&date0308&ScSsgExt&EpgSsg&catParanormal
-#EXTINF:-1 #EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjQ4OTgwMThf/ScreamFactoryTV_440x440.png" group-title="Chills + Thrills",Scream! Factory TV | Webstream
+#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjM5NTU2NjFf/TheAsylum_NEW_939x939.png" group-title="Chills + Thrills",The Asylum | Roku
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8
+#EXTINF:-1 #EXTINF:-1 tvg-id="ScreamFactoryTV" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjQ4OTgwMThf/ScreamFactoryTV_440x440.png" group-title="Chills + Thrills",Scream! Factory TV | Webstream
 https://shoutfactory-screamfactorytv-1-us.ono.wurl.tv/playlist.m3u8?l1br3&date0415&Webstream&NoEPG&catHorror
-#EXTINF:-1 #EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjUwNTk1NDJf/Alter_400x400.png" group-title="Chills + Thrills",Alter Horror | Redbox
+#EXTINF:-1 tvg-id="USBC100001175" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjY1MjgxNTFf/AlterHorror_700x700.png" group-title="Chills + Thrills",ALTER Horror | Webstream
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-alter-ono/playlist.m3u8?did=REPLACEME&us_privacy=REPLACEME&schain=REPLACEME&cat=Horror
+#EXTINF:-1 tvg-id="USBC100001175" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjY1MjgxNTFf/AlterHorror_700x700.png" group-title="Chills + Thrills",ALTER Horror | Redbox
 https://amg00219-gunpowder-alter-redbox.amagi.tv/playlist.m3u8?l1br3&date0418&ScRedboxSubstream&NoEPG&catHorror
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a6" tvg-logo="https://od.lk/s/MF8yMzUyODMwNjBf/DarkMatterTV_218x218.png" group-title="Chills + Thrills",Dark Matter TV | HD
 https://dmtv-plex.amagi.tv/playlist.m3u8?l1br3&date0308&ScPlxExt&EpgPlx&catHorror
@@ -3957,7 +4003,7 @@ https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8?interna
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yMzIyMTI5OTdf/TV5Monde_820x820.png" group-title="International TV",France | TV5 Monde Info
 https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8?international
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Ambient TV + Radio",** Category updated 2/13/22 **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Ambient TV + Radio",** Category updated 5/12/22 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Ambient1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Ambient TV + Radio",** TiviMate users: Go to TV section for Live TV channels! Go to MOVIES section to view the selection of VOD titles! **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Ambient1A
@@ -3965,51 +4011,49 @@ https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Ambient1A
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Ambient2
 #EXTINF:-1 tvg-id="USBB1000002TK" tvg-logo="https://od.lk/s/MF8yMzQyMjQwNzhf/LoupeArt_240x240.png" group-title="Ambient TV + Radio",Loupe 4K | Samsung TV Plus US
 https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8?ads.device_did%3D%7BPSID%7D%26ads.device_dnt%3D%7BTARGETOPT%7D%26ads.us_privacy%3D1YNY%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D&groupAmbient
-#EXTINF:-1 tvg-id="USBA3800004EL" tvg-logo="https://od.lk/s/MF8yNjA2MjA4Mzhf/Fireplace_640x640.png" group-title="Ambient TV + Radio",Fireplace 4K  | Samsung TV Plus US
-https://d83tn4bh2lria.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-af0ty8yffo1e1-prod/amgfireplace4k/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&groupAmbient
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Ambient TV + Radio",â˜…â˜… Bumblebee.tv â˜…â˜…
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Ambient3
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY5NDMyMDZf/BumblebeeTV_Generic.png" group-title="Ambient TV + Radio",LEGO Toons TV | HD
+#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNDY5NDMyMDZf/BumblebeeTV_Generic.png" group-title="Ambient TV + Radio",LEGO Toons TV | HD
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY5NDMyMDZf/BumblebeeTV_Generic.png" group-title="Ambient TV + Radio",Animals Live | HD
+#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNDY5NDMyMDZf/BumblebeeTV_Generic.png" group-title="Ambient TV + Radio",Animals Live | HD
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY5NDMyMDZf/BumblebeeTV_Generic.png" group-title="Ambient TV + Radio",Forests Live | HD
+#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNDY5NDMyMDZf/BumblebeeTV_Generic.png" group-title="Ambient TV + Radio",Forests Live | HD
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY5NDMyMDZf/BumblebeeTV_Generic.png" group-title="Ambient TV + Radio",Rivers & Streams Live | HD
+#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNDY5NDMyMDZf/BumblebeeTV_Generic.png" group-title="Ambient TV + Radio",Rivers & Streams Live | HD
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Ambient TV + Radio",â˜…â˜… Webcams â˜…â˜…
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?AmbientWebcams
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV + Radio",Cheetah Cub Cam | 1
+#EXTINF:-1 tvg-id="I9686.64155.zap2it.com" tvg-type="live"tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV + Radio",Cheetah Cub Cam | 1
 https://nzp-ms05.si.edu/live_edge_cheetah_01/cheetah_y01_01_1080_all.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV + Radio",Cheetah Cub Cam | 2
+#EXTINF:-1 tvg-id="I9686.64155.zap2it.com" tvg-type="live"tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV + Radio",Cheetah Cub Cam | 2
 https://nzp-ms06.si.edu/live_edge_cheetah_02/cheetah_y01_02_1080_all.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV + Radio",Naked Mole-rat Cam | 1
+#EXTINF:-1 tvg-id="I9686.64155.zap2it.com" tvg-type="live"tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV + Radio",Naked Mole-rat Cam | 1
 https://nzp-ms04.si.edu/live_edge_nmr/nmr_1080_all.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV + Radio",Naked Mole-rat Cam | 2
+#EXTINF:-1 tvg-id="I9686.64155.zap2it.com" tvg-type="live"tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV + Radio",Naked Mole-rat Cam | 2
 https://nzp-ms06.si.edu/live_edge_nmr_02/nmr_02_1080_all.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV + Radio",Lion Cam
+#EXTINF:-1 tvg-id="I9686.64155.zap2it.com" tvg-type="live"tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV + Radio",Lion Cam
 https://nzp-ms05.si.edu/live_edge_lion/smil:lion01_all.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV + Radio",Giant Panda Cam | 1
+#EXTINF:-1 tvg-id="I9686.64155.zap2it.com" tvg-type="live"tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV + Radio",Giant Panda Cam | 1
 https://nzp-ms06.si.edu/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV + Radio",Giant Panda Cam | 2
+#EXTINF:-1 tvg-id="I9686.64155.zap2it.com" tvg-type="live"tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV + Radio",Giant Panda Cam | 2
 https://nzp-ms06.si.edu/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV + Radio",Elephant Cam
+#EXTINF:-1 tvg-id="I9686.64155.zap2it.com" tvg-type="live"tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Ambient TV + Radio",Elephant Cam
 https://nzp-ms06.si.edu/live_edge_elephant/elephant01_all.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDM5MTNf/Generic-Webcam.png" group-title="Ambient TV + Radio",Times Square Cam
+#EXTINF:-1 tvg-id="I9686.64155.zap2it.com" tvg-type="live"tvg-logo="https://od.lk/s/MF8yMzIyMDM5MTNf/Generic-Webcam.png" group-title="Ambient TV + Radio",Times Square Cam
 https://videos3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist_w2120301051.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDM5MTNf/Generic-Webcam.png" group-title="Ambient TV + Radio",Niagara Falls WebCam
+#EXTINF:-1 tvg-id="I9686.64155.zap2it.com" tvg-type="live"tvg-logo="https://od.lk/s/MF8yMzIyMDM5MTNf/Generic-Webcam.png" group-title="Ambient TV + Radio",Niagara Falls WebCam
 https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/4559/2019/08/11/1300.mp4/chunklist_w1595912559.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDM5MTNf/Generic-Webcam.png" group-title="Ambient TV + Radio",London UK Abbey Road WebCam
+#EXTINF:-1 tvg-id="I9686.64155.zap2it.com" tvg-type="live"tvg-logo="https://od.lk/s/MF8yMzIyMDM5MTNf/Generic-Webcam.png" group-title="Ambient TV + Radio",London UK Abbey Road WebCam
 https://videos3.earthcam.com/fecnetwork/AbbeyRoadHD1.flv/chunklist_w1096421812.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDM5MTNf/Generic-Webcam.png" group-title="Ambient TV + Radio",Rio Copacabana Beach WebCam
+#EXTINF:-1 tvg-id="I9686.64155.zap2it.com" tvg-type="live"tvg-logo="https://od.lk/s/MF8yMzIyMDM5MTNf/Generic-Webcam.png" group-title="Ambient TV + Radio",Rio Copacabana Beach WebCam
 https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/6593/2017/10/01/1300.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Ambient TV + Radio",ðŸŽ¶ Ambient Radio ðŸŽ¶
 https://od.lk/s/MF8yNDY3OTI1NTFf/OldRadio.mp4?AmbientRadio
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Ambient TV + Radio",ðŸŽ¶ Planet Ambi HD Radio - Music For Sleep & Meditation & Relaxation ðŸŽ¶ https://www.planetambi.com
 https://od.lk/s/MF8yNDY3OTI1NTFf/OldRadio.mp4?PlanetAmbi
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzQzMTY2ODhf/PlanetAmbi_Radio_512x512.png" group-title="Ambient TV + Radio" radio="true",Planet Ambi HD Radio
+#EXTINF:-1 tvg-id="I9833.22564.zap2it.com" radio="true" tvg-logo="https://od.lk/s/MF8yMzQzMTY2ODhf/PlanetAmbi_Radio_512x512.png" group-title="Ambient TV + Radio",Planet Ambi HD Radio
 http://philae.shoutca.st:9019/stream
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzQzMTY2ODhf/PlanetAmbi_Radio_512x512.png" group-title="Ambient TV + Radio" radio="true",Ambi Nature Radio (Sleep & Relaxation & Meditation)
+#EXTINF:-1 tvg-id="I9833.22564.zap2it.com" radio="true" tvg-logo="https://od.lk/s/MF8yMzQzMTY2ODhf/PlanetAmbi_Radio_512x512.png" group-title="Ambient TV + Radio",Ambi Nature Radio (Sleep & Relaxation & Meditation)
 http://94.23.252.14:8067/stream
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Ambient TV + Radio",â˜…â˜… Video On Demand â˜…â˜…
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?AmbientVOD1
@@ -4462,6 +4506,10 @@ https://ga.video.cdn.pbs.org/videos/lakeshore-classic-movies/9f013a69-3fa0-418c-
 https://ga.video.cdn.pbs.org/videos/lakeshore-classic-movies/54314285-1a31-4d5f-a8d6-7de4a9f3b0d7/2000206392/hd-16x9-mezzanine-1080p/a-christmas-wish-hls-16x9-1080p.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNTQ4NjI1NjVf/LCM_PBS_743x743.png" group-title="Lakeshore Classic Movies | VOD",The Strange Love of Martha Ivers (1946) [cc] (02/06/20)
 https://ga.video.cdn.pbs.org/videos/lakeshore-classic-movies/1b806cf6-9c9a-4b56-ab88-9553ea551766/2000230493/hd-16x9-mezzanine-1080p/strange-love-of-martha-ivers_h264-hls-16x9-1080p.m3u8
+#EXTINF:-1 tvg-id="I112.10089.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="DD - Quebec TV",ICI Tele (Montreal) (Geo)
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
+#EXTINF:-1 tvg-id="I111.16732.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="DD - Quebec TV",ICI Tele (Quebec)
+https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_2500.m3u8
 #EXTINF:-1 tvg-id="I94.16378.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVA_540x540.png?raw=true" group-title="DD - Quebec TV",TVA (Geo)
 https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
 #EXTINF:-1 tvg-id="I127.17590.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LCN_640x640.png?raw=true" group-title="DD - Quebec TV",Le Canal Nouvelles [TEMP]
@@ -4480,6 +4528,24 @@ http://diffusionm3.assnat.qc.ca/canal10/250.sdp/chunklist.m3u8?checkedby:hlscat.
 https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
 #EXTINF:-1 tvg-id="I208.10097.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="DD - CBC TV Canada (Geo)",CBC Ottawa
 https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
+#EXTINF:-1 tvg-id="I119.15977.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="DD - ICI Tele Canada (Geo)",ICI Tele Alberta
+https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master_2500.m3u8
+#EXTINF:-1 tvg-id="I95.18291.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="DD - ICI Tele Canada (Geo)",ICI Tele Est-Quebec
+https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master_2500.m3u8
+#EXTINF:-1 tvg-id="I108.10134.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="DD - ICI Tele Canada (Geo)",ICI Tele Estrie
+https://rcavlive.akamaized.net/hls/live/704016/cancksh/master_2500.m3u8
+#EXTINF:-1 tvg-id="I118.16731.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="DD - ICI Tele Canada (Geo)",ICI Tele Manitoba
+https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master_2500.m3u8
+#EXTINF:-1 tvg-id="I542.16831.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="DD - ICI Tele Canada (Geo)",ICI Tele Mauricie
+https://rcavlive.akamaized.net/hls/live/704021/cancktm/master_2500.m3u8
+#EXTINF:-1 tvg-id="I99.10090.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="DD - ICI Tele Canada (Geo)",ICI Tele Ontario
+https://rcavlive.akamaized.net/hls/live/704022/cancblft/master_2500.m3u8
+#EXTINF:-1 tvg-id="I125.16017.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="DD - ICI Tele Canada (Geo)",ICI Tele Ottawa-Gatineau
+https://rcavlive.akamaized.net/hls/live/664046/cancboft/master_2500.m3u8
+#EXTINF:-1 tvg-id="I97.17369.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="DD - ICI Tele Canada (Geo)",ICI Tele Saguenay
+https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_2500.m3u8
+#EXTINF:-1 tvg-id="I98.15989.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="DD - ICI Tele Canada (Geo)",ICI Tele Saskatchewan
+https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_2500.m3u8
 #EXTINF:-1 tvg-id="I69.15976.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GlobalNews_650x650.png?raw=true" group-title="DD - Global News Canada",Global News Calgary
 https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8
 #EXTINF:-1 tvg-id="I240.10124.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GlobalNews_650x650.png?raw=true" group-title="DD - Global News Canada",Global News Edmonton
