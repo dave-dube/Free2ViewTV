@@ -3986,7 +3986,7 @@ https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8
 https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8
 #EXTINF:-1 tvg-id="I730.73029.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png" group-title="CBC TV | ICI TÃ©lÃ© (Geo-CA)",ICI TÃ©lÃ© Manitoba
 https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8
-#EXTINF:-1 tvg-id="I709.72986.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png" group-title="CBC TV | ICI TÃ©lÃ© (Geo-CA)",ICI TÃ©lÃ© Mauricie
+#EXTINF:-1 tvg-id="I111.16732.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="DD - Quebec TV",ICI Tele (CentreDuQuebec)
 https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
 #EXTINF:-1 tvg-id="I701.45867.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png" group-title="CBC TV | ICI TÃ©lÃ© (Geo-CA)",ICI TÃ©lÃ© MontrÃ©al (Sc.1)
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
@@ -4879,6 +4879,8 @@ https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
 https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_3000.m3u8
 #EXTINF:-1 tvg-id="I127.17590.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LCN_640x640.png?raw=true" group-title="DD - Quebec TV",Le Canal Nouvelles
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DD - Quebec TV",Tele-Mag
+https://ythlsgo.onrender.com/channel/UCNKXYT-Nng5LBMUQrZJ9zWA.m3u8
 #EXTINF:-1 tvg-id="I232.105401.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ICI-Television_292x292.png?raw=true" group-title="DD - Quebec TV",ICI Television
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1 tvg-id="I136.44962.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/66003/s66003_h3_aa.png?w=55" group-title="DD - VPN",addik TV
@@ -4890,7 +4892,7 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/680603/1242843915001_2/master.m3
 #EXTINF:-1 tvg-id="I148.16133.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ANDQ_603x603.png?raw=true" group-title="DD - Quebec TV",Assemblee Nationale du QC
 http://diffusionm3.assnat.qc.ca/canal10/250.sdp/chunklist.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="I145.11185.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV5Monde_855x855.png?raw=true" group-title="DD - Quebec TV",France | TV5 Monde Info
-https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="I197.17398.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="DD - CBC TV Canada (Geo)",CBC Charlottetown
 https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
 #EXTINF:-1 tvg-id="I230.15941.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="DD - CBC TV Canada (Geo)",CBC Edmonton
