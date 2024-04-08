@@ -3755,7 +3755,7 @@ https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8?Canada
 https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8?Canada
 #EXTINF:-1 tvg-id="I152.15747.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CanalSavoir_363x363.png?raw=true" group-title="DD - Quebec TV",Canal Savoir CFTU ICIQC
 https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 tvg-id="I94.16378.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDU0MDY2MDZf/TVA_540x540.png" group-title="DD - Quebec TV",TVA
+#EXTINF:-1 tvg-id="I734.58759.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNDU0MDY2MDZf/TVA_540x540.png" group-title="Canada",TVA (Geo-CA) (Sc.1A)
 https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8
 #EXTINF:-1 tvg-id="I734.58759.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNDU0MDY2MDZf/TVA_540x540.png" group-title="Canada",TVA (Geo-CA) (Sc.1B)
 https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8?__nn__=5529128749001&hdnea=st=1640215800~exp=1640219400~acl=/*~hmac=22c8e0acd9da195a856e6294006b41985438cd85f8de6123d7dacd616670bd02
@@ -4877,6 +4877,8 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_3000.m3u8
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
 #EXTINF:-1 tvg-id="I111.16732.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="DD - Quebec TV",ICI Tele (Quebec)
 https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_3000.m3u8
+#EXTINF:-1 tvg-id="I94.16378.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDU0MDY2MDZf/TVA_540x540.png" group-title="DD - Quebec TV",TVA
+https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8?__nn__=5529128749001&hdnea=st=1712617200~exp=1712620800~acl=/*~hmac=235b20e8a565baf81c7a60503b801ada5c42d6febf64d8e7ca57c6d2ea1876f6
 #EXTINF:-1 tvg-id="I127.17590.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LCN_640x640.png?raw=true" group-title="DD - Quebec TV",Le Canal Nouvelles
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DD - Quebec TV",Tele-Mag
