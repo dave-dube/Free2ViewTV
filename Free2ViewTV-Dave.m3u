@@ -3761,7 +3761,7 @@ https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8
 https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8?__nn__=5529128749001&hdnea=st=1640215800~exp=1640219400~acl=/*~hmac=22c8e0acd9da195a856e6294006b41985438cd85f8de6123d7dacd616670bd02
 #EXTINF:-1 tvg-id="I734.58759.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNDU0MDY2MDZf/TVA_540x540.png" group-title="Canada",TVA (Geo-CA) (Sc.2)
 https://dai.google.com/linear/hls/event/5DUWih-wSeOUg9zszuE-Jw/master.m3u8
-#EXTINF:-1 tvg-id="I138.15987.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleQuebecCA.png" group-title="DD - Quebec TV",Tele-Quebec
+#EXTINF:-1 tvg-id="I735.63040.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNDU0MDY3MDFf/TeleQuebecCA_535x535.png" group-title="Canada",TÃ©lÃ©-QuÃ©bec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 #EXTINF:-1 tvg-id="I540.17383.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Noovo_608x608.png?raw=true" group-title="DD - Quebec TV",noovo
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
@@ -4943,6 +4943,8 @@ https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/ind
 https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index.m3u8
 #EXTINF:-1 tvg-id="I211.10130.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GlobalNews_650x650.png?raw=true" group-title="DD - Global News Canada",Global News Toronto
 https://d128o1k7zh3htz.cloudfront.net/out/v1/74a58360a3734f97b74ba439bc678044/index.m3u8
+#EXTINF:-1 tvg-id="I138.15987.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleQuebecCA.png" group-title="DD - Quebec TV",Tele-Quebec
+https://bcovlive-a.akamaihd.net/329d54c0bae445ff8dc85b8a91da0308/us-west-2/6101674910001/profile_3/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dave-dube/Free2ViewTV/blob/master/images/hippo.png?raw=true" group-title="Nature Cams",Hippo Cam (San Diego)
 https://zssd-hippo.hls.camzonecdn.com/CamzoneStreams/zssd-hippo/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/dave-dube/Free2ViewTV/blob/master/images/ornithorynque.png?raw=true" group-title="Nature Cams",Ornithorynque Cam (San Diego)
