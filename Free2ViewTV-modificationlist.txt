@@ -16,6 +16,12 @@ https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 https://ythlsgo.onrender.com/channel/UCNKXYT-Nng5LBMUQrZJ9zWA.m3u8
 #EXTINF:-1 tvg-id="I540.17383.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Noovo_608x608.png?raw=true" group-title="DD - Quebec TV",noovo
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
+#EXTINF:-1 tvg-id="",Noovo Cinéma (1080p)
+https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
+#EXTINF:-1 tvg-id="",Noovo Comédies (1080p)
+https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6x2p3ho0vw00a/Noovo_Comedies_Home.m3u8
+#EXTINF:-1 tvg-id="",Noovo Téléréalités (1080p)
+https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8
 #EXTINF:-1 tvg-id="I232.105401.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ICI-Television_292x292.png?raw=true" group-title="DD - Quebec TV",ICI Television
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1 tvg-id="I152.15747.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CanalSavoir_363x363.png?raw=true" group-title="DD - Quebec TV",Canal Savoir CFTU ICIQC
